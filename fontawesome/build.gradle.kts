@@ -1,10 +1,10 @@
 plugins {
-	id 'org.jetbrains.kotlin.multiplatform' version '1.5.0'
-	id 'maven-publish'
+	kotlin("multiplatform") version "1.5.0"
+	id("maven-publish")
 }
 
-group = 'de.msrd0.fontawesome'
-version = '0.1.0'
+group = "de.msrd0.fontawesome"
+version = "0.1.0"
 
 repositories {
 	mavenCentral()
@@ -15,15 +15,26 @@ kotlin {
 	
 	sourceSets {
 		commonMain {
-			kotlin.srcDirs = ["src/"]
+			kotlin.srcDir("src/")
 		}
 	}
 }
 
-def repo = "https://github.com/msrd0/fontawesome-kt"
+val repo = "https://github.com/msrd0/fontawesome-kt"
 publishing {
+	repositories {
+		maven {
+			name = "GitHubPackages"
+			url = uri(repo.replace("github.com", "maven.pkg.github.com"))
+			credentials {
+				username = System.getenv("GITHUB_USERNAME") ?: "msrd0"
+				password = System.getenv("GITHUB_TOKEN")
+			}
+		}
+	}
+	
 	publications {
-		maven(MavenPublication) {
+		create<MavenPublication>("maven") {
 			pom {
 				name.set("Kotlin FontAwesome Metadata")
 				description.set("Contains metadata about all icons included in Font Awesome.")
