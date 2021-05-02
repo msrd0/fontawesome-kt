@@ -1,0 +1,27 @@
+name: Kotlin
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  codegen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: recursive
+      - run: |
+          cd codegen
+          gradle run
+      - run: git diff --exit-code fontawesome/
+  
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          cd fontawesome
+          gradle check
