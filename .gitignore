@@ -1,0 +1,11 @@
+# emacs
+*~
+\#*#
+
+# intellij
+.idea/
+.attach_pid*
+
+# gradle
+build/
+.gradle/

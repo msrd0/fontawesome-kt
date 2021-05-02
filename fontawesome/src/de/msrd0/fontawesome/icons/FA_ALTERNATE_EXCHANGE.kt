@@ -1,0 +1,39 @@
+/* @generated
+ *
+ * This file is part of the FontAwesome Kotlin library.
+ * https://github.com/msrd0/fontawesome-kt
+ *
+ * This library is not affiliated with FontAwesome. 
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     https://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+package de.msrd0.fontawesome.icons
+
+import de.msrd0.fontawesome.Icon
+import de.msrd0.fontawesome.Style
+import de.msrd0.fontawesome.Style.SOLID
+
+object FA_ALTERNATE_EXCHANGE: Icon {
+	
+	override val name get() = "Alternate Exchange"
+	
+	override val unicode get() = "f362"
+	
+	override val styles get() = setOf(SOLID)
+	
+	override fun svg(style: Style) = when(style) {
+		SOLID -> """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 168v-16c0-13.255 10.745-24 24-24h360V80c0-21.367 25.899-32.042 40.971-16.971l80 80c9.372 9.373 9.372 24.569 0 33.941l-80 80C409.956 271.982 384 261.456 384 240v-48H24c-13.255 0-24-10.745-24-24zm488 152H128v-48c0-21.314-25.862-32.08-40.971-16.971l-80 80c-9.372 9.373-9.372 24.569 0 33.941l80 80C102.057 463.997 128 453.437 128 432v-48h360c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"/></svg>"""
+		else -> null
+	}
+	
+}

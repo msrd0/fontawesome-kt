@@ -1,0 +1,27 @@
+{% include "header.j2" -%}
+package de.msrd0.fontawesome
+
+/**
+ * This interface is implemented for every FontAwesome icon. 
+ */
+interface Icon {
+	/**
+	 * The name of this icon.
+	 */
+	val name: String
+	
+	/**
+	 * The 4-digit hex unicode of the icon.
+	 */
+	val unicode: String
+	
+	/**
+	 * The styles this icon is available in.
+	 */
+	val styles: Set<Style>
+	
+	/**
+	 * Return the SVG of this icon, or `null` if no SVG is available.
+	 */
+	fun svg(style: Style) : String?
+}

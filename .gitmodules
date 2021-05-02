@@ -1,0 +1,3 @@
+[submodule "codegen/font-awesome"]
+	path = codegen/font-awesome
+	url = https://github.com/fortawesome/font-awesome
