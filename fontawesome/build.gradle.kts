@@ -11,7 +11,16 @@ repositories {
 }
 
 kotlin {
-	jvm()
+	jvm {
+		attributes {
+			attribute(TargetJvmVersion.TARGET_JVM_VERSION_ATTRIBUTE, 8)
+		}
+		compilations.all {
+			kotlinOptions {
+				jvmTarget = "1.8"
+			}
+		}
+	}
 	
 	sourceSets {
 		commonMain {
@@ -34,7 +43,7 @@ publishing {
 	}
 	
 	publications {
-		create<MavenPublication>("maven") {
+		withType<MavenPublication> {
 			pom {
 				name.set("Kotlin FontAwesome Metadata")
 				description.set("Contains metadata about all icons included in Font Awesome.")
