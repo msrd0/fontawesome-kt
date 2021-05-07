@@ -33,12 +33,10 @@ val repo = "https://github.com/msrd0/fontawesome-kt"
 publishing {
 	repositories {
 		maven {
-			name = "GitHubPackages"
-			url = uri(repo.replace("github.com", "maven.pkg.github.com"))
-			credentials {
-				username = System.getenv("GITHUB_USERNAME") ?: "msrd0"
-				password = System.getenv("GITHUB_TOKEN")
-			}
+			// first, download https://msrd0cdn.de/maven/ to /tmp/repo
+			// then, run `gradle publish`
+			// last, upload the changes from /tmp/repo
+			url = uri("file:/tmp/repo/")
 		}
 	}
 	

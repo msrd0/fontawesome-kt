@@ -9,7 +9,7 @@ This library is not affiliated with FontAwesome.
 ```gradle
 repositories {
 	mavenCentral()
-	maven { url = uri("https://maven.pkg.github.com/msrd0/fontawesome-kt") }
+	maven { url = uri("https://msrd0cdn.de/maven/") }
 }
 
 dependencies {
@@ -17,3 +17,7 @@ dependencies {
 	implementation "de.msrd0.fontawesome:fontawesome:<version>"
 }
 ```
+
+> Why is this library not available on Maven Central?
+
+Because I don't beg for the "priviledge" to share my code with others.
