@@ -20,4 +20,4 @@ dependencies {
 
 > Why is this library not available on Maven Central?
 
-Because I don't beg for the "priviledge" to share my code with others.
+Because I don't beg for the "privilege" to share my code with others.
