@@ -1,6 +1,6 @@
 buildscript {
 	ext.kotlinVersion = '1.5.20'
-	ext.kotlinxSerializationVersion = '1.2.1'
+	ext.kotlinxSerializationVersion = '1.2.2'
 	ext.pebbleVersion = '3.1.5'
 	
 	repositories {
