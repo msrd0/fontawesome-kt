@@ -3,7 +3,7 @@ updates:
   - package-ecosystem: gradle
     directory: 'codegen'
     schedule:
-      interval: daily
+      interval: weekly
       time: '06:00'
       timezone: 'Europe/Amsterdam'
     labels:
@@ -14,7 +14,7 @@ updates:
   - package-ecosystem: gradle
     directory: 'fontawesome'
     schedule:
-      interval: daily
+      interval: weekly
       time: '06:00'
       timezone: 'Europe/Amsterdam'
     labels:
