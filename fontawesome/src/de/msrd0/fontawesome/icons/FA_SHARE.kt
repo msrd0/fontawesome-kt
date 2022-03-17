@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Share */
 object FA_SHARE: Icon {
 	
 	override val name get() = "Share"
@@ -38,6 +39,8 @@ object FA_SHARE: Icon {
 	
 }
 
+/** Alias for [FA_SHARE]. */
 val FA_ARROW_TURN_RIGHT = FA_SHARE
 
+/** Alias for [FA_SHARE]. */
 val FA_MAIL_FORWARD = FA_SHARE

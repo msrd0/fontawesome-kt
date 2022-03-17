@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bridge Lock */
 object FA_BRIDGE_LOCK: Icon {
 	
 	override val name get() = "Bridge Lock"

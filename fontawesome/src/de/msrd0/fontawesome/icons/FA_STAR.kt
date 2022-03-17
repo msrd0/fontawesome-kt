@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Star */
 object FA_STAR: Icon {
 	
 	override val name get() = "Star"

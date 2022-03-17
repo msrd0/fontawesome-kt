@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Wand sparkles */
 object FA_WAND_SPARKLES: Icon {
 	
 	override val name get() = "Wand sparkles"

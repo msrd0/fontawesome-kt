@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Gears */
 object FA_GEARS: Icon {
 	
 	override val name get() = "Gears"
@@ -38,4 +39,5 @@ object FA_GEARS: Icon {
 	
 }
 
+/** Alias for [FA_GEARS]. */
 val FA_COGS = FA_GEARS

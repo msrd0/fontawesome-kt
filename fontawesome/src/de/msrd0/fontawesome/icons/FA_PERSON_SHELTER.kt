@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Shelter */
 object FA_PERSON_SHELTER: Icon {
 	
 	override val name get() = "Person Shelter"

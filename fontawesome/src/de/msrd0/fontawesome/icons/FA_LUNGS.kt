@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Lungs */
 object FA_LUNGS: Icon {
 	
 	override val name get() = "Lungs"

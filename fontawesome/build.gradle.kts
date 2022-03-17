@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "de.msrd0.fontawesome"
-version = "0.1.0"
+version = "0.2.0+6.1.0"
 
 repositories {
 	mavenCentral()

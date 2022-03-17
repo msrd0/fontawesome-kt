@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Baseball bat ball */
 object FA_BASEBALL_BAT_BALL: Icon {
 	
 	override val name get() = "Baseball bat ball"

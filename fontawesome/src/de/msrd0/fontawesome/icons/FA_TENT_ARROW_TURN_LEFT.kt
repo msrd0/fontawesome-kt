@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tent Arrow-turn-left */
 object FA_TENT_ARROW_TURN_LEFT: Icon {
 	
 	override val name get() = "Tent Arrow-turn-left"

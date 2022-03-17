@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Forward step */
 object FA_FORWARD_STEP: Icon {
 	
 	override val name get() = "Forward step"
@@ -38,4 +39,5 @@ object FA_FORWARD_STEP: Icon {
 	
 }
 
+/** Alias for [FA_FORWARD_STEP]. */
 val FA_STEP_FORWARD = FA_FORWARD_STEP

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ice Cream */
 object FA_ICE_CREAM: Icon {
 	
 	override val name get() = "Ice Cream"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Filter */
 object FA_FILTER: Icon {
 	
 	override val name get() = "Filter"

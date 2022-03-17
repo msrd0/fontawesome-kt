@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Pizza Slice */
 object FA_PIZZA_SLICE: Icon {
 	
 	override val name get() = "Pizza Slice"

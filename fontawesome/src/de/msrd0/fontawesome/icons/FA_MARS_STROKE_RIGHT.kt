@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mars stroke right */
 object FA_MARS_STROKE_RIGHT: Icon {
 	
 	override val name get() = "Mars stroke right"
@@ -38,4 +39,5 @@ object FA_MARS_STROKE_RIGHT: Icon {
 	
 }
 
+/** Alias for [FA_MARS_STROKE_RIGHT]. */
 val FA_MARS_STROKE_H = FA_MARS_STROKE_RIGHT

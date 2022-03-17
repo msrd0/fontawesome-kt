@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Circle pause */
 object FA_CIRCLE_PAUSE: Icon {
 	
 	override val name get() = "Circle pause"
@@ -40,4 +41,5 @@ object FA_CIRCLE_PAUSE: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_PAUSE]. */
 val FA_PAUSE_CIRCLE = FA_CIRCLE_PAUSE

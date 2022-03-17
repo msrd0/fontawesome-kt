@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bed pulse */
 object FA_BED_PULSE: Icon {
 	
 	override val name get() = "Bed pulse"
@@ -38,4 +39,5 @@ object FA_BED_PULSE: Icon {
 	
 }
 
+/** Alias for [FA_BED_PULSE]. */
 val FA_PROCEDURES = FA_BED_PULSE

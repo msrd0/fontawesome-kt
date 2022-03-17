@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mortar Pestle */
 object FA_MORTAR_PESTLE: Icon {
 	
 	override val name get() = "Mortar Pestle"

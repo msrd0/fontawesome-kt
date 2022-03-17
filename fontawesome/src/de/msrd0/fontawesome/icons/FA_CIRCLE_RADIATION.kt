@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Circle radiation */
 object FA_CIRCLE_RADIATION: Icon {
 	
 	override val name get() = "Circle radiation"
@@ -38,4 +39,5 @@ object FA_CIRCLE_RADIATION: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_RADIATION]. */
 val FA_RADIATION_ALT = FA_CIRCLE_RADIATION

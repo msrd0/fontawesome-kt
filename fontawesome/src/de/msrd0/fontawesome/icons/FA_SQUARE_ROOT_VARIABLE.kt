@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square root variable */
 object FA_SQUARE_ROOT_VARIABLE: Icon {
 	
 	override val name get() = "Square root variable"
@@ -38,4 +39,5 @@ object FA_SQUARE_ROOT_VARIABLE: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_ROOT_VARIABLE]. */
 val FA_SQUARE_ROOT_ALT = FA_SQUARE_ROOT_VARIABLE

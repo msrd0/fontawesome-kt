@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow pointer */
 object FA_ARROW_POINTER: Icon {
 	
 	override val name get() = "Arrow pointer"
@@ -38,4 +39,5 @@ object FA_ARROW_POINTER: Icon {
 	
 }
 
+/** Alias for [FA_ARROW_POINTER]. */
 val FA_MOUSE_POINTER = FA_ARROW_POINTER

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mask Ventilator */
 object FA_MASK_VENTILATOR: Icon {
 	
 	override val name get() = "Mask Ventilator"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tachograph digital */
 object FA_TACHOGRAPH_DIGITAL: Icon {
 	
 	override val name get() = "Tachograph digital"
@@ -38,4 +39,5 @@ object FA_TACHOGRAPH_DIGITAL: Icon {
 	
 }
 
+/** Alias for [FA_TACHOGRAPH_DIGITAL]. */
 val FA_DIGITAL_TACHOGRAPH = FA_TACHOGRAPH_DIGITAL

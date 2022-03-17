@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ribbon */
 object FA_RIBBON: Icon {
 	
 	override val name get() = "Ribbon"

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Circle dot */
 object FA_CIRCLE_DOT: Icon {
 	
 	override val name get() = "Circle dot"
@@ -40,4 +41,5 @@ object FA_CIRCLE_DOT: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_DOT]. */
 val FA_DOT_CIRCLE = FA_CIRCLE_DOT

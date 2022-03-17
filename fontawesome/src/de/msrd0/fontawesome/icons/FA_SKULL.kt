@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Skull */
 object FA_SKULL: Icon {
 	
 	override val name get() = "Skull"

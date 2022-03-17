@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** inbox */
 object FA_INBOX: Icon {
 	
 	override val name get() = "inbox"

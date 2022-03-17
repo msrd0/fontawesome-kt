@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Not Equal */
 object FA_NOT_EQUAL: Icon {
 	
 	override val name get() = "Not Equal"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** signal */
 object FA_SIGNAL: Icon {
 	
 	override val name get() = "signal"
@@ -38,6 +39,8 @@ object FA_SIGNAL: Icon {
 	
 }
 
+/** Alias for [FA_SIGNAL]. */
 val FA_SIGNAL_5 = FA_SIGNAL
 
+/** Alias for [FA_SIGNAL]. */
 val FA_SIGNAL_PERFECT = FA_SIGNAL

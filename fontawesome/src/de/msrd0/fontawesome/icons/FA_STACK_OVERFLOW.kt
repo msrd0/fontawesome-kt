@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Stack Overflow */
 object FA_STACK_OVERFLOW: Icon {
 	
 	override val name get() = "Stack Overflow"

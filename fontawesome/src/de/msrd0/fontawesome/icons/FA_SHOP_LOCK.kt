@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shop Lock */
 object FA_SHOP_LOCK: Icon {
 	
 	override val name get() = "Shop Lock"

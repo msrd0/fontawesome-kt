@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Traffic Light */
 object FA_TRAFFIC_LIGHT: Icon {
 	
 	override val name get() = "Traffic Light"

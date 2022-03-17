@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Code Branch */
 object FA_CODE_BRANCH: Icon {
 	
 	override val name get() = "Code Branch"

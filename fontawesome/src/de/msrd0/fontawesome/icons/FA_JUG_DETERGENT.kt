@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Jug Detergent */
 object FA_JUG_DETERGENT: Icon {
 	
 	override val name get() = "Jug Detergent"

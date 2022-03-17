@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tent Arrow-down-to-line */
 object FA_TENT_ARROW_DOWN_TO_LINE: Icon {
 	
 	override val name get() = "Tent Arrow-down-to-line"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shuttle space */
 object FA_SHUTTLE_SPACE: Icon {
 	
 	override val name get() = "Shuttle space"
@@ -38,4 +39,5 @@ object FA_SHUTTLE_SPACE: Icon {
 	
 }
 
+/** Alias for [FA_SHUTTLE_SPACE]. */
 val FA_SPACE_SHUTTLE = FA_SHUTTLE_SPACE

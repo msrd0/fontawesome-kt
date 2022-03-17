@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square envelope */
 object FA_SQUARE_ENVELOPE: Icon {
 	
 	override val name get() = "Square envelope"
@@ -38,4 +39,5 @@ object FA_SQUARE_ENVELOPE: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_ENVELOPE]. */
 val FA_ENVELOPE_SQUARE = FA_SQUARE_ENVELOPE

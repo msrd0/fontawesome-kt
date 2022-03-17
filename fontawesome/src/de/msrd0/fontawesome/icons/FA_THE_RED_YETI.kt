@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** The Red Yeti */
 object FA_THE_RED_YETI: Icon {
 	
 	override val name get() = "The Red Yeti"

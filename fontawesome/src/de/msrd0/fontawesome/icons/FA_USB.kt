@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** USB */
 object FA_USB: Icon {
 	
 	override val name get() = "USB"

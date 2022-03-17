@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hotel */
 object FA_HOTEL: Icon {
 	
 	override val name get() = "Hotel"

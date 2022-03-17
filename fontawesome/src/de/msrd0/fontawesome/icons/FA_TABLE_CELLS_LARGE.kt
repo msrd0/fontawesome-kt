@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Table cells large */
 object FA_TABLE_CELLS_LARGE: Icon {
 	
 	override val name get() = "Table cells large"
@@ -38,4 +39,5 @@ object FA_TABLE_CELLS_LARGE: Icon {
 	
 }
 
+/** Alias for [FA_TABLE_CELLS_LARGE]. */
 val FA_TH_LARGE = FA_TABLE_CELLS_LARGE

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Pen ruler */
 object FA_PEN_RULER: Icon {
 	
 	override val name get() = "Pen ruler"
@@ -38,4 +39,5 @@ object FA_PEN_RULER: Icon {
 	
 }
 
+/** Alias for [FA_PEN_RULER]. */
 val FA_PENCIL_RULER = FA_PEN_RULER

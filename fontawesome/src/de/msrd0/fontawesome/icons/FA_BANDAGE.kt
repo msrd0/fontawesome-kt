@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bandage */
 object FA_BANDAGE: Icon {
 	
 	override val name get() = "Bandage"
@@ -38,4 +39,5 @@ object FA_BANDAGE: Icon {
 	
 }
 
+/** Alias for [FA_BANDAGE]. */
 val FA_BAND_AID = FA_BANDAGE

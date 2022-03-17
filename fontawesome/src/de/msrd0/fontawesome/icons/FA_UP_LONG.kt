@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Up long */
 object FA_UP_LONG: Icon {
 	
 	override val name get() = "Up long"
@@ -38,4 +39,5 @@ object FA_UP_LONG: Icon {
 	
 }
 
+/** Alias for [FA_UP_LONG]. */
 val FA_LONG_ARROW_ALT_UP = FA_UP_LONG

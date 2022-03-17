@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Comment sms */
 object FA_COMMENT_SMS: Icon {
 	
 	override val name get() = "Comment sms"
@@ -38,4 +39,5 @@ object FA_COMMENT_SMS: Icon {
 	
 }
 
+/** Alias for [FA_COMMENT_SMS]. */
 val FA_SMS = FA_COMMENT_SMS

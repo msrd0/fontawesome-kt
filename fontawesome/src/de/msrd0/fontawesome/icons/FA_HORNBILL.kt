@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Hornbill */
 object FA_HORNBILL: Icon {
 	
 	override val name get() = "Hornbill"

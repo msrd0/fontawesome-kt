@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Rotate Left */
 object FA_ROTATE_LEFT: Icon {
 	
 	override val name get() = "Rotate Left"
@@ -38,8 +39,11 @@ object FA_ROTATE_LEFT: Icon {
 	
 }
 
+/** Alias for [FA_ROTATE_LEFT]. */
 val FA_ROTATE_BACK = FA_ROTATE_LEFT
 
+/** Alias for [FA_ROTATE_LEFT]. */
 val FA_ROTATE_BACKWARD = FA_ROTATE_LEFT
 
+/** Alias for [FA_ROTATE_LEFT]. */
 val FA_UNDO_ALT = FA_ROTATE_LEFT

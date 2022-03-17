@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Table columns */
 object FA_TABLE_COLUMNS: Icon {
 	
 	override val name get() = "Table columns"
@@ -38,4 +39,5 @@ object FA_TABLE_COLUMNS: Icon {
 	
 }
 
+/** Alias for [FA_TABLE_COLUMNS]. */
 val FA_COLUMNS = FA_TABLE_COLUMNS

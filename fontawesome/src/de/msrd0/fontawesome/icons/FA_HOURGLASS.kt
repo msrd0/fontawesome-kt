@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Hourglass */
 object FA_HOURGLASS: Icon {
 	
 	override val name get() = "Hourglass"
@@ -40,6 +41,8 @@ object FA_HOURGLASS: Icon {
 	
 }
 
+/** Alias for [FA_HOURGLASS]. */
 val FA_HOURGLASS_2 = FA_HOURGLASS
 
+/** Alias for [FA_HOURGLASS]. */
 val FA_HOURGLASS_HALF = FA_HOURGLASS

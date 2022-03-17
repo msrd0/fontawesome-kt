@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Git Alt */
 object FA_GIT_ALT: Icon {
 	
 	override val name get() = "Git Alt"

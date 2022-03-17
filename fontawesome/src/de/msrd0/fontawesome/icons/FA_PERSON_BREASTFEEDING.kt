@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Breastfeeding */
 object FA_PERSON_BREASTFEEDING: Icon {
 	
 	override val name get() = "Person Breastfeeding"

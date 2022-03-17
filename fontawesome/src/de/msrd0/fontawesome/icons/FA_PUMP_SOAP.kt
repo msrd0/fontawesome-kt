@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Pump Soap */
 object FA_PUMP_SOAP: Icon {
 	
 	override val name get() = "Pump Soap"

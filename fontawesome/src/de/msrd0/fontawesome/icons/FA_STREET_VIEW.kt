@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Street View */
 object FA_STREET_VIEW: Icon {
 	
 	override val name get() = "Street View"

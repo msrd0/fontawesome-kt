@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** camera */
 object FA_CAMERA: Icon {
 	
 	override val name get() = "camera"
@@ -38,4 +39,5 @@ object FA_CAMERA: Icon {
 	
 }
 
+/** Alias for [FA_CAMERA]. */
 val FA_CAMERA_ALT = FA_CAMERA

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Road Circle-xmark */
 object FA_ROAD_CIRCLE_XMARK: Icon {
 	
 	override val name get() = "Road Circle-xmark"

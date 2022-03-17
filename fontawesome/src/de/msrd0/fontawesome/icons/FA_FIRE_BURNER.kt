@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Fire Burner */
 object FA_FIRE_BURNER: Icon {
 	
 	override val name get() = "Fire Burner"

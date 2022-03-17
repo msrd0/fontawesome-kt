@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Face Laugh Squint */
 object FA_FACE_LAUGH_SQUINT: Icon {
 	
 	override val name get() = "Face Laugh Squint"
@@ -40,4 +41,5 @@ object FA_FACE_LAUGH_SQUINT: Icon {
 	
 }
 
+/** Alias for [FA_FACE_LAUGH_SQUINT]. */
 val FA_LAUGH_SQUINT = FA_FACE_LAUGH_SQUINT

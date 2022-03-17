@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Boxes stacked */
 object FA_BOXES_STACKED: Icon {
 	
 	override val name get() = "Boxes stacked"
@@ -38,6 +39,8 @@ object FA_BOXES_STACKED: Icon {
 	
 }
 
+/** Alias for [FA_BOXES_STACKED]. */
 val FA_BOXES = FA_BOXES_STACKED
 
+/** Alias for [FA_BOXES_STACKED]. */
 val FA_BOXES_ALT = FA_BOXES_STACKED

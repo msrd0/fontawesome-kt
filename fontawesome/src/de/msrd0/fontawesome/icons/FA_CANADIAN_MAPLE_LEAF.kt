@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Canadian Maple Leaf */
 object FA_CANADIAN_MAPLE_LEAF: Icon {
 	
 	override val name get() = "Canadian Maple Leaf"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Building Circle-arrow-right */
 object FA_BUILDING_CIRCLE_ARROW_RIGHT: Icon {
 	
 	override val name get() = "Building Circle-arrow-right"

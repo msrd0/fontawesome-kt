@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Id card clip */
 object FA_ID_CARD_CLIP: Icon {
 	
 	override val name get() = "Id card clip"
@@ -38,4 +39,5 @@ object FA_ID_CARD_CLIP: Icon {
 	
 }
 
+/** Alias for [FA_ID_CARD_CLIP]. */
 val FA_ID_CARD_ALT = FA_ID_CARD_CLIP

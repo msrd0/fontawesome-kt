@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** X-Ray */
 object FA_X_RAY: Icon {
 	
 	override val name get() = "X-Ray"

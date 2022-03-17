@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shield Halved */
 object FA_SHIELD_HALVED: Icon {
 	
 	override val name get() = "Shield Halved"
@@ -38,4 +39,5 @@ object FA_SHIELD_HALVED: Icon {
 	
 }
 
+/** Alias for [FA_SHIELD_HALVED]. */
 val FA_SHIELD_ALT = FA_SHIELD_HALVED

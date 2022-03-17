@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Through-window */
 object FA_PERSON_THROUGH_WINDOW: Icon {
 	
 	override val name get() = "Person Through-window"

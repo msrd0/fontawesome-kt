@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Trade Federation */
 object FA_TRADE_FEDERATION: Icon {
 	
 	override val name get() = "Trade Federation"

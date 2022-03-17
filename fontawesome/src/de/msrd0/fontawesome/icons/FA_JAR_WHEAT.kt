@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Jar Wheat */
 object FA_JAR_WHEAT: Icon {
 	
 	override val name get() = "Jar Wheat"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Umbrella Beach */
 object FA_UMBRELLA_BEACH: Icon {
 	
 	override val name get() = "Umbrella Beach"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Wheat Awn-circle-exclamation */
 object FA_WHEAT_AWN_CIRCLE_EXCLAMATION: Icon {
 	
 	override val name get() = "Wheat Awn-circle-exclamation"

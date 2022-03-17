@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bread Slice */
 object FA_BREAD_SLICE: Icon {
 	
 	override val name get() = "Bread Slice"

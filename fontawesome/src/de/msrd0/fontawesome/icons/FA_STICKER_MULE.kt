@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Sticker Mule */
 object FA_STICKER_MULE: Icon {
 	
 	override val name get() = "Sticker Mule"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hand holding droplet */
 object FA_HAND_HOLDING_DROPLET: Icon {
 	
 	override val name get() = "Hand holding droplet"
@@ -38,4 +39,5 @@ object FA_HAND_HOLDING_DROPLET: Icon {
 	
 }
 
+/** Alias for [FA_HAND_HOLDING_DROPLET]. */
 val FA_HAND_HOLDING_WATER = FA_HAND_HOLDING_DROPLET

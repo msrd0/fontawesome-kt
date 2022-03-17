@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** House Tsunami */
 object FA_HOUSE_TSUNAMI: Icon {
 	
 	override val name get() = "House Tsunami"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Wine Bottle */
 object FA_WINE_BOTTLE: Icon {
 	
 	override val name get() = "Wine Bottle"

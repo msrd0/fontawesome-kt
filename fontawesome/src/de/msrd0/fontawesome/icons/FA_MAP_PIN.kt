@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Map Pin */
 object FA_MAP_PIN: Icon {
 	
 	override val name get() = "Map Pin"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hands Bound */
 object FA_HANDS_BOUND: Icon {
 	
 	override val name get() = "Hands Bound"

@@ -3,13 +3,10 @@ package de.msrd0.fontawesome.codegen
 import java.util.SortedSet
 import kotlinx.serialization.Serializable
 
-private fun String.toClassname(): String = "FA_" + replace(Regex("[^a-zA-Z0-9]"), "_").uppercase()
+fun String.toClassname(): String = "FA_" + replace(Regex("[^a-zA-Z0-9]"), "_").uppercase()
 
 @Serializable
 data class Icon(
-		/** fontawesome versions in which this icon was changed */
-		val changes: List<String>,
-		
 		/** the styles this icon is available in */
 		val styles: Set<String>,
 		
@@ -28,9 +25,6 @@ data class Icon(
 		/** styles that are available in fontawesome free */
 		val free: Set<String>
 ) {
-	val classname: String
-		get() = label.toClassname()
-	
 	val aliasClassnames: SortedSet<String>
 		get() = aliases?.names.orEmpty().map(String::toClassname).toSortedSet()
 	

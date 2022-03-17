@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Code Pull Request */
 object FA_CODE_PULL_REQUEST: Icon {
 	
 	override val name get() = "Code Pull Request"

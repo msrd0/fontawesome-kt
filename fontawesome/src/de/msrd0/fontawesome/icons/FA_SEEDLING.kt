@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Seedling */
 object FA_SEEDLING: Icon {
 	
 	override val name get() = "Seedling"
@@ -38,4 +39,5 @@ object FA_SEEDLING: Icon {
 	
 }
 
+/** Alias for [FA_SEEDLING]. */
 val FA_SPROUT = FA_SEEDLING

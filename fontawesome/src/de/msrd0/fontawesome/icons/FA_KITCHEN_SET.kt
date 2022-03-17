@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Kitchen Set */
 object FA_KITCHEN_SET: Icon {
 	
 	override val name get() = "Kitchen Set"

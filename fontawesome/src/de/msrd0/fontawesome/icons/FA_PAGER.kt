@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Pager */
 object FA_PAGER: Icon {
 	
 	override val name get() = "Pager"

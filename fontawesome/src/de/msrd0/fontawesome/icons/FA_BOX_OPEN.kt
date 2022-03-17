@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Box Open */
 object FA_BOX_OPEN: Icon {
 	
 	override val name get() = "Box Open"

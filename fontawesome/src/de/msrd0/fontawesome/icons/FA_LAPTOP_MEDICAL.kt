@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Laptop Medical */
 object FA_LAPTOP_MEDICAL: Icon {
 	
 	override val name get() = "Laptop Medical"

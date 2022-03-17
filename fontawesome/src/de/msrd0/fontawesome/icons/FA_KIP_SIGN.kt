@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Kip Sign */
 object FA_KIP_SIGN: Icon {
 	
 	override val name get() = "Kip Sign"

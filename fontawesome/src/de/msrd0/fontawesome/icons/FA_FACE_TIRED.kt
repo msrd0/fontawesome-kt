@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Face Tired */
 object FA_FACE_TIRED: Icon {
 	
 	override val name get() = "Face Tired"
@@ -40,4 +41,5 @@ object FA_FACE_TIRED: Icon {
 	
 }
 
+/** Alias for [FA_FACE_TIRED]. */
 val FA_TIRED = FA_FACE_TIRED

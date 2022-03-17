@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Circle check */
 object FA_CIRCLE_CHECK: Icon {
 	
 	override val name get() = "Circle check"
@@ -40,4 +41,5 @@ object FA_CIRCLE_CHECK: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_CHECK]. */
 val FA_CHECK_CIRCLE = FA_CIRCLE_CHECK

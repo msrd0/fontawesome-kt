@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Circle play */
 object FA_CIRCLE_PLAY: Icon {
 	
 	override val name get() = "Circle play"
@@ -40,4 +41,5 @@ object FA_CIRCLE_PLAY: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_PLAY]. */
 val FA_PLAY_CIRCLE = FA_CIRCLE_PLAY

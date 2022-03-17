@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Watchman Monitoring */
 object FA_WATCHMAN_MONITORING: Icon {
 	
 	override val name get() = "Watchman Monitoring"

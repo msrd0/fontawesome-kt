@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Suitcase medical */
 object FA_SUITCASE_MEDICAL: Icon {
 	
 	override val name get() = "Suitcase medical"
@@ -38,4 +39,5 @@ object FA_SUITCASE_MEDICAL: Icon {
 	
 }
 
+/** Alias for [FA_SUITCASE_MEDICAL]. */
 val FA_MEDKIT = FA_SUITCASE_MEDICAL

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Envelope Open */
 object FA_ENVELOPE_OPEN: Icon {
 	
 	override val name get() = "Envelope Open"

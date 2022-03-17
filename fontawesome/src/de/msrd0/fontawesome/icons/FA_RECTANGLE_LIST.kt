@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Rectangle list */
 object FA_RECTANGLE_LIST: Icon {
 	
 	override val name get() = "Rectangle list"
@@ -40,4 +41,5 @@ object FA_RECTANGLE_LIST: Icon {
 	
 }
 
+/** Alias for [FA_RECTANGLE_LIST]. */
 val FA_LIST_ALT = FA_RECTANGLE_LIST

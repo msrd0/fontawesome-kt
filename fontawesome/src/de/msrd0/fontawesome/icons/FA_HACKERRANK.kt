@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Hackerrank */
 object FA_HACKERRANK: Icon {
 	
 	override val name get() = "Hackerrank"

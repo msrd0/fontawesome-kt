@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Door Closed */
 object FA_DOOR_CLOSED: Icon {
 	
 	override val name get() = "Door Closed"

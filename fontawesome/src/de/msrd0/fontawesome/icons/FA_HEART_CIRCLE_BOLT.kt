@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Heart Circle-bolt */
 object FA_HEART_CIRCLE_BOLT: Icon {
 	
 	override val name get() = "Heart Circle-bolt"

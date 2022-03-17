@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shekel Sign */
 object FA_SHEKEL_SIGN: Icon {
 	
 	override val name get() = "Shekel Sign"
@@ -38,10 +39,14 @@ object FA_SHEKEL_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_SHEKEL_SIGN]. */
 val FA_ILS = FA_SHEKEL_SIGN
 
+/** Alias for [FA_SHEKEL_SIGN]. */
 val FA_SHEKEL = FA_SHEKEL_SIGN
 
+/** Alias for [FA_SHEKEL_SIGN]. */
 val FA_SHEQEL = FA_SHEKEL_SIGN
 
+/** Alias for [FA_SHEKEL_SIGN]. */
 val FA_SHEQEL_SIGN = FA_SHEKEL_SIGN

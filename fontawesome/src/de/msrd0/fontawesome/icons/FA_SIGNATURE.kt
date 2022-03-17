@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Signature */
 object FA_SIGNATURE: Icon {
 	
 	override val name get() = "Signature"

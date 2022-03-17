@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Children */
 object FA_CHILDREN: Icon {
 	
 	override val name get() = "Children"

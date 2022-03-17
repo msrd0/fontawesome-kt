@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Twitter Square */
 object FA_TWITTER_SQUARE: Icon {
 	
 	override val name get() = "Twitter Square"

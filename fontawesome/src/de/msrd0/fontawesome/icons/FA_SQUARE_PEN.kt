@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square pen */
 object FA_SQUARE_PEN: Icon {
 	
 	override val name get() = "Square pen"
@@ -38,6 +39,8 @@ object FA_SQUARE_PEN: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_PEN]. */
 val FA_PENCIL_SQUARE = FA_SQUARE_PEN
 
+/** Alias for [FA_SQUARE_PEN]. */
 val FA_PEN_SQUARE = FA_SQUARE_PEN

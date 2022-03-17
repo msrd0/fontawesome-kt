@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Circle dollar to slot */
 object FA_CIRCLE_DOLLAR_TO_SLOT: Icon {
 	
 	override val name get() = "Circle dollar to slot"
@@ -38,4 +39,5 @@ object FA_CIRCLE_DOLLAR_TO_SLOT: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_DOLLAR_TO_SLOT]. */
 val FA_DONATE = FA_CIRCLE_DOLLAR_TO_SLOT

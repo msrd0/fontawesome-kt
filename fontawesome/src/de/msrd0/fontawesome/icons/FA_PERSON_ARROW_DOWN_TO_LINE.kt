@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Arrow-down-to-line */
 object FA_PERSON_ARROW_DOWN_TO_LINE: Icon {
 	
 	override val name get() = "Person Arrow-down-to-line"

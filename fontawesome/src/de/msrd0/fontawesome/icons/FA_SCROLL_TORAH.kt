@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Scroll torah */
 object FA_SCROLL_TORAH: Icon {
 	
 	override val name get() = "Scroll torah"
@@ -38,4 +39,5 @@ object FA_SCROLL_TORAH: Icon {
 	
 }
 
+/** Alias for [FA_SCROLL_TORAH]. */
 val FA_TORAH = FA_SCROLL_TORAH

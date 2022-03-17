@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Road Lock */
 object FA_ROAD_LOCK: Icon {
 	
 	override val name get() = "Road Lock"

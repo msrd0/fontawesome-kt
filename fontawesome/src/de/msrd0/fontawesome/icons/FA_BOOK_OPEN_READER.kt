@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Book open reader */
 object FA_BOOK_OPEN_READER: Icon {
 	
 	override val name get() = "Book open reader"
@@ -38,4 +39,5 @@ object FA_BOOK_OPEN_READER: Icon {
 	
 }
 
+/** Alias for [FA_BOOK_OPEN_READER]. */
 val FA_BOOK_READER = FA_BOOK_OPEN_READER

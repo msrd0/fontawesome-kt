@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** School Circle-exclamation */
 object FA_SCHOOL_CIRCLE_EXCLAMATION: Icon {
 	
 	override val name get() = "School Circle-exclamation"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Squarespace */
 object FA_SQUARESPACE: Icon {
 	
 	override val name get() = "Squarespace"

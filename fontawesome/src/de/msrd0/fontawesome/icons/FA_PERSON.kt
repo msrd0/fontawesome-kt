@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person */
 object FA_PERSON: Icon {
 	
 	override val name get() = "Person"
@@ -38,4 +39,5 @@ object FA_PERSON: Icon {
 	
 }
 
+/** Alias for [FA_PERSON]. */
 val FA_MALE = FA_PERSON

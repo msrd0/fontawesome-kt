@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** arrow right */
 object FA_ARROW_RIGHT: Icon {
 	
 	override val name get() = "arrow right"

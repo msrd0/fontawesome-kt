@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** superscript */
 object FA_SUPERSCRIPT: Icon {
 	
 	override val name get() = "superscript"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Military-rifle */
 object FA_PERSON_MILITARY_RIFLE: Icon {
 	
 	override val name get() = "Person Military-rifle"

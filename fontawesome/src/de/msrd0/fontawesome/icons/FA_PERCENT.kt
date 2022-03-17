@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Percent */
 object FA_PERCENT: Icon {
 	
 	override val name get() = "Percent"
@@ -38,4 +39,5 @@ object FA_PERCENT: Icon {
 	
 }
 
+/** Alias for [FA_PERCENT]. */
 val FA_PERCENTAGE = FA_PERCENT

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Utensils */
 object FA_UTENSILS: Icon {
 	
 	override val name get() = "Utensils"
@@ -38,4 +39,5 @@ object FA_UTENSILS: Icon {
 	
 }
 
+/** Alias for [FA_UTENSILS]. */
 val FA_CUTLERY = FA_UTENSILS

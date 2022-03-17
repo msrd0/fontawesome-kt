@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Caret Up */
 object FA_CARET_UP: Icon {
 	
 	override val name get() = "Caret Up"

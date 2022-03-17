@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File waveform */
 object FA_FILE_WAVEFORM: Icon {
 	
 	override val name get() = "File waveform"
@@ -38,4 +39,5 @@ object FA_FILE_WAVEFORM: Icon {
 	
 }
 
+/** Alias for [FA_FILE_WAVEFORM]. */
 val FA_FILE_MEDICAL_ALT = FA_FILE_WAVEFORM

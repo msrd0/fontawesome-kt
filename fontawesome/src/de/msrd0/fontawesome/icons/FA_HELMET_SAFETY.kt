@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Helmet safety */
 object FA_HELMET_SAFETY: Icon {
 	
 	override val name get() = "Helmet safety"
@@ -38,6 +39,8 @@ object FA_HELMET_SAFETY: Icon {
 	
 }
 
+/** Alias for [FA_HELMET_SAFETY]. */
 val FA_HARD_HAT = FA_HELMET_SAFETY
 
+/** Alias for [FA_HELMET_SAFETY]. */
 val FA_HAT_HARD = FA_HELMET_SAFETY

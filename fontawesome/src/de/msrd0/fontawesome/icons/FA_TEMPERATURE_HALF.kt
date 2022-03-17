@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Temperature half */
 object FA_TEMPERATURE_HALF: Icon {
 	
 	override val name get() = "Temperature half"
@@ -38,8 +39,11 @@ object FA_TEMPERATURE_HALF: Icon {
 	
 }
 
+/** Alias for [FA_TEMPERATURE_HALF]. */
 val FA_TEMPERATURE_2 = FA_TEMPERATURE_HALF
 
+/** Alias for [FA_TEMPERATURE_HALF]. */
 val FA_THERMOMETER_2 = FA_TEMPERATURE_HALF
 
+/** Alias for [FA_TEMPERATURE_HALF]. */
 val FA_THERMOMETER_HALF = FA_TEMPERATURE_HALF

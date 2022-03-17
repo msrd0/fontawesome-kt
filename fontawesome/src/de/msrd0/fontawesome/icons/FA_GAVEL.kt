@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Gavel */
 object FA_GAVEL: Icon {
 	
 	override val name get() = "Gavel"
@@ -38,4 +39,5 @@ object FA_GAVEL: Icon {
 	
 }
 
+/** Alias for [FA_GAVEL]. */
 val FA_LEGAL = FA_GAVEL

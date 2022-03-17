@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Circle chevron right */
 object FA_CIRCLE_CHEVRON_RIGHT: Icon {
 	
 	override val name get() = "Circle chevron right"
@@ -38,4 +39,5 @@ object FA_CIRCLE_CHEVRON_RIGHT: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_CHEVRON_RIGHT]. */
 val FA_CHEVRON_CIRCLE_RIGHT = FA_CIRCLE_CHEVRON_RIGHT

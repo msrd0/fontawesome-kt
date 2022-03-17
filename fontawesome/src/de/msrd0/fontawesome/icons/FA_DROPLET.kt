@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Droplet */
 object FA_DROPLET: Icon {
 	
 	override val name get() = "Droplet"
@@ -38,4 +39,5 @@ object FA_DROPLET: Icon {
 	
 }
 
+/** Alias for [FA_DROPLET]. */
 val FA_TINT = FA_DROPLET

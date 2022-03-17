@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Book bible */
 object FA_BOOK_BIBLE: Icon {
 	
 	override val name get() = "Book bible"
@@ -38,4 +39,5 @@ object FA_BOOK_BIBLE: Icon {
 	
 }
 
+/** Alias for [FA_BOOK_BIBLE]. */
 val FA_BIBLE = FA_BOOK_BIBLE

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ban smoking */
 object FA_BAN_SMOKING: Icon {
 	
 	override val name get() = "Ban smoking"
@@ -38,4 +39,5 @@ object FA_BAN_SMOKING: Icon {
 	
 }
 
+/** Alias for [FA_BAN_SMOKING]. */
 val FA_SMOKING_BAN = FA_BAN_SMOKING

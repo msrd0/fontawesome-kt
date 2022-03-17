@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Digital Ocean */
 object FA_DIGITAL_OCEAN: Icon {
 	
 	override val name get() = "Digital Ocean"

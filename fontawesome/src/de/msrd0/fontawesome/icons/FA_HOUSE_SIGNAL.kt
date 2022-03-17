@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** House Signal */
 object FA_HOUSE_SIGNAL: Icon {
 	
 	override val name get() = "House Signal"

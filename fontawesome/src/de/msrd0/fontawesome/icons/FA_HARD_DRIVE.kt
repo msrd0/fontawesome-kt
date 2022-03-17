@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Hard drive */
 object FA_HARD_DRIVE: Icon {
 	
 	override val name get() = "Hard drive"
@@ -40,4 +41,5 @@ object FA_HARD_DRIVE: Icon {
 	
 }
 
+/** Alias for [FA_HARD_DRIVE]. */
 val FA_HDD = FA_HARD_DRIVE

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Landmark */
 object FA_LANDMARK: Icon {
 	
 	override val name get() = "Landmark"

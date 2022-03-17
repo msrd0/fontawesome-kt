@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Graduation Cap */
 object FA_GRADUATION_CAP: Icon {
 	
 	override val name get() = "Graduation Cap"
@@ -38,4 +39,5 @@ object FA_GRADUATION_CAP: Icon {
 	
 }
 
+/** Alias for [FA_GRADUATION_CAP]. */
 val FA_MORTAR_BOARD = FA_GRADUATION_CAP

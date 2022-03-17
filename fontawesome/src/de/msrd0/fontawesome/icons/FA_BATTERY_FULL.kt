@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Battery Full */
 object FA_BATTERY_FULL: Icon {
 	
 	override val name get() = "Battery Full"
@@ -38,6 +39,8 @@ object FA_BATTERY_FULL: Icon {
 	
 }
 
+/** Alias for [FA_BATTERY_FULL]. */
 val FA_BATTERY = FA_BATTERY_FULL
 
+/** Alias for [FA_BATTERY_FULL]. */
 val FA_BATTERY_5 = FA_BATTERY_FULL

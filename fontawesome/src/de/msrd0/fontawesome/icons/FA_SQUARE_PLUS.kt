@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Square plus */
 object FA_SQUARE_PLUS: Icon {
 	
 	override val name get() = "Square plus"
@@ -40,4 +41,5 @@ object FA_SQUARE_PLUS: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_PLUS]. */
 val FA_PLUS_SQUARE = FA_SQUARE_PLUS

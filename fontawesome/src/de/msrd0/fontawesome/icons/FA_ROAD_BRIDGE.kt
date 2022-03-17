@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Road Bridge */
 object FA_ROAD_BRIDGE: Icon {
 	
 	override val name get() = "Road Bridge"

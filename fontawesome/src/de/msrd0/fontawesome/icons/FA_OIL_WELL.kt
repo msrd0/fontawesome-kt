@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Oil Well */
 object FA_OIL_WELL: Icon {
 	
 	override val name get() = "Oil Well"

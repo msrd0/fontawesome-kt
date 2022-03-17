@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shuffle */
 object FA_SHUFFLE: Icon {
 	
 	override val name get() = "Shuffle"
@@ -38,4 +39,5 @@ object FA_SHUFFLE: Icon {
 	
 }
 
+/** Alias for [FA_SHUFFLE]. */
 val FA_RANDOM = FA_SHUFFLE

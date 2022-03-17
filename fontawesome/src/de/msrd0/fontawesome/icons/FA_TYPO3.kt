@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Typo3 */
 object FA_TYPO3: Icon {
 	
 	override val name get() = "Typo3"

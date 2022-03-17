@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bag shopping */
 object FA_BAG_SHOPPING: Icon {
 	
 	override val name get() = "Bag shopping"
@@ -38,4 +39,5 @@ object FA_BAG_SHOPPING: Icon {
 	
 }
 
+/** Alias for [FA_BAG_SHOPPING]. */
 val FA_SHOPPING_BAG = FA_BAG_SHOPPING

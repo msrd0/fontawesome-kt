@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Cotton Bureau */
 object FA_COTTON_BUREAU: Icon {
 	
 	override val name get() = "Cotton Bureau"

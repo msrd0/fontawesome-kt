@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Vial Virus */
 object FA_VIAL_VIRUS: Icon {
 	
 	override val name get() = "Vial Virus"

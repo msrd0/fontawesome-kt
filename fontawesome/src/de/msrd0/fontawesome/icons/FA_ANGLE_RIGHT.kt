@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** angle-right */
 object FA_ANGLE_RIGHT: Icon {
 	
 	override val name get() = "angle-right"

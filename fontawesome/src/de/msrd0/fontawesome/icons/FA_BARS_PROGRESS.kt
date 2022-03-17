@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bars progress */
 object FA_BARS_PROGRESS: Icon {
 	
 	override val name get() = "Bars progress"
@@ -38,4 +39,5 @@ object FA_BARS_PROGRESS: Icon {
 	
 }
 
+/** Alias for [FA_BARS_PROGRESS]. */
 val FA_TASKS_ALT = FA_BARS_PROGRESS

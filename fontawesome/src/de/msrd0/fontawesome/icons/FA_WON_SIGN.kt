@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Won Sign */
 object FA_WON_SIGN: Icon {
 	
 	override val name get() = "Won Sign"
@@ -38,6 +39,8 @@ object FA_WON_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_WON_SIGN]. */
 val FA_KRW = FA_WON_SIGN
 
+/** Alias for [FA_WON_SIGN]. */
 val FA_WON = FA_WON_SIGN

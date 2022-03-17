@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square arrow up right */
 object FA_SQUARE_ARROW_UP_RIGHT: Icon {
 	
 	override val name get() = "Square arrow up right"
@@ -38,4 +39,5 @@ object FA_SQUARE_ARROW_UP_RIGHT: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_ARROW_UP_RIGHT]. */
 val FA_EXTERNAL_LINK_SQUARE = FA_SQUARE_ARROW_UP_RIGHT

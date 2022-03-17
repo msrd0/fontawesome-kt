@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Sign hanging */
 object FA_SIGN_HANGING: Icon {
 	
 	override val name get() = "Sign hanging"
@@ -38,4 +39,5 @@ object FA_SIGN_HANGING: Icon {
 	
 }
 
+/** Alias for [FA_SIGN_HANGING]. */
 val FA_SIGN = FA_SIGN_HANGING

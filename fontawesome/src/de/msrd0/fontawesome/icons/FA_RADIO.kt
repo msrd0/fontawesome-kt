@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Radio */
 object FA_RADIO: Icon {
 	
 	override val name get() = "Radio"

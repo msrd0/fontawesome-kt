@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bug Slash */
 object FA_BUG_SLASH: Icon {
 	
 	override val name get() = "Bug Slash"

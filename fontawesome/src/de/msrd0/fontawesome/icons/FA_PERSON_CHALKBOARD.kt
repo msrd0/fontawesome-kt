@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Chalkboard */
 object FA_PERSON_CHALKBOARD: Icon {
 	
 	override val name get() = "Person Chalkboard"

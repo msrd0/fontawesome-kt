@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Otter */
 object FA_OTTER: Icon {
 	
 	override val name get() = "Otter"

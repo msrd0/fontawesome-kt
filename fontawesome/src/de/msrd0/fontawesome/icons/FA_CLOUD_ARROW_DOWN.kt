@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Cloud arrow down */
 object FA_CLOUD_ARROW_DOWN: Icon {
 	
 	override val name get() = "Cloud arrow down"
@@ -38,6 +39,8 @@ object FA_CLOUD_ARROW_DOWN: Icon {
 	
 }
 
+/** Alias for [FA_CLOUD_ARROW_DOWN]. */
 val FA_CLOUD_DOWNLOAD = FA_CLOUD_ARROW_DOWN
 
+/** Alias for [FA_CLOUD_ARROW_DOWN]. */
 val FA_CLOUD_DOWNLOAD_ALT = FA_CLOUD_ARROW_DOWN

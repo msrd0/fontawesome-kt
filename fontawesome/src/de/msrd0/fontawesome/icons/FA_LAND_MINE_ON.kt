@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Land Mine-on */
 object FA_LAND_MINE_ON: Icon {
 	
 	override val name get() = "Land Mine-on"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Fire flame curved */
 object FA_FIRE_FLAME_CURVED: Icon {
 	
 	override val name get() = "Fire flame curved"
@@ -38,4 +39,5 @@ object FA_FIRE_FLAME_CURVED: Icon {
 	
 }
 
+/** Alias for [FA_FIRE_FLAME_CURVED]. */
 val FA_FIRE_ALT = FA_FIRE_FLAME_CURVED

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square parking */
 object FA_SQUARE_PARKING: Icon {
 	
 	override val name get() = "Square parking"
@@ -38,4 +39,5 @@ object FA_SQUARE_PARKING: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_PARKING]. */
 val FA_PARKING = FA_SQUARE_PARKING

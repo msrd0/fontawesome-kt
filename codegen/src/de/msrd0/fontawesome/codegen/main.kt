@@ -36,8 +36,11 @@ object Main {
 		
 		templates.getTemplate("Icon.j2")!!.evaluate(dir.join("Icon.kt").writer())
 		templates.getTemplate("Style.j2")!!.evaluate(dir.join("Style.kt").writer())
-		icons.forEach { (_, icon) ->
-			templates.getTemplate("fa_icon.j2")!!.evaluate(iconsDir.join("${icon.classname}.kt").writer(), mapOf("icon" to icon))
+		icons.forEach { (name, icon) ->
+			val classname = name.toClassname()
+			templates.getTemplate("fa_icon.j2")!!.evaluate(
+					iconsDir.join("${classname}.kt").writer(), mapOf("classname" to classname, "icon" to icon)
+				)
 		}
 	}
 	

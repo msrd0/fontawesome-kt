@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Child Rifle */
 object FA_CHILD_RIFLE: Icon {
 	
 	override val name get() = "Child Rifle"

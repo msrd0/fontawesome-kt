@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Plane Circle-check */
 object FA_PLANE_CIRCLE_CHECK: Icon {
 	
 	override val name get() = "Plane Circle-check"

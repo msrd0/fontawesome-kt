@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Cart flatbed */
 object FA_CART_FLATBED: Icon {
 	
 	override val name get() = "Cart flatbed"
@@ -38,4 +39,5 @@ object FA_CART_FLATBED: Icon {
 	
 }
 
+/** Alias for [FA_CART_FLATBED]. */
 val FA_DOLLY_FLATBED = FA_CART_FLATBED

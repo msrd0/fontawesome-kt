@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Link Slash */
 object FA_LINK_SLASH: Icon {
 	
 	override val name get() = "Link Slash"
@@ -38,8 +39,11 @@ object FA_LINK_SLASH: Icon {
 	
 }
 
+/** Alias for [FA_LINK_SLASH]. */
 val FA_CHAIN_BROKEN = FA_LINK_SLASH
 
+/** Alias for [FA_LINK_SLASH]. */
 val FA_CHAIN_SLASH = FA_LINK_SLASH
 
+/** Alias for [FA_LINK_SLASH]. */
 val FA_UNLINK = FA_LINK_SLASH

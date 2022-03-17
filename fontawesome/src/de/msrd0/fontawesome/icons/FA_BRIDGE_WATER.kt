@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bridge Water */
 object FA_BRIDGE_WATER: Icon {
 	
 	override val name get() = "Bridge Water"

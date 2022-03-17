@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Galactic Republic */
 object FA_GALACTIC_REPUBLIC: Icon {
 	
 	override val name get() = "Galactic Republic"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Compress */
 object FA_COMPRESS: Icon {
 	
 	override val name get() = "Compress"

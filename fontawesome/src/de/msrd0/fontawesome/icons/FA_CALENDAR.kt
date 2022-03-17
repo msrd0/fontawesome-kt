@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Calendar */
 object FA_CALENDAR: Icon {
 	
 	override val name get() = "Calendar"

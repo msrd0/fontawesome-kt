@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Building Ngo */
 object FA_BUILDING_NGO: Icon {
 	
 	override val name get() = "Building Ngo"

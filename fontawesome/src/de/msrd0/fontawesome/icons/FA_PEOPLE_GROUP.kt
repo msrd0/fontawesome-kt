@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** People Group */
 object FA_PEOPLE_GROUP: Icon {
 	
 	override val name get() = "People Group"

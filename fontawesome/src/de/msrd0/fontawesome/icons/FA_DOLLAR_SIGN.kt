@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Dollar Sign */
 object FA_DOLLAR_SIGN: Icon {
 	
 	override val name get() = "Dollar Sign"
@@ -38,6 +39,8 @@ object FA_DOLLAR_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_DOLLAR_SIGN]. */
 val FA_DOLLAR = FA_DOLLAR_SIGN
 
+/** Alias for [FA_DOLLAR_SIGN]. */
 val FA_USD = FA_DOLLAR_SIGN

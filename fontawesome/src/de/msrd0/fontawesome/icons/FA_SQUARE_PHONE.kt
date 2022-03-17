@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square phone */
 object FA_SQUARE_PHONE: Icon {
 	
 	override val name get() = "Square phone"
@@ -38,4 +39,5 @@ object FA_SQUARE_PHONE: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_PHONE]. */
 val FA_PHONE_SQUARE = FA_SQUARE_PHONE

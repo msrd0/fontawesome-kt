@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Layer Group */
 object FA_LAYER_GROUP: Icon {
 	
 	override val name get() = "Layer Group"

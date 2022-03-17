@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Earth Africa */
 object FA_EARTH_AFRICA: Icon {
 	
 	override val name get() = "Earth Africa"
@@ -38,4 +39,5 @@ object FA_EARTH_AFRICA: Icon {
 	
 }
 
+/** Alias for [FA_EARTH_AFRICA]. */
 val FA_GLOBE_AFRICA = FA_EARTH_AFRICA

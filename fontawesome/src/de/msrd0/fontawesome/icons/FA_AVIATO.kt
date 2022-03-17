@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Aviato */
 object FA_AVIATO: Icon {
 	
 	override val name get() = "Aviato"

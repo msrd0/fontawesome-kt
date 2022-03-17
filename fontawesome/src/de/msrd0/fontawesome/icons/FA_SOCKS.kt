@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Socks */
 object FA_SOCKS: Icon {
 	
 	override val name get() = "Socks"

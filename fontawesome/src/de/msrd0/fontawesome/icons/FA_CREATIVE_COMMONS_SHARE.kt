@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Creative Commons Share */
 object FA_CREATIVE_COMMONS_SHARE: Icon {
 	
 	override val name get() = "Creative Commons Share"

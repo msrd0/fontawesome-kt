@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** NS8 */
 object FA_NS8: Icon {
 	
 	override val name get() = "NS8"

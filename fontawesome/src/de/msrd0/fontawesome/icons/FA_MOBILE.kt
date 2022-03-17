@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mobile */
 object FA_MOBILE: Icon {
 	
 	override val name get() = "Mobile"
@@ -38,6 +39,8 @@ object FA_MOBILE: Icon {
 	
 }
 
+/** Alias for [FA_MOBILE]. */
 val FA_MOBILE_ANDROID = FA_MOBILE
 
+/** Alias for [FA_MOBILE]. */
 val FA_MOBILE_PHONE = FA_MOBILE

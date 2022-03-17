@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Turkish Lira-sign */
 object FA_TURKISH_LIRA_SIGN: Icon {
 	
 	override val name get() = "Turkish Lira-sign"
@@ -38,6 +39,8 @@ object FA_TURKISH_LIRA_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_TURKISH_LIRA_SIGN]. */
 val FA_TRY = FA_TURKISH_LIRA_SIGN
 
+/** Alias for [FA_TURKISH_LIRA_SIGN]. */
 val FA_TURKISH_LIRA = FA_TURKISH_LIRA_SIGN

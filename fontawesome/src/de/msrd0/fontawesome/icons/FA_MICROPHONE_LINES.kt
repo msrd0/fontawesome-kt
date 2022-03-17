@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Microphone lines */
 object FA_MICROPHONE_LINES: Icon {
 	
 	override val name get() = "Microphone lines"
@@ -38,4 +39,5 @@ object FA_MICROPHONE_LINES: Icon {
 	
 }
 
+/** Alias for [FA_MICROPHONE_LINES]. */
 val FA_MICROPHONE_ALT = FA_MICROPHONE_LINES

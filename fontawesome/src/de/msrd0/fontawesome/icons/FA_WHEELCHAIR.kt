@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Wheelchair */
 object FA_WHEELCHAIR: Icon {
 	
 	override val name get() = "Wheelchair"

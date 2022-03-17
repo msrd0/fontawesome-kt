@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Share from square */
 object FA_SHARE_FROM_SQUARE: Icon {
 	
 	override val name get() = "Share from square"
@@ -40,4 +41,5 @@ object FA_SHARE_FROM_SQUARE: Icon {
 	
 }
 
+/** Alias for [FA_SHARE_FROM_SQUARE]. */
 val FA_SHARE_SQUARE = FA_SHARE_FROM_SQUARE

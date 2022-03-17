@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Xmarks Lines */
 object FA_XMARKS_LINES: Icon {
 	
 	override val name get() = "Xmarks Lines"

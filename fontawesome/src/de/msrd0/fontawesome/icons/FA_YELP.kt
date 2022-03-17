@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Yelp */
 object FA_YELP: Icon {
 	
 	override val name get() = "Yelp"

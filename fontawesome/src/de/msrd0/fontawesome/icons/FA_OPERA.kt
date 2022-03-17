@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Opera */
 object FA_OPERA: Icon {
 	
 	override val name get() = "Opera"

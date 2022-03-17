@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File Circle-exclamation */
 object FA_FILE_CIRCLE_EXCLAMATION: Icon {
 	
 	override val name get() = "File Circle-exclamation"

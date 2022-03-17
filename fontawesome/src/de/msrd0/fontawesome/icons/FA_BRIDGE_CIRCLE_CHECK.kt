@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bridge Circle-check */
 object FA_BRIDGE_CIRCLE_CHECK: Icon {
 	
 	override val name get() = "Bridge Circle-check"

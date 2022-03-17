@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Head Side Virus */
 object FA_HEAD_SIDE_VIRUS: Icon {
 	
 	override val name get() = "Head Side Virus"

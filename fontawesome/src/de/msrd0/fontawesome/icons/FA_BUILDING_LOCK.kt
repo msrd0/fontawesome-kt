@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Building Lock */
 object FA_BUILDING_LOCK: Icon {
 	
 	override val name get() = "Building Lock"

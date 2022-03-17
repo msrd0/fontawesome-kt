@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Star half stroke */
 object FA_STAR_HALF_STROKE: Icon {
 	
 	override val name get() = "Star half stroke"
@@ -40,4 +41,5 @@ object FA_STAR_HALF_STROKE: Icon {
 	
 }
 
+/** Alias for [FA_STAR_HALF_STROKE]. */
 val FA_STAR_HALF_ALT = FA_STAR_HALF_STROKE

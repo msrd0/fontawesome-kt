@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File Import */
 object FA_FILE_IMPORT: Icon {
 	
 	override val name get() = "File Import"
@@ -38,4 +39,5 @@ object FA_FILE_IMPORT: Icon {
 	
 }
 
+/** Alias for [FA_FILE_IMPORT]. */
 val FA_ARROW_RIGHT_TO_FILE = FA_FILE_IMPORT

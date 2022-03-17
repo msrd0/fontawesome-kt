@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Plus Minus */
 object FA_PLUS_MINUS: Icon {
 	
 	override val name get() = "Plus Minus"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Caret Left */
 object FA_CARET_LEFT: Icon {
 	
 	override val name get() = "Caret Left"

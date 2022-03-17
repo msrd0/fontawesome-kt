@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Anchor Circle-exclamation */
 object FA_ANCHOR_CIRCLE_EXCLAMATION: Icon {
 	
 	override val name get() = "Anchor Circle-exclamation"

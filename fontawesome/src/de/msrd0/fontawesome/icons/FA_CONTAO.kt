@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Contao */
 object FA_CONTAO: Icon {
 	
 	override val name get() = "Contao"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow down */
 object FA_ARROW_DOWN: Icon {
 	
 	override val name get() = "Arrow down"

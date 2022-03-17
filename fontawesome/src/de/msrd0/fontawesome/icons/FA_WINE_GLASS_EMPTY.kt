@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Wine glass empty */
 object FA_WINE_GLASS_EMPTY: Icon {
 	
 	override val name get() = "Wine glass empty"
@@ -38,4 +39,5 @@ object FA_WINE_GLASS_EMPTY: Icon {
 	
 }
 
+/** Alias for [FA_WINE_GLASS_EMPTY]. */
 val FA_WINE_GLASS_ALT = FA_WINE_GLASS_EMPTY

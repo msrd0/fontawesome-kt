@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shield Heart */
 object FA_SHIELD_HEART: Icon {
 	
 	override val name get() = "Shield Heart"

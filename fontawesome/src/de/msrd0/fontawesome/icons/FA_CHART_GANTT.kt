@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Chart Gantt */
 object FA_CHART_GANTT: Icon {
 	
 	override val name get() = "Chart Gantt"

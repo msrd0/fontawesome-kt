@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Champagne glasses */
 object FA_CHAMPAGNE_GLASSES: Icon {
 	
 	override val name get() = "Champagne glasses"
@@ -38,4 +39,5 @@ object FA_CHAMPAGNE_GLASSES: Icon {
 	
 }
 
+/** Alias for [FA_CHAMPAGNE_GLASSES]. */
 val FA_GLASS_CHEERS = FA_CHAMPAGNE_GLASSES

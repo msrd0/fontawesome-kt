@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Car */
 object FA_CAR: Icon {
 	
 	override val name get() = "Car"
@@ -38,4 +39,5 @@ object FA_CAR: Icon {
 	
 }
 
+/** Alias for [FA_CAR]. */
 val FA_AUTOMOBILE = FA_CAR

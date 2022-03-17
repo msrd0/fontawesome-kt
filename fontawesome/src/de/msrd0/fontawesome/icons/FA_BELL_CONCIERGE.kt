@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bell concierge */
 object FA_BELL_CONCIERGE: Icon {
 	
 	override val name get() = "Bell concierge"
@@ -38,4 +39,5 @@ object FA_BELL_CONCIERGE: Icon {
 	
 }
 
+/** Alias for [FA_BELL_CONCIERGE]. */
 val FA_CONCIERGE_BELL = FA_BELL_CONCIERGE

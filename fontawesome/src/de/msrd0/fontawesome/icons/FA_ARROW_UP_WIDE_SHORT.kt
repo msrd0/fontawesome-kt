@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow up wide short */
 object FA_ARROW_UP_WIDE_SHORT: Icon {
 	
 	override val name get() = "Arrow up wide short"
@@ -38,4 +39,5 @@ object FA_ARROW_UP_WIDE_SHORT: Icon {
 	
 }
 
+/** Alias for [FA_ARROW_UP_WIDE_SHORT]. */
 val FA_SORT_AMOUNT_UP = FA_ARROW_UP_WIDE_SHORT

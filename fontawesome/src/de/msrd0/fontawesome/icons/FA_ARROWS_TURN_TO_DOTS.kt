@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrows Turn-to-dots */
 object FA_ARROWS_TURN_TO_DOTS: Icon {
 	
 	override val name get() = "Arrows Turn-to-dots"

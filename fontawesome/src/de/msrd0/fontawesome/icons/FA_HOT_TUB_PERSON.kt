@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hot tub person */
 object FA_HOT_TUB_PERSON: Icon {
 	
 	override val name get() = "Hot tub person"
@@ -38,4 +39,5 @@ object FA_HOT_TUB_PERSON: Icon {
 	
 }
 
+/** Alias for [FA_HOT_TUB_PERSON]. */
 val FA_HOT_TUB = FA_HOT_TUB_PERSON

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Face dizzy */
 object FA_FACE_DIZZY: Icon {
 	
 	override val name get() = "Face dizzy"
@@ -40,4 +41,5 @@ object FA_FACE_DIZZY: Icon {
 	
 }
 
+/** Alias for [FA_FACE_DIZZY]. */
 val FA_DIZZY = FA_FACE_DIZZY

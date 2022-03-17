@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** R Project */
 object FA_R_PROJECT: Icon {
 	
 	override val name get() = "R Project"

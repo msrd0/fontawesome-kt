@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** affiliatetheme */
 object FA_AFFILIATETHEME: Icon {
 	
 	override val name get() = "affiliatetheme"

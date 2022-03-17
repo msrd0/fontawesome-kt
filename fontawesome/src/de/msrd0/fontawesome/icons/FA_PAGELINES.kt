@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Pagelines */
 object FA_PAGELINES: Icon {
 	
 	override val name get() = "Pagelines"

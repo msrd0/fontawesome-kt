@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Wheat awn */
 object FA_WHEAT_AWN: Icon {
 	
 	override val name get() = "Wheat awn"
@@ -38,4 +39,5 @@ object FA_WHEAT_AWN: Icon {
 	
 }
 
+/** Alias for [FA_WHEAT_AWN]. */
 val FA_WHEAT_ALT = FA_WHEAT_AWN

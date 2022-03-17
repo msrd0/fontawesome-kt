@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Dong Sign */
 object FA_DONG_SIGN: Icon {
 	
 	override val name get() = "Dong Sign"

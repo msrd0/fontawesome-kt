@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** SIM Card */
 object FA_SIM_CARD: Icon {
 	
 	override val name get() = "SIM Card"

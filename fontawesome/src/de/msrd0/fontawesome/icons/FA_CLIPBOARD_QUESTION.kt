@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Clipboard Question */
 object FA_CLIPBOARD_QUESTION: Icon {
 	
 	override val name get() = "Clipboard Question"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Golf ball tee */
 object FA_GOLF_BALL_TEE: Icon {
 	
 	override val name get() = "Golf ball tee"
@@ -38,4 +39,5 @@ object FA_GOLF_BALL_TEE: Icon {
 	
 }
 
+/** Alias for [FA_GOLF_BALL_TEE]. */
 val FA_GOLF_BALL = FA_GOLF_BALL_TEE

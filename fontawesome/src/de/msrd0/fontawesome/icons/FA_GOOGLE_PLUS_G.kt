@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Google Plus G */
 object FA_GOOGLE_PLUS_G: Icon {
 	
 	override val name get() = "Google Plus G"

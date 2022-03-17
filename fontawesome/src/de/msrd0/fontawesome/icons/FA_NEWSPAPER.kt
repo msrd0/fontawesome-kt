@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Newspaper */
 object FA_NEWSPAPER: Icon {
 	
 	override val name get() = "Newspaper"

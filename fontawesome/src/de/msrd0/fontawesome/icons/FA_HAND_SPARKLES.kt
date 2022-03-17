@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hand Sparkles */
 object FA_HAND_SPARKLES: Icon {
 	
 	override val name get() = "Hand Sparkles"

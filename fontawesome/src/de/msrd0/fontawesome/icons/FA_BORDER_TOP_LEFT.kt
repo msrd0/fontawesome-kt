@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Border top left */
 object FA_BORDER_TOP_LEFT: Icon {
 	
 	override val name get() = "Border top left"
@@ -38,4 +39,5 @@ object FA_BORDER_TOP_LEFT: Icon {
 	
 }
 
+/** Alias for [FA_BORDER_TOP_LEFT]. */
 val FA_BORDER_STYLE = FA_BORDER_TOP_LEFT

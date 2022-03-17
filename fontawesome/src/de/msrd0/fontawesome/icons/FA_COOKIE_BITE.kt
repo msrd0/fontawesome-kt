@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Cookie Bite */
 object FA_COOKIE_BITE: Icon {
 	
 	override val name get() = "Cookie Bite"

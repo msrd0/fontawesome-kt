@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Lightbulb */
 object FA_LIGHTBULB: Icon {
 	
 	override val name get() = "Lightbulb"

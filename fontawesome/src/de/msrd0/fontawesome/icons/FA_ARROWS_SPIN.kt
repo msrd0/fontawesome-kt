@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrows Spin */
 object FA_ARROWS_SPIN: Icon {
 	
 	override val name get() = "Arrows Spin"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mitten */
 object FA_MITTEN: Icon {
 	
 	override val name get() = "Mitten"

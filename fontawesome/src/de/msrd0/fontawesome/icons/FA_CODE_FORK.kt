@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Code Fork */
 object FA_CODE_FORK: Icon {
 	
 	override val name get() = "Code Fork"

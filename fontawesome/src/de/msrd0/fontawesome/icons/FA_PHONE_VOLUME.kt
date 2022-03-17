@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Phone Volume */
 object FA_PHONE_VOLUME: Icon {
 	
 	override val name get() = "Phone Volume"
@@ -38,4 +39,5 @@ object FA_PHONE_VOLUME: Icon {
 	
 }
 
+/** Alias for [FA_PHONE_VOLUME]. */
 val FA_VOLUME_CONTROL_PHONE = FA_PHONE_VOLUME

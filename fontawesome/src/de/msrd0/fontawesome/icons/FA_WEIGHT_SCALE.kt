@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Weight scale */
 object FA_WEIGHT_SCALE: Icon {
 	
 	override val name get() = "Weight scale"
@@ -38,4 +39,5 @@ object FA_WEIGHT_SCALE: Icon {
 	
 }
 
+/** Alias for [FA_WEIGHT_SCALE]. */
 val FA_WEIGHT = FA_WEIGHT_SCALE

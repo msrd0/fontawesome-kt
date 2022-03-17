@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Eye Dropper */
 object FA_EYE_DROPPER: Icon {
 	
 	override val name get() = "Eye Dropper"
@@ -38,6 +39,8 @@ object FA_EYE_DROPPER: Icon {
 	
 }
 
+/** Alias for [FA_EYE_DROPPER]. */
 val FA_EYEDROPPER = FA_EYE_DROPPER
 
+/** Alias for [FA_EYE_DROPPER]. */
 val FA_EYE_DROPPER_EMPTY = FA_EYE_DROPPER

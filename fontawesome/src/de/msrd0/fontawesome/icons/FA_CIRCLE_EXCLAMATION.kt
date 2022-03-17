@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Circle exclamation */
 object FA_CIRCLE_EXCLAMATION: Icon {
 	
 	override val name get() = "Circle exclamation"
@@ -38,4 +39,5 @@ object FA_CIRCLE_EXCLAMATION: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_EXCLAMATION]. */
 val FA_EXCLAMATION_CIRCLE = FA_CIRCLE_EXCLAMATION

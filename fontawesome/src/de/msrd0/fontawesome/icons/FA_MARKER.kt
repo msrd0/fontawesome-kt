@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Marker */
 object FA_MARKER: Icon {
 	
 	override val name get() = "Marker"

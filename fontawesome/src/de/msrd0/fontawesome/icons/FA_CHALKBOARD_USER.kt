@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Chalkboard user */
 object FA_CHALKBOARD_USER: Icon {
 	
 	override val name get() = "Chalkboard user"
@@ -38,4 +39,5 @@ object FA_CHALKBOARD_USER: Icon {
 	
 }
 
+/** Alias for [FA_CHALKBOARD_USER]. */
 val FA_CHALKBOARD_TEACHER = FA_CHALKBOARD_USER

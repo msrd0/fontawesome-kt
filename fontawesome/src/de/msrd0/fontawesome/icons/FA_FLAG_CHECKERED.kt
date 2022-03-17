@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** flag-checkered */
 object FA_FLAG_CHECKERED: Icon {
 	
 	override val name get() = "flag-checkered"

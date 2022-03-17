@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Wolf Pack Battalion */
 object FA_WOLF_PACK_BATTALION: Icon {
 	
 	override val name get() = "Wolf Pack Battalion"

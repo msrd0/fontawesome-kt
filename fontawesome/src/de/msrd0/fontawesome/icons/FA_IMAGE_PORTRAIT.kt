@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Image portrait */
 object FA_IMAGE_PORTRAIT: Icon {
 	
 	override val name get() = "Image portrait"
@@ -38,4 +39,5 @@ object FA_IMAGE_PORTRAIT: Icon {
 	
 }
 
+/** Alias for [FA_IMAGE_PORTRAIT]. */
 val FA_PORTRAIT = FA_IMAGE_PORTRAIT

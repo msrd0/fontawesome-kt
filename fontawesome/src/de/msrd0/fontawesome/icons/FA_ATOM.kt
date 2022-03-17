@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Atom */
 object FA_ATOM: Icon {
 	
 	override val name get() = "Atom"

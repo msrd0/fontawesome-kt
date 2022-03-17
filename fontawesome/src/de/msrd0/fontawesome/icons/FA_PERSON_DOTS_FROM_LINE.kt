@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person dots from line */
 object FA_PERSON_DOTS_FROM_LINE: Icon {
 	
 	override val name get() = "Person dots from line"
@@ -38,4 +39,5 @@ object FA_PERSON_DOTS_FROM_LINE: Icon {
 	
 }
 
+/** Alias for [FA_PERSON_DOTS_FROM_LINE]. */
 val FA_DIAGNOSES = FA_PERSON_DOTS_FROM_LINE

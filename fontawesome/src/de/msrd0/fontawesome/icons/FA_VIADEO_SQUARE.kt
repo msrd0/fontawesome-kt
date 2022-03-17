@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Viadeo Square */
 object FA_VIADEO_SQUARE: Icon {
 	
 	override val name get() = "Viadeo Square"

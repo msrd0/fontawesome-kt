@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tablet */
 object FA_TABLET: Icon {
 	
 	override val name get() = "Tablet"
@@ -38,4 +39,5 @@ object FA_TABLET: Icon {
 	
 }
 
+/** Alias for [FA_TABLET]. */
 val FA_TABLET_ANDROID = FA_TABLET

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Folder Open */
 object FA_FOLDER_OPEN: Icon {
 	
 	override val name get() = "Folder Open"

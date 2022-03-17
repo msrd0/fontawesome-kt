@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** hospital */
 object FA_HOSPITAL: Icon {
 	
 	override val name get() = "hospital"
@@ -40,6 +41,8 @@ object FA_HOSPITAL: Icon {
 	
 }
 
+/** Alias for [FA_HOSPITAL]. */
 val FA_HOSPITAL_ALT = FA_HOSPITAL
 
+/** Alias for [FA_HOSPITAL]. */
 val FA_HOSPITAL_WIDE = FA_HOSPITAL

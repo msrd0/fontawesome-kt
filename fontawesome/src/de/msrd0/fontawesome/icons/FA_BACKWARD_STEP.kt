@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Backward step */
 object FA_BACKWARD_STEP: Icon {
 	
 	override val name get() = "Backward step"
@@ -38,4 +39,5 @@ object FA_BACKWARD_STEP: Icon {
 	
 }
 
+/** Alias for [FA_BACKWARD_STEP]. */
 val FA_STEP_BACKWARD = FA_BACKWARD_STEP

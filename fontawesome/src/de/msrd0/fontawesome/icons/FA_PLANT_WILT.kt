@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Plant Wilt */
 object FA_PLANT_WILT: Icon {
 	
 	override val name get() = "Plant Wilt"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square poll horizontal */
 object FA_SQUARE_POLL_HORIZONTAL: Icon {
 	
 	override val name get() = "Square poll horizontal"
@@ -38,4 +39,5 @@ object FA_SQUARE_POLL_HORIZONTAL: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_POLL_HORIZONTAL]. */
 val FA_POLL_H = FA_SQUARE_POLL_HORIZONTAL

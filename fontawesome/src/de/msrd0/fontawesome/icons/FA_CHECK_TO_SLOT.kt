@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Check to Slot */
 object FA_CHECK_TO_SLOT: Icon {
 	
 	override val name get() = "Check to Slot"
@@ -38,4 +39,5 @@ object FA_CHECK_TO_SLOT: Icon {
 	
 }
 
+/** Alias for [FA_CHECK_TO_SLOT]. */
 val FA_VOTE_YEA = FA_CHECK_TO_SLOT

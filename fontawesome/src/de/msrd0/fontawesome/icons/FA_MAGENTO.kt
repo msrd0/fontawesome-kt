@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Magento */
 object FA_MAGENTO: Icon {
 	
 	override val name get() = "Magento"

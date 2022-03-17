@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Piggy Bank */
 object FA_PIGGY_BANK: Icon {
 	
 	override val name get() = "Piggy Bank"

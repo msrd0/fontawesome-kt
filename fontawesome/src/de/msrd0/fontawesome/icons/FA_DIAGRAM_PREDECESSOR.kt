@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Diagram Predecessor */
 object FA_DIAGRAM_PREDECESSOR: Icon {
 	
 	override val name get() = "Diagram Predecessor"

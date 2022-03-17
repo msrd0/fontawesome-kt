@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Beer mug empty */
 object FA_BEER_MUG_EMPTY: Icon {
 	
 	override val name get() = "Beer mug empty"
@@ -38,4 +39,5 @@ object FA_BEER_MUG_EMPTY: Icon {
 	
 }
 
+/** Alias for [FA_BEER_MUG_EMPTY]. */
 val FA_BEER = FA_BEER_MUG_EMPTY

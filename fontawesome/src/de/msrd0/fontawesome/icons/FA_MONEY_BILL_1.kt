@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Money bill 1 */
 object FA_MONEY_BILL_1: Icon {
 	
 	override val name get() = "Money bill 1"
@@ -40,4 +41,5 @@ object FA_MONEY_BILL_1: Icon {
 	
 }
 
+/** Alias for [FA_MONEY_BILL_1]. */
 val FA_MONEY_BILL_ALT = FA_MONEY_BILL_1

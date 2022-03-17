@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Kickstarter K */
 object FA_KICKSTARTER_K: Icon {
 	
 	override val name get() = "Kickstarter K"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Money Bill-trend-up */
 object FA_MONEY_BILL_TREND_UP: Icon {
 	
 	override val name get() = "Money Bill-trend-up"

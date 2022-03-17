@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Table cells */
 object FA_TABLE_CELLS: Icon {
 	
 	override val name get() = "Table cells"
@@ -38,4 +39,5 @@ object FA_TABLE_CELLS: Icon {
 	
 }
 
+/** Alias for [FA_TABLE_CELLS]. */
 val FA_TH = FA_TABLE_CELLS

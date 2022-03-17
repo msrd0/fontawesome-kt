@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrows To-circle */
 object FA_ARROWS_TO_CIRCLE: Icon {
 	
 	override val name get() = "Arrows To-circle"

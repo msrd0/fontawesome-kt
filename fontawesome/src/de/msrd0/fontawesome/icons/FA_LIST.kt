@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** List */
 object FA_LIST: Icon {
 	
 	override val name get() = "List"
@@ -38,4 +39,5 @@ object FA_LIST: Icon {
 	
 }
 
+/** Alias for [FA_LIST]. */
 val FA_LIST_SQUARES = FA_LIST

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** QQ */
 object FA_QQ: Icon {
 	
 	override val name get() = "QQ"

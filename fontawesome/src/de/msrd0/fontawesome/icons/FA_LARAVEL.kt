@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Laravel */
 object FA_LARAVEL: Icon {
 	
 	override val name get() = "Laravel"

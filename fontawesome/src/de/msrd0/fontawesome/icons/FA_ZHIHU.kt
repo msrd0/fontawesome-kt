@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Zhihu */
 object FA_ZHIHU: Icon {
 	
 	override val name get() = "Zhihu"

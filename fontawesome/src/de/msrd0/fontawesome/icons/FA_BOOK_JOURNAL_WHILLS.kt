@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Book journal whills */
 object FA_BOOK_JOURNAL_WHILLS: Icon {
 	
 	override val name get() = "Book journal whills"
@@ -38,4 +39,5 @@ object FA_BOOK_JOURNAL_WHILLS: Icon {
 	
 }
 
+/** Alias for [FA_BOOK_JOURNAL_WHILLS]. */
 val FA_JOURNAL_WHILLS = FA_BOOK_JOURNAL_WHILLS

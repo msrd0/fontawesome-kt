@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Chess Board */
 object FA_CHESS_BOARD: Icon {
 	
 	override val name get() = "Chess Board"

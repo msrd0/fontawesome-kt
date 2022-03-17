@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Address Book */
 object FA_ADDRESS_BOOK: Icon {
 	
 	override val name get() = "Address Book"
@@ -40,4 +41,5 @@ object FA_ADDRESS_BOOK: Icon {
 	
 }
 
+/** Alias for [FA_ADDRESS_BOOK]. */
 val FA_CONTACT_BOOK = FA_ADDRESS_BOOK

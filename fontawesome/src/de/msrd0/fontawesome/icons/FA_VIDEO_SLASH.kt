@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Video Slash */
 object FA_VIDEO_SLASH: Icon {
 	
 	override val name get() = "Video Slash"

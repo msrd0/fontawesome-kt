@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Carrot */
 object FA_CARROT: Icon {
 	
 	override val name get() = "Carrot"

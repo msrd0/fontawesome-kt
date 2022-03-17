@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Right left */
 object FA_RIGHT_LEFT: Icon {
 	
 	override val name get() = "Right left"
@@ -38,4 +39,5 @@ object FA_RIGHT_LEFT: Icon {
 	
 }
 
+/** Alias for [FA_RIGHT_LEFT]. */
 val FA_EXCHANGE_ALT = FA_RIGHT_LEFT

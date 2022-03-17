@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Naira Sign */
 object FA_NAIRA_SIGN: Icon {
 	
 	override val name get() = "Naira Sign"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bolt */
 object FA_BOLT: Icon {
 	
 	override val name get() = "Bolt"
@@ -38,4 +39,5 @@ object FA_BOLT: Icon {
 	
 }
 
+/** Alias for [FA_BOLT]. */
 val FA_ZAP = FA_BOLT

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Joget */
 object FA_JOGET: Icon {
 	
 	override val name get() = "Joget"

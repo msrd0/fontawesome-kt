@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** minus */
 object FA_MINUS: Icon {
 	
 	override val name get() = "minus"
@@ -38,4 +39,5 @@ object FA_MINUS: Icon {
 	
 }
 
+/** Alias for [FA_MINUS]. */
 val FA_SUBTRACT = FA_MINUS

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bowl Food */
 object FA_BOWL_FOOD: Icon {
 	
 	override val name get() = "Bowl Food"

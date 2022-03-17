@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** File lines */
 object FA_FILE_LINES: Icon {
 	
 	override val name get() = "File lines"
@@ -40,6 +41,8 @@ object FA_FILE_LINES: Icon {
 	
 }
 
+/** Alias for [FA_FILE_LINES]. */
 val FA_FILE_ALT = FA_FILE_LINES
 
+/** Alias for [FA_FILE_LINES]. */
 val FA_FILE_TEXT = FA_FILE_LINES

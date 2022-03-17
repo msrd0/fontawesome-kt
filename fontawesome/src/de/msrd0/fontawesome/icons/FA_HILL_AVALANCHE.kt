@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hill Avalanche */
 object FA_HILL_AVALANCHE: Icon {
 	
 	override val name get() = "Hill Avalanche"

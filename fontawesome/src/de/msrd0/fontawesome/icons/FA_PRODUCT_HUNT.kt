@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Product Hunt */
 object FA_PRODUCT_HUNT: Icon {
 	
 	override val name get() = "Product Hunt"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Text Width */
 object FA_TEXT_WIDTH: Icon {
 	
 	override val name get() = "Text Width"

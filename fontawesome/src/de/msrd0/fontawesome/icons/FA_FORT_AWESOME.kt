@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Fort Awesome */
 object FA_FORT_AWESOME: Icon {
 	
 	override val name get() = "Fort Awesome"

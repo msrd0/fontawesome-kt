@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** File zipper */
 object FA_FILE_ZIPPER: Icon {
 	
 	override val name get() = "File zipper"
@@ -40,4 +41,5 @@ object FA_FILE_ZIPPER: Icon {
 	
 }
 
+/** Alias for [FA_FILE_ZIPPER]. */
 val FA_FILE_ARCHIVE = FA_FILE_ZIPPER

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Gifts */
 object FA_GIFTS: Icon {
 	
 	override val name get() = "Gifts"

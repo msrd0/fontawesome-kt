@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ruler */
 object FA_RULER: Icon {
 	
 	override val name get() = "Ruler"

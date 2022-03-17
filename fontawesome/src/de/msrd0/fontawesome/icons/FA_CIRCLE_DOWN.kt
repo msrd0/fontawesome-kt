@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Circle down */
 object FA_CIRCLE_DOWN: Icon {
 	
 	override val name get() = "Circle down"
@@ -40,4 +41,5 @@ object FA_CIRCLE_DOWN: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_DOWN]. */
 val FA_ARROW_ALT_CIRCLE_DOWN = FA_CIRCLE_DOWN

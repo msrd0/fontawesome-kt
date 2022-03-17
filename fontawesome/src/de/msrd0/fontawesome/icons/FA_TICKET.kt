@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ticket */
 object FA_TICKET: Icon {
 	
 	override val name get() = "Ticket"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** align-justify */
 object FA_ALIGN_JUSTIFY: Icon {
 	
 	override val name get() = "align-justify"

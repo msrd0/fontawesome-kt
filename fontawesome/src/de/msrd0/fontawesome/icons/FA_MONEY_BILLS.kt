@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Money Bills */
 object FA_MONEY_BILLS: Icon {
 	
 	override val name get() = "Money Bills"

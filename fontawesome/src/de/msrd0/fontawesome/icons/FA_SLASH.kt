@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Slash */
 object FA_SLASH: Icon {
 	
 	override val name get() = "Slash"

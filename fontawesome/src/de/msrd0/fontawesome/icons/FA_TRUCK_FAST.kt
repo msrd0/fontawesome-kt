@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Truck fast */
 object FA_TRUCK_FAST: Icon {
 	
 	override val name get() = "Truck fast"
@@ -38,4 +39,5 @@ object FA_TRUCK_FAST: Icon {
 	
 }
 
+/** Alias for [FA_TRUCK_FAST]. */
 val FA_SHIPPING_FAST = FA_TRUCK_FAST

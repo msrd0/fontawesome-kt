@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Scissors */
 object FA_SCISSORS: Icon {
 	
 	override val name get() = "Scissors"
@@ -38,4 +39,5 @@ object FA_SCISSORS: Icon {
 	
 }
 
+/** Alias for [FA_SCISSORS]. */
 val FA_CUT = FA_SCISSORS

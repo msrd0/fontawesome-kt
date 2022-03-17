@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** list-ol */
 object FA_LIST_OL: Icon {
 	
 	override val name get() = "list-ol"
@@ -38,6 +39,8 @@ object FA_LIST_OL: Icon {
 	
 }
 
+/** Alias for [FA_LIST_OL]. */
 val FA_LIST_1_2 = FA_LIST_OL
 
+/** Alias for [FA_LIST_OL]. */
 val FA_LIST_NUMERIC = FA_LIST_OL

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Face frown open */
 object FA_FACE_FROWN_OPEN: Icon {
 	
 	override val name get() = "Face frown open"
@@ -40,4 +41,5 @@ object FA_FACE_FROWN_OPEN: Icon {
 	
 }
 
+/** Alias for [FA_FACE_FROWN_OPEN]. */
 val FA_FROWN_OPEN = FA_FACE_FROWN_OPEN

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Clipboard List */
 object FA_CLIPBOARD_LIST: Icon {
 	
 	override val name get() = "Clipboard List"

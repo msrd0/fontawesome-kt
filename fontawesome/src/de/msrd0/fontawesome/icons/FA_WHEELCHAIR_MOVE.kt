@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Wheelchair Move */
 object FA_WHEELCHAIR_MOVE: Icon {
 	
 	override val name get() = "Wheelchair Move"
@@ -38,4 +39,5 @@ object FA_WHEELCHAIR_MOVE: Icon {
 	
 }
 
+/** Alias for [FA_WHEELCHAIR_MOVE]. */
 val FA_WHEELCHAIR_ALT = FA_WHEELCHAIR_MOVE

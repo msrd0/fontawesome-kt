@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Headset */
 object FA_HEADSET: Icon {
 	
 	override val name get() = "Headset"

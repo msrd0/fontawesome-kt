@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Plate Wheat */
 object FA_PLATE_WHEAT: Icon {
 	
 	override val name get() = "Plate Wheat"

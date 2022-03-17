@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Fulcrum */
 object FA_FULCRUM: Icon {
 	
 	override val name get() = "Fulcrum"

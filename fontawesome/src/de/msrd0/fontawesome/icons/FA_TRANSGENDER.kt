@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Transgender */
 object FA_TRANSGENDER: Icon {
 	
 	override val name get() = "Transgender"
@@ -38,4 +39,5 @@ object FA_TRANSGENDER: Icon {
 	
 }
 
+/** Alias for [FA_TRANSGENDER]. */
 val FA_TRANSGENDER_ALT = FA_TRANSGENDER

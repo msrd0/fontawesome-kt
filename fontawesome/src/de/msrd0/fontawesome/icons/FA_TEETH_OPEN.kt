@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Teeth Open */
 object FA_TEETH_OPEN: Icon {
 	
 	override val name get() = "Teeth Open"

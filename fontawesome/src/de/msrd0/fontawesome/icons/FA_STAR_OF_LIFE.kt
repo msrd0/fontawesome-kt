@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Star of Life */
 object FA_STAR_OF_LIFE: Icon {
 	
 	override val name get() = "Star of Life"

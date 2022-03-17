@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Markdown */
 object FA_MARKDOWN: Icon {
 	
 	override val name get() = "Markdown"

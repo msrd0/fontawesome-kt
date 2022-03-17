@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Cloudflare */
 object FA_CLOUDFLARE: Icon {
 	
 	override val name get() = "Cloudflare"

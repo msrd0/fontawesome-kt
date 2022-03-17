@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Laptop File */
 object FA_LAPTOP_FILE: Icon {
 	
 	override val name get() = "Laptop File"

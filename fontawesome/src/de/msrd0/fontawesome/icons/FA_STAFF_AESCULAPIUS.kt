@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Staff Aesculapius */
 object FA_STAFF_AESCULAPIUS: Icon {
 	
 	override val name get() = "Staff Aesculapius"
@@ -38,8 +39,11 @@ object FA_STAFF_AESCULAPIUS: Icon {
 	
 }
 
+/** Alias for [FA_STAFF_AESCULAPIUS]. */
 val FA_ROD_ASCLEPIUS = FA_STAFF_AESCULAPIUS
 
+/** Alias for [FA_STAFF_AESCULAPIUS]. */
 val FA_ROD_SNAKE = FA_STAFF_AESCULAPIUS
 
+/** Alias for [FA_STAFF_AESCULAPIUS]. */
 val FA_STAFF_SNAKE = FA_STAFF_AESCULAPIUS

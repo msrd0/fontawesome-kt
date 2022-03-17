@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Delete left */
 object FA_DELETE_LEFT: Icon {
 	
 	override val name get() = "Delete left"
@@ -38,4 +39,5 @@ object FA_DELETE_LEFT: Icon {
 	
 }
 
+/** Alias for [FA_DELETE_LEFT]. */
 val FA_BACKSPACE = FA_DELETE_LEFT

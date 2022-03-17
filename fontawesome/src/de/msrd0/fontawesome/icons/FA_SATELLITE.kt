@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Satellite */
 object FA_SATELLITE: Icon {
 	
 	override val name get() = "Satellite"

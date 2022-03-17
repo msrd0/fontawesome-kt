@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Cruzeiro Sign */
 object FA_CRUZEIRO_SIGN: Icon {
 	
 	override val name get() = "Cruzeiro Sign"

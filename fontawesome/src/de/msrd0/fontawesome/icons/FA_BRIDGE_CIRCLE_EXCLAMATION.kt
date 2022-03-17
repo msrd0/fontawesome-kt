@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bridge Circle-exclamation */
 object FA_BRIDGE_CIRCLE_EXCLAMATION: Icon {
 	
 	override val name get() = "Bridge Circle-exclamation"

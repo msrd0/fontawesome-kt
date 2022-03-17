@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** MODX */
 object FA_MODX: Icon {
 	
 	override val name get() = "MODX"

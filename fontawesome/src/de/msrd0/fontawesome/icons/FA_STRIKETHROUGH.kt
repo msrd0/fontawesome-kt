@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Strikethrough */
 object FA_STRIKETHROUGH: Icon {
 	
 	override val name get() = "Strikethrough"

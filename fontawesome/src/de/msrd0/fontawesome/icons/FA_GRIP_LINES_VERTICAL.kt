@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Grip Lines Vertical */
 object FA_GRIP_LINES_VERTICAL: Icon {
 	
 	override val name get() = "Grip Lines Vertical"

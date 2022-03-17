@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Walking-arrow-loop-left */
 object FA_PERSON_WALKING_ARROW_LOOP_LEFT: Icon {
 	
 	override val name get() = "Person Walking-arrow-loop-left"

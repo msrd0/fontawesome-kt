@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Floppy Disk */
 object FA_FLOPPY_DISK: Icon {
 	
 	override val name get() = "Floppy Disk"
@@ -40,4 +41,5 @@ object FA_FLOPPY_DISK: Icon {
 	
 }
 
+/** Alias for [FA_FLOPPY_DISK]. */
 val FA_SAVE = FA_FLOPPY_DISK

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Face grin squint tears */
 object FA_FACE_GRIN_SQUINT_TEARS: Icon {
 	
 	override val name get() = "Face grin squint tears"
@@ -40,4 +41,5 @@ object FA_FACE_GRIN_SQUINT_TEARS: Icon {
 	
 }
 
+/** Alias for [FA_FACE_GRIN_SQUINT_TEARS]. */
 val FA_GRIN_SQUINT_TEARS = FA_FACE_GRIN_SQUINT_TEARS

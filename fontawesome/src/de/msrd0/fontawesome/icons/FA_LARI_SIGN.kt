@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Lari Sign */
 object FA_LARI_SIGN: Icon {
 	
 	override val name get() = "Lari Sign"

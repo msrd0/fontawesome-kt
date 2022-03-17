@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** arrow-left */
 object FA_ARROW_LEFT: Icon {
 	
 	override val name get() = "arrow-left"

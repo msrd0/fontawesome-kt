@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Kaaba */
 object FA_KAABA: Icon {
 	
 	override val name get() = "Kaaba"

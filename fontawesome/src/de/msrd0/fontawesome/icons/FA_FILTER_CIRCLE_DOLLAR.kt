@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Filter Circle Dollar */
 object FA_FILTER_CIRCLE_DOLLAR: Icon {
 	
 	override val name get() = "Filter Circle Dollar"
@@ -38,4 +39,5 @@ object FA_FILTER_CIRCLE_DOLLAR: Icon {
 	
 }
 
+/** Alias for [FA_FILTER_CIRCLE_DOLLAR]. */
 val FA_FUNNEL_DOLLAR = FA_FILTER_CIRCLE_DOLLAR

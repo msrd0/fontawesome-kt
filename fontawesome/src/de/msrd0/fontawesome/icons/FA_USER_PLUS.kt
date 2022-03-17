@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** User Plus */
 object FA_USER_PLUS: Icon {
 	
 	override val name get() = "User Plus"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** bullhorn */
 object FA_BULLHORN: Icon {
 	
 	override val name get() = "bullhorn"

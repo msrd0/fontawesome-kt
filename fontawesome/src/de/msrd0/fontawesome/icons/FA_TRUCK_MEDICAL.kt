@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Truck medical */
 object FA_TRUCK_MEDICAL: Icon {
 	
 	override val name get() = "Truck medical"
@@ -38,4 +39,5 @@ object FA_TRUCK_MEDICAL: Icon {
 	
 }
 
+/** Alias for [FA_TRUCK_MEDICAL]. */
 val FA_AMBULANCE = FA_TRUCK_MEDICAL

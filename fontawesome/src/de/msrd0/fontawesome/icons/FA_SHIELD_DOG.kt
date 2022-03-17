@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shield Dog */
 object FA_SHIELD_DOG: Icon {
 	
 	override val name get() = "Shield Dog"

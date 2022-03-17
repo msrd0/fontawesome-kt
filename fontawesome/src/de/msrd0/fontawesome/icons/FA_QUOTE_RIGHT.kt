@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** quote-right */
 object FA_QUOTE_RIGHT: Icon {
 	
 	override val name get() = "quote-right"
@@ -38,4 +39,5 @@ object FA_QUOTE_RIGHT: Icon {
 	
 }
 
+/** Alias for [FA_QUOTE_RIGHT]. */
 val FA_QUOTE_RIGHT_ALT = FA_QUOTE_RIGHT

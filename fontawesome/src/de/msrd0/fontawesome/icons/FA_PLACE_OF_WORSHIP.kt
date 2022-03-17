@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Place of Worship */
 object FA_PLACE_OF_WORSHIP: Icon {
 	
 	override val name get() = "Place of Worship"

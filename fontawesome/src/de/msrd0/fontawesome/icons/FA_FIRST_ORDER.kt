@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** First Order */
 object FA_FIRST_ORDER: Icon {
 	
 	override val name get() = "First Order"

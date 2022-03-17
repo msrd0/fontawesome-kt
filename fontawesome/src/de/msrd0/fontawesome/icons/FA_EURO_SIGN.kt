@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Euro Sign */
 object FA_EURO_SIGN: Icon {
 	
 	override val name get() = "Euro Sign"
@@ -38,6 +39,8 @@ object FA_EURO_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_EURO_SIGN]. */
 val FA_EUR = FA_EURO_SIGN
 
+/** Alias for [FA_EURO_SIGN]. */
 val FA_EURO = FA_EURO_SIGN

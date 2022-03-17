@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Telegram */
 object FA_TELEGRAM: Icon {
 	
 	override val name get() = "Telegram"
@@ -38,4 +39,5 @@ object FA_TELEGRAM: Icon {
 	
 }
 
+/** Alias for [FA_TELEGRAM]. */
 val FA_TELEGRAM_PLANE = FA_TELEGRAM

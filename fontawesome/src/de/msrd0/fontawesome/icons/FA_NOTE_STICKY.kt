@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Note sticky */
 object FA_NOTE_STICKY: Icon {
 	
 	override val name get() = "Note sticky"
@@ -40,4 +41,5 @@ object FA_NOTE_STICKY: Icon {
 	
 }
 
+/** Alias for [FA_NOTE_STICKY]. */
 val FA_STICKY_NOTE = FA_NOTE_STICKY

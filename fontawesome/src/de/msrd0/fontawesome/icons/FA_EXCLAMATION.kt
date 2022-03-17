@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** exclamation */
 object FA_EXCLAMATION: Icon {
 	
 	override val name get() = "exclamation"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Recycle */
 object FA_RECYCLE: Icon {
 	
 	override val name get() = "Recycle"

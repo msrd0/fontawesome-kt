@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** chevron-down */
 object FA_CHEVRON_DOWN: Icon {
 	
 	override val name get() = "chevron-down"

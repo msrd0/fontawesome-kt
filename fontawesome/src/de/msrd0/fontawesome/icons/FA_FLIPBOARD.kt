@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Flipboard */
 object FA_FLIPBOARD: Icon {
 	
 	override val name get() = "Flipboard"

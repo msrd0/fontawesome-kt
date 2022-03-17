@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mountain Sun */
 object FA_MOUNTAIN_SUN: Icon {
 	
 	override val name get() = "Mountain Sun"

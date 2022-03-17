@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Sliders */
 object FA_SLIDERS: Icon {
 	
 	override val name get() = "Sliders"
@@ -38,4 +39,5 @@ object FA_SLIDERS: Icon {
 	
 }
 
+/** Alias for [FA_SLIDERS]. */
 val FA_SLIDERS_H = FA_SLIDERS

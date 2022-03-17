@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Up right from square */
 object FA_UP_RIGHT_FROM_SQUARE: Icon {
 	
 	override val name get() = "Up right from square"
@@ -38,4 +39,5 @@ object FA_UP_RIGHT_FROM_SQUARE: Icon {
 	
 }
 
+/** Alias for [FA_UP_RIGHT_FROM_SQUARE]. */
 val FA_EXTERNAL_LINK_ALT = FA_UP_RIGHT_FROM_SQUARE

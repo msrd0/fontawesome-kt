@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Yin Yang */
 object FA_YIN_YANG: Icon {
 	
 	override val name get() = "Yin Yang"

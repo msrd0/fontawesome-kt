@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Photo film */
 object FA_PHOTO_FILM: Icon {
 	
 	override val name get() = "Photo film"
@@ -38,4 +39,5 @@ object FA_PHOTO_FILM: Icon {
 	
 }
 
+/** Alias for [FA_PHOTO_FILM]. */
 val FA_PHOTO_VIDEO = FA_PHOTO_FILM

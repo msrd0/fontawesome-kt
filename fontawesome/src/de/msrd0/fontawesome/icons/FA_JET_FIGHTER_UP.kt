@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Jet Fighter Up */
 object FA_JET_FIGHTER_UP: Icon {
 	
 	override val name get() = "Jet Fighter Up"

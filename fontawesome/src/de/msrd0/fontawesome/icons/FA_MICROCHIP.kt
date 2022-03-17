@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Microchip */
 object FA_MICROCHIP: Icon {
 	
 	override val name get() = "Microchip"

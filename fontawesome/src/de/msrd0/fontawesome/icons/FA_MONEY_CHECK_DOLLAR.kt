@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Money check dollar */
 object FA_MONEY_CHECK_DOLLAR: Icon {
 	
 	override val name get() = "Money check dollar"
@@ -38,4 +39,5 @@ object FA_MONEY_CHECK_DOLLAR: Icon {
 	
 }
 
+/** Alias for [FA_MONEY_CHECK_DOLLAR]. */
 val FA_MONEY_CHECK_ALT = FA_MONEY_CHECK_DOLLAR

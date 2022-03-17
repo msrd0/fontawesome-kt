@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Helmet Un */
 object FA_HELMET_UN: Icon {
 	
 	override val name get() = "Helmet Un"

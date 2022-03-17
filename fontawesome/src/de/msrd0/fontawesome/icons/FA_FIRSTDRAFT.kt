@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** firstdraft */
 object FA_FIRSTDRAFT: Icon {
 	
 	override val name get() = "firstdraft"

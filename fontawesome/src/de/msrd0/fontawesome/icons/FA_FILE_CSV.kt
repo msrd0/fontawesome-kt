@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File CSV */
 object FA_FILE_CSV: Icon {
 	
 	override val name get() = "File CSV"

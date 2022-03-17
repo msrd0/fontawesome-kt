@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Arrow-up-from-line */
 object FA_PERSON_ARROW_UP_FROM_LINE: Icon {
 	
 	override val name get() = "Person Arrow-up-from-line"

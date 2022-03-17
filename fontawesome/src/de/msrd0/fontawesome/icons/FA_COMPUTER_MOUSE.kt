@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Computer mouse */
 object FA_COMPUTER_MOUSE: Icon {
 	
 	override val name get() = "Computer mouse"
@@ -38,4 +39,5 @@ object FA_COMPUTER_MOUSE: Icon {
 	
 }
 
+/** Alias for [FA_COMPUTER_MOUSE]. */
 val FA_MOUSE = FA_COMPUTER_MOUSE

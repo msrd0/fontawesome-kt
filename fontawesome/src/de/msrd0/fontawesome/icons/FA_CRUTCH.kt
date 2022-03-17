@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Crutch */
 object FA_CRUTCH: Icon {
 	
 	override val name get() = "Crutch"

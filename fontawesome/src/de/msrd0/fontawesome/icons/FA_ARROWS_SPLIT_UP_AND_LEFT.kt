@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrows Split-up-and-left */
 object FA_ARROWS_SPLIT_UP_AND_LEFT: Icon {
 	
 	override val name get() = "Arrows Split-up-and-left"

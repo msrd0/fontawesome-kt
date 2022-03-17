@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Wizards of the Coast */
 object FA_WIZARDS_OF_THE_COAST: Icon {
 	
 	override val name get() = "Wizards of the Coast"

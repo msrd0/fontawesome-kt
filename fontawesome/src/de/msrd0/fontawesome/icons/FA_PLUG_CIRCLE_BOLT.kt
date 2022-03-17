@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Plug Circle-bolt */
 object FA_PLUG_CIRCLE_BOLT: Icon {
 	
 	override val name get() = "Plug Circle-bolt"

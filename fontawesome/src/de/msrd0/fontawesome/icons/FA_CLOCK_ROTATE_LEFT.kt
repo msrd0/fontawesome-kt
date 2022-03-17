@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Clock Rotate Left */
 object FA_CLOCK_ROTATE_LEFT: Icon {
 	
 	override val name get() = "Clock Rotate Left"
@@ -38,4 +39,5 @@ object FA_CLOCK_ROTATE_LEFT: Icon {
 	
 }
 
+/** Alias for [FA_CLOCK_ROTATE_LEFT]. */
 val FA_HISTORY = FA_CLOCK_ROTATE_LEFT

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Spray Can Sparkles */
 object FA_SPRAY_CAN_SPARKLES: Icon {
 	
 	override val name get() = "Spray Can Sparkles"
@@ -38,4 +39,5 @@ object FA_SPRAY_CAN_SPARKLES: Icon {
 	
 }
 
+/** Alias for [FA_SPRAY_CAN_SPARKLES]. */
 val FA_AIR_FRESHENER = FA_SPRAY_CAN_SPARKLES

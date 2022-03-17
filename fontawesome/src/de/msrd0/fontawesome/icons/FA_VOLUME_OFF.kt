@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Volume Off */
 object FA_VOLUME_OFF: Icon {
 	
 	override val name get() = "Volume Off"

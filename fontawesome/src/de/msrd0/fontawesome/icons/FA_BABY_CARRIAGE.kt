@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Baby Carriage */
 object FA_BABY_CARRIAGE: Icon {
 	
 	override val name get() = "Baby Carriage"
@@ -38,4 +39,5 @@ object FA_BABY_CARRIAGE: Icon {
 	
 }
 
+/** Alias for [FA_BABY_CARRIAGE]. */
 val FA_CARRIAGE_BABY = FA_BABY_CARRIAGE

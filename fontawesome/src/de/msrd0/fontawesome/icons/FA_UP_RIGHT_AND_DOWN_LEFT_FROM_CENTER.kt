@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Up right and down left from center */
 object FA_UP_RIGHT_AND_DOWN_LEFT_FROM_CENTER: Icon {
 	
 	override val name get() = "Up right and down left from center"
@@ -38,4 +39,5 @@ object FA_UP_RIGHT_AND_DOWN_LEFT_FROM_CENTER: Icon {
 	
 }
 
+/** Alias for [FA_UP_RIGHT_AND_DOWN_LEFT_FROM_CENTER]. */
 val FA_EXPAND_ALT = FA_UP_RIGHT_AND_DOWN_LEFT_FROM_CENTER

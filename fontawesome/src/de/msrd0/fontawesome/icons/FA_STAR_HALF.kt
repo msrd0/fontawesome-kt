@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** star-half */
 object FA_STAR_HALF: Icon {
 	
 	override val name get() = "star-half"

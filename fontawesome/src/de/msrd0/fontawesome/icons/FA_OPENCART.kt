@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** OpenCart */
 object FA_OPENCART: Icon {
 	
 	override val name get() = "OpenCart"

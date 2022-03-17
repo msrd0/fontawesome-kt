@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Dice One */
 object FA_DICE_ONE: Icon {
 	
 	override val name get() = "Dice One"

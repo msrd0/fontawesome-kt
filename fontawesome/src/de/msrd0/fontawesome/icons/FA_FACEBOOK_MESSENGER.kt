@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Facebook Messenger */
 object FA_FACEBOOK_MESSENGER: Icon {
 	
 	override val name get() = "Facebook Messenger"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Heart crack */
 object FA_HEART_CRACK: Icon {
 	
 	override val name get() = "Heart crack"
@@ -38,4 +39,5 @@ object FA_HEART_CRACK: Icon {
 	
 }
 
+/** Alias for [FA_HEART_CRACK]. */
 val FA_HEART_BROKEN = FA_HEART_CRACK

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bottle Droplet */
 object FA_BOTTLE_DROPLET: Icon {
 	
 	override val name get() = "Bottle Droplet"

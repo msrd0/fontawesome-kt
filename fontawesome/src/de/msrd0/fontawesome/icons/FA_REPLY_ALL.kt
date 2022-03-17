@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** reply-all */
 object FA_REPLY_ALL: Icon {
 	
 	override val name get() = "reply-all"
@@ -38,4 +39,5 @@ object FA_REPLY_ALL: Icon {
 	
 }
 
+/** Alias for [FA_REPLY_ALL]. */
 val FA_MAIL_REPLY_ALL = FA_REPLY_ALL

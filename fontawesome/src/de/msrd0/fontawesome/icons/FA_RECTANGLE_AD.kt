@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Rectangle ad */
 object FA_RECTANGLE_AD: Icon {
 	
 	override val name get() = "Rectangle ad"
@@ -38,4 +39,5 @@ object FA_RECTANGLE_AD: Icon {
 	
 }
 
+/** Alias for [FA_RECTANGLE_AD]. */
 val FA_AD = FA_RECTANGLE_AD

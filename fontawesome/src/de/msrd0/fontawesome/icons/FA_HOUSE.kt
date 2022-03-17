@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** House */
 object FA_HOUSE: Icon {
 	
 	override val name get() = "House"
@@ -38,8 +39,11 @@ object FA_HOUSE: Icon {
 	
 }
 
+/** Alias for [FA_HOUSE]. */
 val FA_HOME = FA_HOUSE
 
+/** Alias for [FA_HOUSE]. */
 val FA_HOME_ALT = FA_HOUSE
 
+/** Alias for [FA_HOUSE]. */
 val FA_HOME_LG_ALT = FA_HOUSE

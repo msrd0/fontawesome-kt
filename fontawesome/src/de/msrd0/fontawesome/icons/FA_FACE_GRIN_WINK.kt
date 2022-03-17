@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Face grin wink */
 object FA_FACE_GRIN_WINK: Icon {
 	
 	override val name get() = "Face grin wink"
@@ -40,4 +41,5 @@ object FA_FACE_GRIN_WINK: Icon {
 	
 }
 
+/** Alias for [FA_FACE_GRIN_WINK]. */
 val FA_GRIN_WINK = FA_FACE_GRIN_WINK

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Trowel */
 object FA_TROWEL: Icon {
 	
 	override val name get() = "Trowel"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Chart Simple */
 object FA_CHART_SIMPLE: Icon {
 	
 	override val name get() = "Chart Simple"

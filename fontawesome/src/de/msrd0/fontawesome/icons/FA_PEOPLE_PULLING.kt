@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** People Pulling */
 object FA_PEOPLE_PULLING: Icon {
 	
 	override val name get() = "People Pulling"

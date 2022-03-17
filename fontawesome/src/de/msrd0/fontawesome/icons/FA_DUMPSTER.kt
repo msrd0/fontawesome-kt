@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Dumpster */
 object FA_DUMPSTER: Icon {
 	
 	override val name get() = "Dumpster"

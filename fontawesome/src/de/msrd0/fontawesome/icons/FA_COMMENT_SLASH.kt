@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Comment Slash */
 object FA_COMMENT_SLASH: Icon {
 	
 	override val name get() = "Comment Slash"

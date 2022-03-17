@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow up 1 9 */
 object FA_ARROW_UP_1_9: Icon {
 	
 	override val name get() = "Arrow up 1 9"
@@ -38,4 +39,5 @@ object FA_ARROW_UP_1_9: Icon {
 	
 }
 
+/** Alias for [FA_ARROW_UP_1_9]. */
 val FA_SORT_NUMERIC_UP = FA_ARROW_UP_1_9

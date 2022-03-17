@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Download */
 object FA_DOWNLOAD: Icon {
 	
 	override val name get() = "Download"

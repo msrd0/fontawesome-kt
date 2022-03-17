@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Yen Sign */
 object FA_YEN_SIGN: Icon {
 	
 	override val name get() = "Yen Sign"
@@ -38,10 +39,14 @@ object FA_YEN_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_YEN_SIGN]. */
 val FA_CNY = FA_YEN_SIGN
 
+/** Alias for [FA_YEN_SIGN]. */
 val FA_JPY = FA_YEN_SIGN
 
+/** Alias for [FA_YEN_SIGN]. */
 val FA_RMB = FA_YEN_SIGN
 
+/** Alias for [FA_YEN_SIGN]. */
 val FA_YEN = FA_YEN_SIGN

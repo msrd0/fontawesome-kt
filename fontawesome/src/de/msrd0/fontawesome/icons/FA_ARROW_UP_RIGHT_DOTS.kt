@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow Up-right-dots */
 object FA_ARROW_UP_RIGHT_DOTS: Icon {
 	
 	override val name get() = "Arrow Up-right-dots"

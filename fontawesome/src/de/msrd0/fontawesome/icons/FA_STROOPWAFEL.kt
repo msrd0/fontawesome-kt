@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Stroopwafel */
 object FA_STROOPWAFEL: Icon {
 	
 	override val name get() = "Stroopwafel"

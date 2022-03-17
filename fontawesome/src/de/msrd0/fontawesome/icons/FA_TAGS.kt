@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** tags */
 object FA_TAGS: Icon {
 	
 	override val name get() = "tags"

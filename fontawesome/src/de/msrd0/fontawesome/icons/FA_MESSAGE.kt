@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Message */
 object FA_MESSAGE: Icon {
 	
 	override val name get() = "Message"
@@ -40,4 +41,5 @@ object FA_MESSAGE: Icon {
 	
 }
 
+/** Alias for [FA_MESSAGE]. */
 val FA_COMMENT_ALT = FA_MESSAGE

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Folder Tree */
 object FA_FOLDER_TREE: Icon {
 	
 	override val name get() = "Folder Tree"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Nimblr */
 object FA_NIMBLR: Icon {
 	
 	override val name get() = "Nimblr"

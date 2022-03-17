@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Retweet */
 object FA_RETWEET: Icon {
 	
 	override val name get() = "Retweet"

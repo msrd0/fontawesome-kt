@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ear listen */
 object FA_EAR_LISTEN: Icon {
 	
 	override val name get() = "Ear listen"
@@ -38,4 +39,5 @@ object FA_EAR_LISTEN: Icon {
 	
 }
 
+/** Alias for [FA_EAR_LISTEN]. */
 val FA_ASSISTIVE_LISTENING_SYSTEMS = FA_EAR_LISTEN

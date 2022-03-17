@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Fingerprint */
 object FA_FINGERPRINT: Icon {
 	
 	override val name get() = "Fingerprint"

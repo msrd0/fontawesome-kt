@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Drum Steelpan */
 object FA_DRUM_STEELPAN: Icon {
 	
 	override val name get() = "Drum Steelpan"

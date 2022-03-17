@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Scribd */
 object FA_SCRIBD: Icon {
 	
 	override val name get() = "Scribd"

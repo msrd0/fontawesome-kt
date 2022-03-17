@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Display */
 object FA_DISPLAY: Icon {
 	
 	override val name get() = "Display"

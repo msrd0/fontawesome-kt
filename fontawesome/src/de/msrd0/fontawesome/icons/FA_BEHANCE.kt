@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Behance */
 object FA_BEHANCE: Icon {
 	
 	override val name get() = "Behance"

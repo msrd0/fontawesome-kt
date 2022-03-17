@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Peace */
 object FA_PEACE: Icon {
 	
 	override val name get() = "Peace"

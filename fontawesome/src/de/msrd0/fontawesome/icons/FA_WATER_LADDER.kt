@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Water ladder */
 object FA_WATER_LADDER: Icon {
 	
 	override val name get() = "Water ladder"
@@ -38,6 +39,8 @@ object FA_WATER_LADDER: Icon {
 	
 }
 
+/** Alias for [FA_WATER_LADDER]. */
 val FA_LADDER_WATER = FA_WATER_LADDER
 
+/** Alias for [FA_WATER_LADDER]. */
 val FA_SWIMMING_POOL = FA_WATER_LADDER

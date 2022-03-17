@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Yarn */
 object FA_YARN: Icon {
 	
 	override val name get() = "Yarn"

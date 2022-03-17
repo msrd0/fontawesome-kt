@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Book skull */
 object FA_BOOK_SKULL: Icon {
 	
 	override val name get() = "Book skull"
@@ -38,4 +39,5 @@ object FA_BOOK_SKULL: Icon {
 	
 }
 
+/** Alias for [FA_BOOK_SKULL]. */
 val FA_BOOK_DEAD = FA_BOOK_SKULL

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Half-dress */
 object FA_PERSON_HALF_DRESS: Icon {
 	
 	override val name get() = "Person Half-dress"

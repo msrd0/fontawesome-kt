@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Trowel Bricks */
 object FA_TROWEL_BRICKS: Icon {
 	
 	override val name get() = "Trowel Bricks"

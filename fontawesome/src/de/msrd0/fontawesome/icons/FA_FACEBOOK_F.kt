@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Facebook F */
 object FA_FACEBOOK_F: Icon {
 	
 	override val name get() = "Facebook F"

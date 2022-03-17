@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Igloo */
 object FA_IGLOO: Icon {
 	
 	override val name get() = "Igloo"

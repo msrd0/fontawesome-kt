@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File Invoice */
 object FA_FILE_INVOICE: Icon {
 	
 	override val name get() = "File Invoice"

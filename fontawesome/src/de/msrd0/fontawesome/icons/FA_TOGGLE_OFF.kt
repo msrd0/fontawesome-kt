@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Toggle Off */
 object FA_TOGGLE_OFF: Icon {
 	
 	override val name get() = "Toggle Off"

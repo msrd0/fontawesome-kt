@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** plus */
 object FA_PLUS: Icon {
 	
 	override val name get() = "plus"
@@ -38,4 +39,5 @@ object FA_PLUS: Icon {
 	
 }
 
+/** Alias for [FA_PLUS]. */
 val FA_ADD = FA_PLUS

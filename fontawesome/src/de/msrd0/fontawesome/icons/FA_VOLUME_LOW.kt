@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Volume low */
 object FA_VOLUME_LOW: Icon {
 	
 	override val name get() = "Volume low"
@@ -38,4 +39,5 @@ object FA_VOLUME_LOW: Icon {
 	
 }
 
+/** Alias for [FA_VOLUME_LOW]. */
 val FA_VOLUME_DOWN = FA_VOLUME_LOW

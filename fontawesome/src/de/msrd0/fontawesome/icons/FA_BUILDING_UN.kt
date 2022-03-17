@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Building Un */
 object FA_BUILDING_UN: Icon {
 	
 	override val name get() = "Building Un"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** leaf */
 object FA_LEAF: Icon {
 	
 	override val name get() = "leaf"

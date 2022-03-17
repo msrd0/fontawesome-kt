@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Location Pin-lock */
 object FA_LOCATION_PIN_LOCK: Icon {
 	
 	override val name get() = "Location Pin-lock"

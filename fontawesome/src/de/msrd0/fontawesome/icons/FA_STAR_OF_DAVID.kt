@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Star of David */
 object FA_STAR_OF_DAVID: Icon {
 	
 	override val name get() = "Star of David"

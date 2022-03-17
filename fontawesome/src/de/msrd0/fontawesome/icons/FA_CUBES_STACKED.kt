@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Cubes Stacked */
 object FA_CUBES_STACKED: Icon {
 	
 	override val name get() = "Cubes Stacked"

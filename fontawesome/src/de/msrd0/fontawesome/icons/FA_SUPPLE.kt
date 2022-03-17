@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Supple */
 object FA_SUPPLE: Icon {
 	
 	override val name get() = "Supple"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shield Virus */
 object FA_SHIELD_VIRUS: Icon {
 	
 	override val name get() = "Shield Virus"

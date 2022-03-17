@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Braille */
 object FA_BRAILLE: Icon {
 	
 	override val name get() = "Braille"

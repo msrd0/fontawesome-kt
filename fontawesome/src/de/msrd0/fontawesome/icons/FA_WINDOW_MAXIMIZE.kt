@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Window Maximize */
 object FA_WINDOW_MAXIMIZE: Icon {
 	
 	override val name get() = "Window Maximize"

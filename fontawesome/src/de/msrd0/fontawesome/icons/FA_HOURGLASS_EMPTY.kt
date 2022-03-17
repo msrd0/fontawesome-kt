@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hourglass empty */
 object FA_HOURGLASS_EMPTY: Icon {
 	
 	override val name get() = "Hourglass empty"

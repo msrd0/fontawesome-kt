@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Google Wallet */
 object FA_GOOGLE_WALLET: Icon {
 	
 	override val name get() = "Google Wallet"

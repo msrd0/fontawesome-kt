@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hashtag */
 object FA_HASHTAG: Icon {
 	
 	override val name get() = "Hashtag"

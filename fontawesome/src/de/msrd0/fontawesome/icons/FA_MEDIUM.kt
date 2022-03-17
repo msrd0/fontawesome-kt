@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Medium */
 object FA_MEDIUM: Icon {
 	
 	override val name get() = "Medium"
@@ -38,4 +39,5 @@ object FA_MEDIUM: Icon {
 	
 }
 
+/** Alias for [FA_MEDIUM]. */
 val FA_MEDIUM_M = FA_MEDIUM

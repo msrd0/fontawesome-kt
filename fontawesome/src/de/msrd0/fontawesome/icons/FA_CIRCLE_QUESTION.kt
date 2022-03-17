@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Circle question */
 object FA_CIRCLE_QUESTION: Icon {
 	
 	override val name get() = "Circle question"
@@ -40,4 +41,5 @@ object FA_CIRCLE_QUESTION: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_QUESTION]. */
 val FA_QUESTION_CIRCLE = FA_CIRCLE_QUESTION

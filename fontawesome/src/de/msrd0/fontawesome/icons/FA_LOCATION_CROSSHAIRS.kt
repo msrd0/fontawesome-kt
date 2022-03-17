@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Location Crosshairs */
 object FA_LOCATION_CROSSHAIRS: Icon {
 	
 	override val name get() = "Location Crosshairs"
@@ -38,4 +39,5 @@ object FA_LOCATION_CROSSHAIRS: Icon {
 	
 }
 
+/** Alias for [FA_LOCATION_CROSSHAIRS]. */
 val FA_LOCATION = FA_LOCATION_CROSSHAIRS

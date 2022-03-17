@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Users Line */
 object FA_USERS_LINE: Icon {
 	
 	override val name get() = "Users Line"

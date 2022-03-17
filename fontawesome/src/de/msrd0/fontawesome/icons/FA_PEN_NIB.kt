@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Pen Nib */
 object FA_PEN_NIB: Icon {
 	
 	override val name get() = "Pen Nib"

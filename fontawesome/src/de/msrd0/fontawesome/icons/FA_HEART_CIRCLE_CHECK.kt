@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Heart Circle-check */
 object FA_HEART_CIRCLE_CHECK: Icon {
 	
 	override val name get() = "Heart Circle-check"

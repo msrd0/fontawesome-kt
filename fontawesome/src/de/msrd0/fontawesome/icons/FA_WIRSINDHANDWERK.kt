@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** wirsindhandwerk */
 object FA_WIRSINDHANDWERK: Icon {
 	
 	override val name get() = "wirsindhandwerk"
@@ -39,4 +40,5 @@ object FA_WIRSINDHANDWERK: Icon {
 	
 }
 
+/** Alias for [FA_WIRSINDHANDWERK]. */
 val FA_WSH = FA_WIRSINDHANDWERK

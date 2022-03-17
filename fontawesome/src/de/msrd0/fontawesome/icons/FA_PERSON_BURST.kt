@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Burst */
 object FA_PERSON_BURST: Icon {
 	
 	override val name get() = "Person Burst"

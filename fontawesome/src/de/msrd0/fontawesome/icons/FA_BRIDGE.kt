@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bridge */
 object FA_BRIDGE: Icon {
 	
 	override val name get() = "Bridge"

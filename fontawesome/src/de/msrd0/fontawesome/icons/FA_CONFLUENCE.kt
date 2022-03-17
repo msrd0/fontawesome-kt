@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Confluence */
 object FA_CONFLUENCE: Icon {
 	
 	override val name get() = "Confluence"

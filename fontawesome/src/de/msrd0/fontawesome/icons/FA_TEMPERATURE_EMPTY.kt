@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Temperature empty */
 object FA_TEMPERATURE_EMPTY: Icon {
 	
 	override val name get() = "Temperature empty"
@@ -38,8 +39,11 @@ object FA_TEMPERATURE_EMPTY: Icon {
 	
 }
 
+/** Alias for [FA_TEMPERATURE_EMPTY]. */
 val FA_TEMPERATURE_0 = FA_TEMPERATURE_EMPTY
 
+/** Alias for [FA_TEMPERATURE_EMPTY]. */
 val FA_THERMOMETER_0 = FA_TEMPERATURE_EMPTY
 
+/** Alias for [FA_TEMPERATURE_EMPTY]. */
 val FA_THERMOMETER_EMPTY = FA_TEMPERATURE_EMPTY

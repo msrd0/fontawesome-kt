@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Elementor */
 object FA_ELEMENTOR: Icon {
 	
 	override val name get() = "Elementor"

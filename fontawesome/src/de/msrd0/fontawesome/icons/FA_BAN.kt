@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** ban */
 object FA_BAN: Icon {
 	
 	override val name get() = "ban"
@@ -38,4 +39,5 @@ object FA_BAN: Icon {
 	
 }
 
+/** Alias for [FA_BAN]. */
 val FA_CANCEL = FA_BAN

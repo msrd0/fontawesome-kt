@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Life Ring */
 object FA_LIFE_RING: Icon {
 	
 	override val name get() = "Life Ring"

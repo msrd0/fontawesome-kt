@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Square caret left */
 object FA_SQUARE_CARET_LEFT: Icon {
 	
 	override val name get() = "Square caret left"
@@ -40,4 +41,5 @@ object FA_SQUARE_CARET_LEFT: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_CARET_LEFT]. */
 val FA_CARET_SQUARE_LEFT = FA_SQUARE_CARET_LEFT

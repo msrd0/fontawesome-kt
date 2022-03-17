@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Accessible Icon */
 object FA_ACCESSIBLE_ICON: Icon {
 	
 	override val name get() = "Accessible Icon"

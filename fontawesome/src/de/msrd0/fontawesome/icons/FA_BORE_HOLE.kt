@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bore Hole */
 object FA_BORE_HOLE: Icon {
 	
 	override val name get() = "Bore Hole"

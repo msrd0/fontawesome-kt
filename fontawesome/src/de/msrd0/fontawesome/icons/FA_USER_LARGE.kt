@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** User large */
 object FA_USER_LARGE: Icon {
 	
 	override val name get() = "User large"
@@ -38,4 +39,5 @@ object FA_USER_LARGE: Icon {
 	
 }
 
+/** Alias for [FA_USER_LARGE]. */
 val FA_USER_ALT = FA_USER_LARGE

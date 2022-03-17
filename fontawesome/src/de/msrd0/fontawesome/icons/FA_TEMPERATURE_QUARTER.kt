@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Temperature quarter */
 object FA_TEMPERATURE_QUARTER: Icon {
 	
 	override val name get() = "Temperature quarter"
@@ -38,8 +39,11 @@ object FA_TEMPERATURE_QUARTER: Icon {
 	
 }
 
+/** Alias for [FA_TEMPERATURE_QUARTER]. */
 val FA_TEMPERATURE_1 = FA_TEMPERATURE_QUARTER
 
+/** Alias for [FA_TEMPERATURE_QUARTER]. */
 val FA_THERMOMETER_1 = FA_TEMPERATURE_QUARTER
 
+/** Alias for [FA_TEMPERATURE_QUARTER]. */
 val FA_THERMOMETER_QUARTER = FA_TEMPERATURE_QUARTER

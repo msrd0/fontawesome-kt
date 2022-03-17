@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bridge Circle-xmark */
 object FA_BRIDGE_CIRCLE_XMARK: Icon {
 	
 	override val name get() = "Bridge Circle-xmark"

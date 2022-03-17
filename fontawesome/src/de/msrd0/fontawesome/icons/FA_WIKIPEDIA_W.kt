@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Wikipedia W */
 object FA_WIKIPEDIA_W: Icon {
 	
 	override val name get() = "Wikipedia W"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Sort */
 object FA_SORT: Icon {
 	
 	override val name get() = "Sort"
@@ -38,4 +39,5 @@ object FA_SORT: Icon {
 	
 }
 
+/** Alias for [FA_SORT]. */
 val FA_UNSORTED = FA_SORT

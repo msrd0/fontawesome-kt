@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** itch.io */
 object FA_ITCH_IO: Icon {
 	
 	override val name get() = "itch.io"

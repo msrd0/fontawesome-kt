@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Trash can */
 object FA_TRASH_CAN: Icon {
 	
 	override val name get() = "Trash can"
@@ -40,4 +41,5 @@ object FA_TRASH_CAN: Icon {
 	
 }
 
+/** Alias for [FA_TRASH_CAN]. */
 val FA_TRASH_ALT = FA_TRASH_CAN

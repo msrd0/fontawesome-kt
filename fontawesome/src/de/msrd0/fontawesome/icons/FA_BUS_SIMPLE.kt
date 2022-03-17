@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bus simple */
 object FA_BUS_SIMPLE: Icon {
 	
 	override val name get() = "Bus simple"
@@ -38,4 +39,5 @@ object FA_BUS_SIMPLE: Icon {
 	
 }
 
+/** Alias for [FA_BUS_SIMPLE]. */
 val FA_BUS_ALT = FA_BUS_SIMPLE

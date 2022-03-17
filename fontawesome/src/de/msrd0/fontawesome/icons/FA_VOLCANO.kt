@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Volcano */
 object FA_VOLCANO: Icon {
 	
 	override val name get() = "Volcano"

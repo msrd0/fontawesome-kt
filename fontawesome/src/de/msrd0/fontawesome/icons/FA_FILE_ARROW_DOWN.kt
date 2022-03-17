@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File arrow down */
 object FA_FILE_ARROW_DOWN: Icon {
 	
 	override val name get() = "File arrow down"
@@ -38,4 +39,5 @@ object FA_FILE_ARROW_DOWN: Icon {
 	
 }
 
+/** Alias for [FA_FILE_ARROW_DOWN]. */
 val FA_FILE_DOWNLOAD = FA_FILE_ARROW_DOWN

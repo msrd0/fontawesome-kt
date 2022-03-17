@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Chess King */
 object FA_CHESS_KING: Icon {
 	
 	override val name get() = "Chess King"

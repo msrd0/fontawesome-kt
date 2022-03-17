@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Circle h */
 object FA_CIRCLE_H: Icon {
 	
 	override val name get() = "Circle h"
@@ -38,4 +39,5 @@ object FA_CIRCLE_H: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_H]. */
 val FA_HOSPITAL_SYMBOL = FA_CIRCLE_H

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Cash Register */
 object FA_CASH_REGISTER: Icon {
 	
 	override val name get() = "Cash Register"

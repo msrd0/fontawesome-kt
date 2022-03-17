@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Stripe S */
 object FA_STRIPE_S: Icon {
 	
 	override val name get() = "Stripe S"

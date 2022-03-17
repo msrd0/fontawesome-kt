@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mattress Pillow */
 object FA_MATTRESS_PILLOW: Icon {
 	
 	override val name get() = "Mattress Pillow"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** TTY */
 object FA_TTY: Icon {
 	
 	override val name get() = "TTY"
@@ -38,4 +39,5 @@ object FA_TTY: Icon {
 	
 }
 
+/** Alias for [FA_TTY]. */
 val FA_TELETYPE = FA_TTY

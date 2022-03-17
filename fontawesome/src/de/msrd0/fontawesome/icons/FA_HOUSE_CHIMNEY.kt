@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** House Chimney */
 object FA_HOUSE_CHIMNEY: Icon {
 	
 	override val name get() = "House Chimney"
@@ -38,4 +39,5 @@ object FA_HOUSE_CHIMNEY: Icon {
 	
 }
 
+/** Alias for [FA_HOUSE_CHIMNEY]. */
 val FA_HOME_LG = FA_HOUSE_CHIMNEY

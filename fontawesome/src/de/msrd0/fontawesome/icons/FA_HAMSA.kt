@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hamsa */
 object FA_HAMSA: Icon {
 	
 	override val name get() = "Hamsa"

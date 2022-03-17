@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** pencil */
 object FA_PENCIL: Icon {
 	
 	override val name get() = "pencil"
@@ -38,4 +39,5 @@ object FA_PENCIL: Icon {
 	
 }
 
+/** Alias for [FA_PENCIL]. */
 val FA_PENCIL_ALT = FA_PENCIL

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Sterling sign */
 object FA_STERLING_SIGN: Icon {
 	
 	override val name get() = "Sterling sign"
@@ -38,6 +39,8 @@ object FA_STERLING_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_STERLING_SIGN]. */
 val FA_GBP = FA_STERLING_SIGN
 
+/** Alias for [FA_STERLING_SIGN]. */
 val FA_POUND_SIGN = FA_STERLING_SIGN

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Headphones simple */
 object FA_HEADPHONES_SIMPLE: Icon {
 	
 	override val name get() = "Headphones simple"
@@ -38,4 +39,5 @@ object FA_HEADPHONES_SIMPLE: Icon {
 	
 }
 
+/** Alias for [FA_HEADPHONES_SIMPLE]. */
 val FA_HEADPHONES_ALT = FA_HEADPHONES_SIMPLE

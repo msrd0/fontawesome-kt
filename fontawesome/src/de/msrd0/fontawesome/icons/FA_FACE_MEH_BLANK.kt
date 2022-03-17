@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Face Meh Blank */
 object FA_FACE_MEH_BLANK: Icon {
 	
 	override val name get() = "Face Meh Blank"
@@ -40,4 +41,5 @@ object FA_FACE_MEH_BLANK: Icon {
 	
 }
 
+/** Alias for [FA_FACE_MEH_BLANK]. */
 val FA_MEH_BLANK = FA_FACE_MEH_BLANK

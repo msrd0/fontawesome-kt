@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Turn down */
 object FA_TURN_DOWN: Icon {
 	
 	override val name get() = "Turn down"
@@ -38,4 +39,5 @@ object FA_TURN_DOWN: Icon {
 	
 }
 
+/** Alias for [FA_TURN_DOWN]. */
 val FA_LEVEL_DOWN_ALT = FA_TURN_DOWN

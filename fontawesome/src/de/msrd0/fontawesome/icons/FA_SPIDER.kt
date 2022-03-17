@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Spider */
 object FA_SPIDER: Icon {
 	
 	override val name get() = "Spider"

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Copyright */
 object FA_COPYRIGHT: Icon {
 	
 	override val name get() = "Copyright"

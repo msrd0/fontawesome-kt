@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Stack Exchange */
 object FA_STACK_EXCHANGE: Icon {
 	
 	override val name get() = "Stack Exchange"

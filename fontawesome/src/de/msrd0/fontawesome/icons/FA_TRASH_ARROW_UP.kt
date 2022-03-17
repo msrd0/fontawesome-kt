@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Trash arrow up */
 object FA_TRASH_ARROW_UP: Icon {
 	
 	override val name get() = "Trash arrow up"
@@ -38,4 +39,5 @@ object FA_TRASH_ARROW_UP: Icon {
 	
 }
 
+/** Alias for [FA_TRASH_ARROW_UP]. */
 val FA_TRASH_RESTORE = FA_TRASH_ARROW_UP

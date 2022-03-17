@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** DHL */
 object FA_DHL: Icon {
 	
 	override val name get() = "DHL"

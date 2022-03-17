@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Scale unbalanced flip */
 object FA_SCALE_UNBALANCED_FLIP: Icon {
 	
 	override val name get() = "Scale unbalanced flip"
@@ -38,4 +39,5 @@ object FA_SCALE_UNBALANCED_FLIP: Icon {
 	
 }
 
+/** Alias for [FA_SCALE_UNBALANCED_FLIP]. */
 val FA_BALANCE_SCALE_RIGHT = FA_SCALE_UNBALANCED_FLIP

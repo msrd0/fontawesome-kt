@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** PlayStation */
 object FA_PLAYSTATION: Icon {
 	
 	override val name get() = "PlayStation"

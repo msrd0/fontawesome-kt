@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow up from bracket */
 object FA_ARROW_UP_FROM_BRACKET: Icon {
 	
 	override val name get() = "Arrow up from bracket"

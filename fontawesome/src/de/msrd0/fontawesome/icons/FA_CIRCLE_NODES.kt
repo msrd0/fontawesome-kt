@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Circle Nodes */
 object FA_CIRCLE_NODES: Icon {
 	
 	override val name get() = "Circle Nodes"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Road Circle-exclamation */
 object FA_ROAD_CIRCLE_EXCLAMATION: Icon {
 	
 	override val name get() = "Road Circle-exclamation"

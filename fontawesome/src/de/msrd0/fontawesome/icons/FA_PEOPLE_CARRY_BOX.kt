@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** People carry box */
 object FA_PEOPLE_CARRY_BOX: Icon {
 	
 	override val name get() = "People carry box"
@@ -38,4 +39,5 @@ object FA_PEOPLE_CARRY_BOX: Icon {
 	
 }
 
+/** Alias for [FA_PEOPLE_CARRY_BOX]. */
 val FA_PEOPLE_CARRY = FA_PEOPLE_CARRY_BOX

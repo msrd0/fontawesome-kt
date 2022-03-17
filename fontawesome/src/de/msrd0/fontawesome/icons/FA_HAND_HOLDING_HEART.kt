@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hand Holding Heart */
 object FA_HAND_HOLDING_HEART: Icon {
 	
 	override val name get() = "Hand Holding Heart"

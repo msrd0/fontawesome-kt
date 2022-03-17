@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Landmark dome */
 object FA_LANDMARK_DOME: Icon {
 	
 	override val name get() = "Landmark dome"
@@ -38,4 +39,5 @@ object FA_LANDMARK_DOME: Icon {
 	
 }
 
+/** Alias for [FA_LANDMARK_DOME]. */
 val FA_LANDMARK_ALT = FA_LANDMARK_DOME

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Turn up */
 object FA_TURN_UP: Icon {
 	
 	override val name get() = "Turn up"
@@ -38,4 +39,5 @@ object FA_TURN_UP: Icon {
 	
 }
 
+/** Alias for [FA_TURN_UP]. */
 val FA_LEVEL_UP_ALT = FA_TURN_UP

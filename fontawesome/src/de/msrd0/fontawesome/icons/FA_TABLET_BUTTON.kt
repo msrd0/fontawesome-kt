@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tablet button */
 object FA_TABLET_BUTTON: Icon {
 	
 	override val name get() = "Tablet button"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File Export */
 object FA_FILE_EXPORT: Icon {
 	
 	override val name get() = "File Export"
@@ -38,4 +39,5 @@ object FA_FILE_EXPORT: Icon {
 	
 }
 
+/** Alias for [FA_FILE_EXPORT]. */
 val FA_ARROW_RIGHT_FROM_FILE = FA_FILE_EXPORT

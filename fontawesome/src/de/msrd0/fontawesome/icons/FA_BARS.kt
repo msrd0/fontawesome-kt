@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bars */
 object FA_BARS: Icon {
 	
 	override val name get() = "Bars"
@@ -38,4 +39,5 @@ object FA_BARS: Icon {
 	
 }
 
+/** Alias for [FA_BARS]. */
 val FA_NAVICON = FA_BARS

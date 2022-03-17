@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** User Tie */
 object FA_USER_TIE: Icon {
 	
 	override val name get() = "User Tie"

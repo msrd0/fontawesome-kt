@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Circle arrow up */
 object FA_CIRCLE_ARROW_UP: Icon {
 	
 	override val name get() = "Circle arrow up"
@@ -38,4 +39,5 @@ object FA_CIRCLE_ARROW_UP: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_ARROW_UP]. */
 val FA_ARROW_CIRCLE_UP = FA_CIRCLE_ARROW_UP

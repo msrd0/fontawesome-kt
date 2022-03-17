@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Plane Circle-exclamation */
 object FA_PLANE_CIRCLE_EXCLAMATION: Icon {
 	
 	override val name get() = "Plane Circle-exclamation"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Crown */
 object FA_CROWN: Icon {
 	
 	override val name get() = "Crown"

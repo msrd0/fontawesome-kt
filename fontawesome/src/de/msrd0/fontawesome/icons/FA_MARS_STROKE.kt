@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mars Stroke */
 object FA_MARS_STROKE: Icon {
 	
 	override val name get() = "Mars Stroke"

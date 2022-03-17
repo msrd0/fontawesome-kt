@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow down 9 1 */
 object FA_ARROW_DOWN_9_1: Icon {
 	
 	override val name get() = "Arrow down 9 1"
@@ -38,6 +39,8 @@ object FA_ARROW_DOWN_9_1: Icon {
 	
 }
 
+/** Alias for [FA_ARROW_DOWN_9_1]. */
 val FA_SORT_NUMERIC_DESC = FA_ARROW_DOWN_9_1
 
+/** Alias for [FA_ARROW_DOWN_9_1]. */
 val FA_SORT_NUMERIC_DOWN_ALT = FA_ARROW_DOWN_9_1

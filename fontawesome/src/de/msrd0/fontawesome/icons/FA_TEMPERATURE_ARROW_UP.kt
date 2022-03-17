@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Temperature arrow up */
 object FA_TEMPERATURE_ARROW_UP: Icon {
 	
 	override val name get() = "Temperature arrow up"
@@ -38,4 +39,5 @@ object FA_TEMPERATURE_ARROW_UP: Icon {
 	
 }
 
+/** Alias for [FA_TEMPERATURE_ARROW_UP]. */
 val FA_TEMPERATURE_UP = FA_TEMPERATURE_ARROW_UP

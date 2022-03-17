@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Circle half stroke */
 object FA_CIRCLE_HALF_STROKE: Icon {
 	
 	override val name get() = "Circle half stroke"
@@ -38,4 +39,5 @@ object FA_CIRCLE_HALF_STROKE: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_HALF_STROKE]. */
 val FA_ADJUST = FA_CIRCLE_HALF_STROKE

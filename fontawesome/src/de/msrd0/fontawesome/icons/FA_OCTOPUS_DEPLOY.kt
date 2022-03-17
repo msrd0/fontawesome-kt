@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Octopus Deploy */
 object FA_OCTOPUS_DEPLOY: Icon {
 	
 	override val name get() = "Octopus Deploy"

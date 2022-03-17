@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Crop simple */
 object FA_CROP_SIMPLE: Icon {
 	
 	override val name get() = "Crop simple"
@@ -38,4 +39,5 @@ object FA_CROP_SIMPLE: Icon {
 	
 }
 
+/** Alias for [FA_CROP_SIMPLE]. */
 val FA_CROP_ALT = FA_CROP_SIMPLE

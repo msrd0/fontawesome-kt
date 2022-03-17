@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Road Circle-check */
 object FA_ROAD_CIRCLE_CHECK: Icon {
 	
 	override val name get() = "Road Circle-check"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hockey Puck */
 object FA_HOCKEY_PUCK: Icon {
 	
 	override val name get() = "Hockey Puck"

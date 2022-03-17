@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shapes */
 object FA_SHAPES: Icon {
 	
 	override val name get() = "Shapes"
@@ -38,4 +39,5 @@ object FA_SHAPES: Icon {
 	
 }
 
+/** Alias for [FA_SHAPES]. */
 val FA_TRIANGLE_CIRCLE_SQUARE = FA_SHAPES

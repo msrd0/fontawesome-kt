@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Circle-check */
 object FA_PERSON_CIRCLE_CHECK: Icon {
 	
 	override val name get() = "Person Circle-check"

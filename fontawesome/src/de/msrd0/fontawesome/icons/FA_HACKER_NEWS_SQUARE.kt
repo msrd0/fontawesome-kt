@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Hacker News Square */
 object FA_HACKER_NEWS_SQUARE: Icon {
 	
 	override val name get() = "Hacker News Square"

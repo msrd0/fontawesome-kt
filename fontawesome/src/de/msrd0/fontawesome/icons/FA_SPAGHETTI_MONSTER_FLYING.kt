@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Spaghetti monster flying */
 object FA_SPAGHETTI_MONSTER_FLYING: Icon {
 	
 	override val name get() = "Spaghetti monster flying"
@@ -38,4 +39,5 @@ object FA_SPAGHETTI_MONSTER_FLYING: Icon {
 	
 }
 
+/** Alias for [FA_SPAGHETTI_MONSTER_FLYING]. */
 val FA_PASTAFARIANISM = FA_SPAGHETTI_MONSTER_FLYING

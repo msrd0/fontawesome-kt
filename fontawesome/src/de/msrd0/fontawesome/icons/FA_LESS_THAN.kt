@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Less Than */
 object FA_LESS_THAN: Icon {
 	
 	override val name get() = "Less Than"

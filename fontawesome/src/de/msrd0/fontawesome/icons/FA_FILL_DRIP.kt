@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Fill Drip */
 object FA_FILL_DRIP: Icon {
 	
 	override val name get() = "Fill Drip"

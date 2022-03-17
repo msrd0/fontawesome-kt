@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Book atlas */
 object FA_BOOK_ATLAS: Icon {
 	
 	override val name get() = "Book atlas"
@@ -38,4 +39,5 @@ object FA_BOOK_ATLAS: Icon {
 	
 }
 
+/** Alias for [FA_BOOK_ATLAS]. */
 val FA_ATLAS = FA_BOOK_ATLAS

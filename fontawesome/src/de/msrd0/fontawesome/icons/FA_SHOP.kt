@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Shop */
 object FA_SHOP: Icon {
 	
 	override val name get() = "Shop"
@@ -38,4 +39,5 @@ object FA_SHOP: Icon {
 	
 }
 
+/** Alias for [FA_SHOP]. */
 val FA_STORE_ALT = FA_SHOP

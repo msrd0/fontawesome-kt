@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Handshake simple */
 object FA_HANDSHAKE_SIMPLE: Icon {
 	
 	override val name get() = "Handshake simple"
@@ -38,4 +39,5 @@ object FA_HANDSHAKE_SIMPLE: Icon {
 	
 }
 
+/** Alias for [FA_HANDSHAKE_SIMPLE]. */
 val FA_HANDSHAKE_ALT = FA_HANDSHAKE_SIMPLE

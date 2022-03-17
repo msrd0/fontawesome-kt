@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bezier Curve */
 object FA_BEZIER_CURVE: Icon {
 	
 	override val name get() = "Bezier Curve"

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Square check */
 object FA_SQUARE_CHECK: Icon {
 	
 	override val name get() = "Square check"
@@ -40,4 +41,5 @@ object FA_SQUARE_CHECK: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_CHECK]. */
 val FA_CHECK_SQUARE = FA_SQUARE_CHECK

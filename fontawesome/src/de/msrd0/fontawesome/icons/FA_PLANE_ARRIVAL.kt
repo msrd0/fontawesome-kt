@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Plane Arrival */
 object FA_PLANE_ARRIVAL: Icon {
 	
 	override val name get() = "Plane Arrival"

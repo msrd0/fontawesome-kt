@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Burger */
 object FA_BURGER: Icon {
 	
 	override val name get() = "Burger"
@@ -38,4 +39,5 @@ object FA_BURGER: Icon {
 	
 }
 
+/** Alias for [FA_BURGER]. */
 val FA_HAMBURGER = FA_BURGER

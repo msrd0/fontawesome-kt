@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Plug Circle-exclamation */
 object FA_PLUG_CIRCLE_EXCLAMATION: Icon {
 	
 	override val name get() = "Plug Circle-exclamation"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Code Commit */
 object FA_CODE_COMMIT: Icon {
 	
 	override val name get() = "Code Commit"

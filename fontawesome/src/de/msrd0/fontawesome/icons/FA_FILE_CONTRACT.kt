@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File Contract */
 object FA_FILE_CONTRACT: Icon {
 	
 	override val name get() = "File Contract"

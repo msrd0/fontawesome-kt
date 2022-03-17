@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Suitcase Rolling */
 object FA_SUITCASE_ROLLING: Icon {
 	
 	override val name get() = "Suitcase Rolling"

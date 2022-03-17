@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tractor */
 object FA_TRACTOR: Icon {
 	
 	override val name get() = "Tractor"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ruler Combined */
 object FA_RULER_COMBINED: Icon {
 	
 	override val name get() = "Ruler Combined"

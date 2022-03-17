@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Box archive */
 object FA_BOX_ARCHIVE: Icon {
 	
 	override val name get() = "Box archive"
@@ -38,4 +39,5 @@ object FA_BOX_ARCHIVE: Icon {
 	
 }
 
+/** Alias for [FA_BOX_ARCHIVE]. */
 val FA_ARCHIVE = FA_BOX_ARCHIVE

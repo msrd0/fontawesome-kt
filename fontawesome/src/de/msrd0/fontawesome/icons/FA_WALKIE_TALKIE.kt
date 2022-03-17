@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Walkie Talkie */
 object FA_WALKIE_TALKIE: Icon {
 	
 	override val name get() = "Walkie Talkie"

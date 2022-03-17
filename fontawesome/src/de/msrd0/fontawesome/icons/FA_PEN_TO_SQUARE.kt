@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Pen to square */
 object FA_PEN_TO_SQUARE: Icon {
 	
 	override val name get() = "Pen to square"
@@ -40,4 +41,5 @@ object FA_PEN_TO_SQUARE: Icon {
 	
 }
 
+/** Alias for [FA_PEN_TO_SQUARE]. */
 val FA_EDIT = FA_PEN_TO_SQUARE

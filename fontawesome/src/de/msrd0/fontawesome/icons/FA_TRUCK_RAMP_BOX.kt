@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Truck ramp box */
 object FA_TRUCK_RAMP_BOX: Icon {
 	
 	override val name get() = "Truck ramp box"
@@ -38,4 +39,5 @@ object FA_TRUCK_RAMP_BOX: Icon {
 	
 }
 
+/** Alias for [FA_TRUCK_RAMP_BOX]. */
 val FA_TRUCK_LOADING = FA_TRUCK_RAMP_BOX

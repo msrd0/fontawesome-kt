@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Truck Arrow-right */
 object FA_TRUCK_ARROW_RIGHT: Icon {
 	
 	override val name get() = "Truck Arrow-right"

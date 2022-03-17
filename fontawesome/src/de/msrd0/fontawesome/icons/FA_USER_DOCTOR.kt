@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** User doctor */
 object FA_USER_DOCTOR: Icon {
 	
 	override val name get() = "User doctor"
@@ -38,4 +39,5 @@ object FA_USER_DOCTOR: Icon {
 	
 }
 
+/** Alias for [FA_USER_DOCTOR]. */
 val FA_USER_MD = FA_USER_DOCTOR

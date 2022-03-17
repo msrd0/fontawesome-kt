@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Jedi Order */
 object FA_JEDI_ORDER: Icon {
 	
 	override val name get() = "Jedi Order"

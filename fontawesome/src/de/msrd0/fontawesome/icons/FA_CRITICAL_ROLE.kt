@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Critical Role */
 object FA_CRITICAL_ROLE: Icon {
 	
 	override val name get() = "Critical Role"

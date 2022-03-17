@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Git Square */
 object FA_GIT_SQUARE: Icon {
 	
 	override val name get() = "Git Square"

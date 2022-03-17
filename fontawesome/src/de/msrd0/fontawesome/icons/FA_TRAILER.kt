@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Trailer */
 object FA_TRAILER: Icon {
 	
 	override val name get() = "Trailer"

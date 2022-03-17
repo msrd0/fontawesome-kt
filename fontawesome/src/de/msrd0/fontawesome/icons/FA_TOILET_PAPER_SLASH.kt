@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Toilet Paper Slash */
 object FA_TOILET_PAPER_SLASH: Icon {
 	
 	override val name get() = "Toilet Paper Slash"

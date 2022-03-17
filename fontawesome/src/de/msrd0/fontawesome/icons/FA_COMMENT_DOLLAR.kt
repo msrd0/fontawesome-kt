@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Comment Dollar */
 object FA_COMMENT_DOLLAR: Icon {
 	
 	override val name get() = "Comment Dollar"

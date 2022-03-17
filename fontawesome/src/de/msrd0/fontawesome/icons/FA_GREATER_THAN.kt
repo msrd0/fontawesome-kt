@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Greater Than */
 object FA_GREATER_THAN: Icon {
 	
 	override val name get() = "Greater Than"

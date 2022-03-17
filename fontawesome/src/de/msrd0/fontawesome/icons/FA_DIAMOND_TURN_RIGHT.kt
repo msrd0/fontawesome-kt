@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Diamond turn right */
 object FA_DIAMOND_TURN_RIGHT: Icon {
 	
 	override val name get() = "Diamond turn right"
@@ -38,4 +39,5 @@ object FA_DIAMOND_TURN_RIGHT: Icon {
 	
 }
 
+/** Alias for [FA_DIAMOND_TURN_RIGHT]. */
 val FA_DIRECTIONS = FA_DIAMOND_TURN_RIGHT

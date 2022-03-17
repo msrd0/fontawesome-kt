@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hands */
 object FA_HANDS: Icon {
 	
 	override val name get() = "Hands"
@@ -38,6 +39,8 @@ object FA_HANDS: Icon {
 	
 }
 
+/** Alias for [FA_HANDS]. */
 val FA_SIGNING = FA_HANDS
 
+/** Alias for [FA_HANDS]. */
 val FA_SIGN_LANGUAGE = FA_HANDS

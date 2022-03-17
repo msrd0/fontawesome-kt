@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Face Laugh Beam */
 object FA_FACE_LAUGH_BEAM: Icon {
 	
 	override val name get() = "Face Laugh Beam"
@@ -40,4 +41,5 @@ object FA_FACE_LAUGH_BEAM: Icon {
 	
 }
 
+/** Alias for [FA_FACE_LAUGH_BEAM]. */
 val FA_LAUGH_BEAM = FA_FACE_LAUGH_BEAM

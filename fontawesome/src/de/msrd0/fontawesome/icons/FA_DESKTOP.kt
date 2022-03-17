@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Desktop */
 object FA_DESKTOP: Icon {
 	
 	override val name get() = "Desktop"
@@ -38,4 +39,5 @@ object FA_DESKTOP: Icon {
 	
 }
 
+/** Alias for [FA_DESKTOP]. */
 val FA_DESKTOP_ALT = FA_DESKTOP

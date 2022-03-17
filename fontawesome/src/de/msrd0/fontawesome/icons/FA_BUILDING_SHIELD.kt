@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Building Shield */
 object FA_BUILDING_SHIELD: Icon {
 	
 	override val name get() = "Building Shield"

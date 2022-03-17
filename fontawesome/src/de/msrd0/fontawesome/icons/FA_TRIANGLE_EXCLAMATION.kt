@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Triangle exclamation */
 object FA_TRIANGLE_EXCLAMATION: Icon {
 	
 	override val name get() = "Triangle exclamation"
@@ -38,6 +39,8 @@ object FA_TRIANGLE_EXCLAMATION: Icon {
 	
 }
 
+/** Alias for [FA_TRIANGLE_EXCLAMATION]. */
 val FA_EXCLAMATION_TRIANGLE = FA_TRIANGLE_EXCLAMATION
 
+/** Alias for [FA_TRIANGLE_EXCLAMATION]. */
 val FA_WARNING = FA_TRIANGLE_EXCLAMATION

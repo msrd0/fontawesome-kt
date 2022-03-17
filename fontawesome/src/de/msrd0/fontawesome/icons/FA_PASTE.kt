@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Paste */
 object FA_PASTE: Icon {
 	
 	override val name get() = "Paste"
@@ -40,4 +41,5 @@ object FA_PASTE: Icon {
 	
 }
 
+/** Alias for [FA_PASTE]. */
 val FA_FILE_CLIPBOARD = FA_PASTE

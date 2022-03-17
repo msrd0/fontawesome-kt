@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrows rotate */
 object FA_ARROWS_ROTATE: Icon {
 	
 	override val name get() = "Arrows rotate"
@@ -38,6 +39,8 @@ object FA_ARROWS_ROTATE: Icon {
 	
 }
 
+/** Alias for [FA_ARROWS_ROTATE]. */
 val FA_REFRESH = FA_ARROWS_ROTATE
 
+/** Alias for [FA_ARROWS_ROTATE]. */
 val FA_SYNC = FA_ARROWS_ROTATE

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Searchengin */
 object FA_SEARCHENGIN: Icon {
 	
 	override val name get() = "Searchengin"

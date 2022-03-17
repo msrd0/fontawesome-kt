@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Brazilian Real Sign */
 object FA_BRAZILIAN_REAL_SIGN: Icon {
 	
 	override val name get() = "Brazilian Real Sign"

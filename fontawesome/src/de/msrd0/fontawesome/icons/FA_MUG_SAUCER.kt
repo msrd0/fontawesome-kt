@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mug saucer */
 object FA_MUG_SAUCER: Icon {
 	
 	override val name get() = "Mug saucer"
@@ -38,4 +39,5 @@ object FA_MUG_SAUCER: Icon {
 	
 }
 
+/** Alias for [FA_MUG_SAUCER]. */
 val FA_COFFEE = FA_MUG_SAUCER

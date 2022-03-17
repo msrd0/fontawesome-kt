@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Cake candles */
 object FA_CAKE_CANDLES: Icon {
 	
 	override val name get() = "Cake candles"
@@ -38,6 +39,8 @@ object FA_CAKE_CANDLES: Icon {
 	
 }
 
+/** Alias for [FA_CAKE_CANDLES]. */
 val FA_BIRTHDAY_CAKE = FA_CAKE_CANDLES
 
+/** Alias for [FA_CAKE_CANDLES]. */
 val FA_CAKE = FA_CAKE_CANDLES

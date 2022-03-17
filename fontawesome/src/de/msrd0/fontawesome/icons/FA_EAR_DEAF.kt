@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ear deaf */
 object FA_EAR_DEAF: Icon {
 	
 	override val name get() = "Ear deaf"
@@ -38,8 +39,11 @@ object FA_EAR_DEAF: Icon {
 	
 }
 
+/** Alias for [FA_EAR_DEAF]. */
 val FA_DEAF = FA_EAR_DEAF
 
+/** Alias for [FA_EAR_DEAF]. */
 val FA_DEAFNESS = FA_EAR_DEAF
 
+/** Alias for [FA_EAR_DEAF]. */
 val FA_HARD_OF_HEARING = FA_EAR_DEAF

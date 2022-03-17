@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Equals */
 object FA_EQUALS: Icon {
 	
 	override val name get() = "Equals"

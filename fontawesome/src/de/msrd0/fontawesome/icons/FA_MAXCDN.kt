@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** MaxCDN */
 object FA_MAXCDN: Icon {
 	
 	override val name get() = "MaxCDN"

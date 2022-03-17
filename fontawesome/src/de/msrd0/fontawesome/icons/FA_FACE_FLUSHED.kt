@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Face flushed */
 object FA_FACE_FLUSHED: Icon {
 	
 	override val name get() = "Face flushed"
@@ -40,4 +41,5 @@ object FA_FACE_FLUSHED: Icon {
 	
 }
 
+/** Alias for [FA_FACE_FLUSHED]. */
 val FA_FLUSHED = FA_FACE_FLUSHED

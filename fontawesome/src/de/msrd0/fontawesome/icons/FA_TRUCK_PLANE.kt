@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Truck Plane */
 object FA_TRUCK_PLANE: Icon {
 	
 	override val name get() = "Truck Plane"

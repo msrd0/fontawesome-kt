@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** dailymotion */
 object FA_DAILYMOTION: Icon {
 	
 	override val name get() = "dailymotion"

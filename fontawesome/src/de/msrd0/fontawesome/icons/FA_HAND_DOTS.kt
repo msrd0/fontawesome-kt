@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hand dots */
 object FA_HAND_DOTS: Icon {
 	
 	override val name get() = "Hand dots"
@@ -38,4 +39,5 @@ object FA_HAND_DOTS: Icon {
 	
 }
 
+/** Alias for [FA_HAND_DOTS]. */
 val FA_ALLERGIES = FA_HAND_DOTS

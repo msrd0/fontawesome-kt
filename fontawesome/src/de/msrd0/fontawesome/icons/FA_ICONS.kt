@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Icons */
 object FA_ICONS: Icon {
 	
 	override val name get() = "Icons"
@@ -38,4 +39,5 @@ object FA_ICONS: Icon {
 	
 }
 
+/** Alias for [FA_ICONS]. */
 val FA_HEART_MUSIC_CAMERA_BOLT = FA_ICONS

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Comment Dots */
 object FA_COMMENT_DOTS: Icon {
 	
 	override val name get() = "Comment Dots"
@@ -40,4 +41,5 @@ object FA_COMMENT_DOTS: Icon {
 	
 }
 
+/** Alias for [FA_COMMENT_DOTS]. */
 val FA_COMMENTING = FA_COMMENT_DOTS

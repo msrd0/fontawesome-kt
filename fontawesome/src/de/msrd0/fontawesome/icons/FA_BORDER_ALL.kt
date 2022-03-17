@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Border All */
 object FA_BORDER_ALL: Icon {
 	
 	override val name get() = "Border All"

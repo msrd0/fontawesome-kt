@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Circle info */
 object FA_CIRCLE_INFO: Icon {
 	
 	override val name get() = "Circle info"
@@ -38,4 +39,5 @@ object FA_CIRCLE_INFO: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_INFO]. */
 val FA_INFO_CIRCLE = FA_CIRCLE_INFO

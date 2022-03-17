@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Object Ungroup */
 object FA_OBJECT_UNGROUP: Icon {
 	
 	override val name get() = "Object Ungroup"

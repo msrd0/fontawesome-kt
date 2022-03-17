@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Khanda */
 object FA_KHANDA: Icon {
 	
 	override val name get() = "Khanda"

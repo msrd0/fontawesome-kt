@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** House Medical-circle-xmark */
 object FA_HOUSE_MEDICAL_CIRCLE_XMARK: Icon {
 	
 	override val name get() = "House Medical-circle-xmark"

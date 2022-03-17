@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Head Side-cough-slash */
 object FA_HEAD_SIDE_COUGH_SLASH: Icon {
 	
 	override val name get() = "Head Side-cough-slash"

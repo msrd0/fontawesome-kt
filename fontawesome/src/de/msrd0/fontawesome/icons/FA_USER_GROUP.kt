@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** User group */
 object FA_USER_GROUP: Icon {
 	
 	override val name get() = "User group"
@@ -38,4 +39,5 @@ object FA_USER_GROUP: Icon {
 	
 }
 
+/** Alias for [FA_USER_GROUP]. */
 val FA_USER_FRIENDS = FA_USER_GROUP

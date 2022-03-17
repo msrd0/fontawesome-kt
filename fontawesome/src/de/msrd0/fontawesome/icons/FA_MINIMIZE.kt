@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Minimize */
 object FA_MINIMIZE: Icon {
 	
 	override val name get() = "Minimize"
@@ -38,4 +39,5 @@ object FA_MINIMIZE: Icon {
 	
 }
 
+/** Alias for [FA_MINIMIZE]. */
 val FA_COMPRESS_ARROWS_ALT = FA_MINIMIZE

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Paper Plane */
 object FA_PAPER_PLANE: Icon {
 	
 	override val name get() = "Paper Plane"

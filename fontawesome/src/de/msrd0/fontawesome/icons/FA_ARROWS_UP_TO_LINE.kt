@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrows Up-to-line */
 object FA_ARROWS_UP_TO_LINE: Icon {
 	
 	override val name get() = "Arrows Up-to-line"

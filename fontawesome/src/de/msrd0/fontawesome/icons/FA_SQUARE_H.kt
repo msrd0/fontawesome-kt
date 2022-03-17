@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square h */
 object FA_SQUARE_H: Icon {
 	
 	override val name get() = "Square h"
@@ -38,4 +39,5 @@ object FA_SQUARE_H: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_H]. */
 val FA_H_SQUARE = FA_SQUARE_H

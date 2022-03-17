@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File Circle-plus */
 object FA_FILE_CIRCLE_PLUS: Icon {
 	
 	override val name get() = "File Circle-plus"

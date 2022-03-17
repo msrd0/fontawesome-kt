@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** SoundCloud */
 object FA_SOUNDCLOUD: Icon {
 	
 	override val name get() = "SoundCloud"

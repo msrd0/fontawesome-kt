@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow turn down */
 object FA_ARROW_TURN_DOWN: Icon {
 	
 	override val name get() = "Arrow turn down"
@@ -38,4 +39,5 @@ object FA_ARROW_TURN_DOWN: Icon {
 	
 }
 
+/** Alias for [FA_ARROW_TURN_DOWN]. */
 val FA_LEVEL_DOWN = FA_ARROW_TURN_DOWN

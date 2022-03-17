@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Venus Double */
 object FA_VENUS_DOUBLE: Icon {
 	
 	override val name get() = "Venus Double"

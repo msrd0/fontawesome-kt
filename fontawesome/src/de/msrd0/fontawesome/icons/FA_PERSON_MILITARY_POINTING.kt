@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Military-pointing */
 object FA_PERSON_MILITARY_POINTING: Icon {
 	
 	override val name get() = "Person Military-pointing"

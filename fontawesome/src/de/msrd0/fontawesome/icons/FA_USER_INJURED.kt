@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** User Injured */
 object FA_USER_INJURED: Icon {
 	
 	override val name get() = "User Injured"

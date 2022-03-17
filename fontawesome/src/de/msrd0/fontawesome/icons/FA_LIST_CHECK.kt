@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** List check */
 object FA_LIST_CHECK: Icon {
 	
 	override val name get() = "List check"
@@ -38,4 +39,5 @@ object FA_LIST_CHECK: Icon {
 	
 }
 
+/** Alias for [FA_LIST_CHECK]. */
 val FA_TASKS = FA_LIST_CHECK

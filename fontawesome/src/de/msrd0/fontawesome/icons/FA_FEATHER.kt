@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Feather */
 object FA_FEATHER: Icon {
 	
 	override val name get() = "Feather"

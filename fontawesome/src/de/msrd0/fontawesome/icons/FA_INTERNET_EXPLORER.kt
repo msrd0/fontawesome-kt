@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Internet-explorer */
 object FA_INTERNET_EXPLORER: Icon {
 	
 	override val name get() = "Internet-explorer"

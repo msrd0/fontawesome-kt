@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** reddit Square */
 object FA_REDDIT_SQUARE: Icon {
 	
 	override val name get() = "reddit Square"

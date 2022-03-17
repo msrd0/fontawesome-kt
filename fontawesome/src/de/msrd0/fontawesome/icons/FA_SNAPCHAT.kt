@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Snapchat */
 object FA_SNAPCHAT: Icon {
 	
 	override val name get() = "Snapchat"
@@ -38,4 +39,5 @@ object FA_SNAPCHAT: Icon {
 	
 }
 
+/** Alias for [FA_SNAPCHAT]. */
 val FA_SNAPCHAT_GHOST = FA_SNAPCHAT

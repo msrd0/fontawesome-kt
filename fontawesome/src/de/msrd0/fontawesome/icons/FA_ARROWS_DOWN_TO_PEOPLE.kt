@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrows Down-to-people */
 object FA_ARROWS_DOWN_TO_PEOPLE: Icon {
 	
 	override val name get() = "Arrows Down-to-people"

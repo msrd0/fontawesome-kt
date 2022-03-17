@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Apple Pay */
 object FA_APPLE_PAY: Icon {
 	
 	override val name get() = "Apple Pay"

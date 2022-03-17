@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Goodreads G */
 object FA_GOODREADS_G: Icon {
 	
 	override val name get() = "Goodreads G"

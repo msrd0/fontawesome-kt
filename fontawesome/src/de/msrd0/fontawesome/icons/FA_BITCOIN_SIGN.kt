@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bitcoin Sign */
 object FA_BITCOIN_SIGN: Icon {
 	
 	override val name get() = "Bitcoin Sign"

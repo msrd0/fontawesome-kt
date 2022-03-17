@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tenge sign */
 object FA_TENGE_SIGN: Icon {
 	
 	override val name get() = "Tenge sign"
@@ -38,4 +39,5 @@ object FA_TENGE_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_TENGE_SIGN]. */
 val FA_TENGE = FA_TENGE_SIGN

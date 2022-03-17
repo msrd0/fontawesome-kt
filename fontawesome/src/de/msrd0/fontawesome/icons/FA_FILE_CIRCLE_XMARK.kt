@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File Circle-xmark */
 object FA_FILE_CIRCLE_XMARK: Icon {
 	
 	override val name get() = "File Circle-xmark"

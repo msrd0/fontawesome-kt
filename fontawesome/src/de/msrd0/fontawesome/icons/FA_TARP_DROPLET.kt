@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tarp Droplet */
 object FA_TARP_DROPLET: Icon {
 	
 	override val name get() = "Tarp Droplet"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** File pen */
 object FA_FILE_PEN: Icon {
 	
 	override val name get() = "File pen"
@@ -38,4 +39,5 @@ object FA_FILE_PEN: Icon {
 	
 }
 
+/** Alias for [FA_FILE_PEN]. */
 val FA_FILE_EDIT = FA_FILE_PEN

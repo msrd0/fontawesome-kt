@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Person Harassing */
 object FA_PERSON_HARASSING: Icon {
 	
 	override val name get() = "Person Harassing"

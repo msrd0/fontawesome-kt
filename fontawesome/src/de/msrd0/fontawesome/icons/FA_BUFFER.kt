@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Buffer */
 object FA_BUFFER: Icon {
 	
 	override val name get() = "Buffer"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Rotate */
 object FA_ROTATE: Icon {
 	
 	override val name get() = "Rotate"
@@ -38,4 +39,5 @@ object FA_ROTATE: Icon {
 	
 }
 
+/** Alias for [FA_ROTATE]. */
 val FA_SYNC_ALT = FA_ROTATE

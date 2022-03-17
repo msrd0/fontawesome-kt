@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Trademark */
 object FA_TRADEMARK: Icon {
 	
 	override val name get() = "Trademark"

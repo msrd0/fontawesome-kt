@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow Up-from-ground-water */
 object FA_ARROW_UP_FROM_GROUND_WATER: Icon {
 	
 	override val name get() = "Arrow Up-from-ground-water"

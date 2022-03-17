@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Grip */
 object FA_GRIP: Icon {
 	
 	override val name get() = "Grip"
@@ -38,4 +39,5 @@ object FA_GRIP: Icon {
 	
 }
 
+/** Alias for [FA_GRIP]. */
 val FA_GRIP_HORIZONTAL = FA_GRIP

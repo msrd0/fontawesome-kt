@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Cloud bolt */
 object FA_CLOUD_BOLT: Icon {
 	
 	override val name get() = "Cloud bolt"
@@ -38,4 +39,5 @@ object FA_CLOUD_BOLT: Icon {
 	
 }
 
+/** Alias for [FA_CLOUD_BOLT]. */
 val FA_THUNDERSTORM = FA_CLOUD_BOLT

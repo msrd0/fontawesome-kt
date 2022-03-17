@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** School Flag */
 object FA_SCHOOL_FLAG: Icon {
 	
 	override val name get() = "School Flag"

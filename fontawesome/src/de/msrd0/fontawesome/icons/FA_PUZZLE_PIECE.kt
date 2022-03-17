@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Puzzle Piece */
 object FA_PUZZLE_PIECE: Icon {
 	
 	override val name get() = "Puzzle Piece"

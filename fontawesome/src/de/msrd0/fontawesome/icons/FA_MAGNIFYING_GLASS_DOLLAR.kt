@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Magnifying glass dollar */
 object FA_MAGNIFYING_GLASS_DOLLAR: Icon {
 	
 	override val name get() = "Magnifying glass dollar"
@@ -38,4 +39,5 @@ object FA_MAGNIFYING_GLASS_DOLLAR: Icon {
 	
 }
 
+/** Alias for [FA_MAGNIFYING_GLASS_DOLLAR]. */
 val FA_SEARCH_DOLLAR = FA_MAGNIFYING_GLASS_DOLLAR

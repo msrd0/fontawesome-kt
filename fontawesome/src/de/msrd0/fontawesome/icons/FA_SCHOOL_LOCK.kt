@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** School Lock */
 object FA_SCHOOL_LOCK: Icon {
 	
 	override val name get() = "School Lock"

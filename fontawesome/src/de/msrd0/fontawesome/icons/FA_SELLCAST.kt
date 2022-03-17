@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Sellcast */
 object FA_SELLCAST: Icon {
 	
 	override val name get() = "Sellcast"

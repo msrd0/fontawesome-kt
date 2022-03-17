@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Universal Access */
 object FA_UNIVERSAL_ACCESS: Icon {
 	
 	override val name get() = "Universal Access"

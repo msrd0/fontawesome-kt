@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Charging Station */
 object FA_CHARGING_STATION: Icon {
 	
 	override val name get() = "Charging Station"

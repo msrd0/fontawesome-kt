@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** ReactEurope */
 object FA_REACTEUROPE: Icon {
 	
 	override val name get() = "ReactEurope"

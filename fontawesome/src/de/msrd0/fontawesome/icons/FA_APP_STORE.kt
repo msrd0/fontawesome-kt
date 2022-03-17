@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** App Store */
 object FA_APP_STORE: Icon {
 	
 	override val name get() = "App Store"

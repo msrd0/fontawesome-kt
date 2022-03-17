@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Square caret up */
 object FA_SQUARE_CARET_UP: Icon {
 	
 	override val name get() = "Square caret up"
@@ -40,4 +41,5 @@ object FA_SQUARE_CARET_UP: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_CARET_UP]. */
 val FA_CARET_SQUARE_UP = FA_SQUARE_CARET_UP

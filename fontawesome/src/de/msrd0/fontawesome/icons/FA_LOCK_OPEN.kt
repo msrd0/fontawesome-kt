@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Lock Open */
 object FA_LOCK_OPEN: Icon {
 	
 	override val name get() = "Lock Open"

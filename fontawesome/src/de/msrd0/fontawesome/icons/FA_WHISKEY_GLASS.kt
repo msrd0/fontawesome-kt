@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Whiskey glass */
 object FA_WHISKEY_GLASS: Icon {
 	
 	override val name get() = "Whiskey glass"
@@ -38,4 +39,5 @@ object FA_WHISKEY_GLASS: Icon {
 	
 }
 
+/** Alias for [FA_WHISKEY_GLASS]. */
 val FA_GLASS_WHISKEY = FA_WHISKEY_GLASS

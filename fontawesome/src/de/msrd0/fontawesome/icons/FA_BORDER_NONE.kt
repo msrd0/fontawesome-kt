@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Border None */
 object FA_BORDER_NONE: Icon {
 	
 	override val name get() = "Border None"

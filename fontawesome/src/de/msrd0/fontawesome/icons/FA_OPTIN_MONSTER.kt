@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Optin Monster */
 object FA_OPTIN_MONSTER: Icon {
 	
 	override val name get() = "Optin Monster"

@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Clock */
 object FA_CLOCK: Icon {
 	
 	override val name get() = "Clock"
@@ -40,4 +41,5 @@ object FA_CLOCK: Icon {
 	
 }
 
+/** Alias for [FA_CLOCK]. */
 val FA_CLOCK_FOUR = FA_CLOCK

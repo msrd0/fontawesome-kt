@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Left long */
 object FA_LEFT_LONG: Icon {
 	
 	override val name get() = "Left long"
@@ -38,4 +39,5 @@ object FA_LEFT_LONG: Icon {
 	
 }
 
+/** Alias for [FA_LEFT_LONG]. */
 val FA_LONG_ARROW_ALT_LEFT = FA_LEFT_LONG

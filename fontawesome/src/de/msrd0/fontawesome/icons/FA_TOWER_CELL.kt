@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tower Cell */
 object FA_TOWER_CELL: Icon {
 	
 	override val name get() = "Tower Cell"

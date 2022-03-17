@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Circle user */
 object FA_CIRCLE_USER: Icon {
 	
 	override val name get() = "Circle user"
@@ -40,4 +41,5 @@ object FA_CIRCLE_USER: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_USER]. */
 val FA_USER_CIRCLE = FA_CIRCLE_USER

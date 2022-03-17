@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ruble Sign */
 object FA_RUBLE_SIGN: Icon {
 	
 	override val name get() = "Ruble Sign"
@@ -38,8 +39,11 @@ object FA_RUBLE_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_RUBLE_SIGN]. */
 val FA_ROUBLE = FA_RUBLE_SIGN
 
+/** Alias for [FA_RUBLE_SIGN]. */
 val FA_RUB = FA_RUBLE_SIGN
 
+/** Alias for [FA_RUBLE_SIGN]. */
 val FA_RUBLE = FA_RUBLE_SIGN

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Creative Commons Sampling */
 object FA_CREATIVE_COMMONS_SAMPLING: Icon {
 	
 	override val name get() = "Creative Commons Sampling"

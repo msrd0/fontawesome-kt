@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hanukiah */
 object FA_HANUKIAH: Icon {
 	
 	override val name get() = "Hanukiah"

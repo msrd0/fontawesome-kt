@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mobile button */
 object FA_MOBILE_BUTTON: Icon {
 	
 	override val name get() = "Mobile button"

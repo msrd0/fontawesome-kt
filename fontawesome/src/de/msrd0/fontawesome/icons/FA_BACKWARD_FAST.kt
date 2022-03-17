@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Backward fast */
 object FA_BACKWARD_FAST: Icon {
 	
 	override val name get() = "Backward fast"
@@ -38,4 +39,5 @@ object FA_BACKWARD_FAST: Icon {
 	
 }
 
+/** Alias for [FA_BACKWARD_FAST]. */
 val FA_FAST_BACKWARD = FA_BACKWARD_FAST

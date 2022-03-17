@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Masks theater */
 object FA_MASKS_THEATER: Icon {
 	
 	override val name get() = "Masks theater"
@@ -38,4 +39,5 @@ object FA_MASKS_THEATER: Icon {
 	
 }
 
+/** Alias for [FA_MASKS_THEATER]. */
 val FA_THEATER_MASKS = FA_MASKS_THEATER

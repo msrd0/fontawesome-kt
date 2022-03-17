@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Sheet Plastic */
 object FA_SHEET_PLASTIC: Icon {
 	
 	override val name get() = "Sheet Plastic"

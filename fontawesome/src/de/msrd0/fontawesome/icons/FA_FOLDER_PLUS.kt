@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Folder Plus */
 object FA_FOLDER_PLUS: Icon {
 	
 	override val name get() = "Folder Plus"

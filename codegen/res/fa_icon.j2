@@ -7,7 +7,8 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.{{style | upper}}
 {%- endfor %}
 
-object {{icon.classname}}: Icon {
+/** {{icon.label}} */
+object {{classname}}: Icon {
 	
 	override val name get() = "{{icon.label}}"
 	
@@ -30,6 +31,7 @@ object {{icon.classname}}: Icon {
 
 {%- for alias in icon.aliasClassnames %}
 
-val {{alias}} = {{icon.classname}}
+/** Alias for [{{classname}}]. */
+val {{alias}} = {{classname}}
 
 {%- endfor %}

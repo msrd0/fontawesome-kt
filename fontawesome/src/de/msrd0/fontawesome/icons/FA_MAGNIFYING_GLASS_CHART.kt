@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Magnifying Glass-chart */
 object FA_MAGNIFYING_GLASS_CHART: Icon {
 	
 	override val name get() = "Magnifying Glass-chart"

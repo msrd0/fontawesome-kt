@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Circle left */
 object FA_CIRCLE_LEFT: Icon {
 	
 	override val name get() = "Circle left"
@@ -40,4 +41,5 @@ object FA_CIRCLE_LEFT: Icon {
 	
 }
 
+/** Alias for [FA_CIRCLE_LEFT]. */
 val FA_ARROW_ALT_CIRCLE_LEFT = FA_CIRCLE_LEFT

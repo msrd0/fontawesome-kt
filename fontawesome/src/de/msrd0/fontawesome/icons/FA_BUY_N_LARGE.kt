@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Buy n Large */
 object FA_BUY_N_LARGE: Icon {
 	
 	override val name get() = "Buy n Large"

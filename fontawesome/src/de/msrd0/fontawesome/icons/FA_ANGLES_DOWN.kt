@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Angles down */
 object FA_ANGLES_DOWN: Icon {
 	
 	override val name get() = "Angles down"
@@ -38,4 +39,5 @@ object FA_ANGLES_DOWN: Icon {
 	
 }
 
+/** Alias for [FA_ANGLES_DOWN]. */
 val FA_ANGLE_DOUBLE_DOWN = FA_ANGLES_DOWN

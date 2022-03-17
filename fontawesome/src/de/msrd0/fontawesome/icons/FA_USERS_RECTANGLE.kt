@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Users Rectangle */
 object FA_USERS_RECTANGLE: Icon {
 	
 	override val name get() = "Users Rectangle"

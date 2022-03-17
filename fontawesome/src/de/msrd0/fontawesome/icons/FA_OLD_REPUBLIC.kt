@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Old Republic */
 object FA_OLD_REPUBLIC: Icon {
 	
 	override val name get() = "Old Republic"

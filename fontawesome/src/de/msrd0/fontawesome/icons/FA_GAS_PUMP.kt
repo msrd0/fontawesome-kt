@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Gas Pump */
 object FA_GAS_PUMP: Icon {
 	
 	override val name get() = "Gas Pump"

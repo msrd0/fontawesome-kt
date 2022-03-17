@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Droplet slash */
 object FA_DROPLET_SLASH: Icon {
 	
 	override val name get() = "Droplet slash"
@@ -38,4 +39,5 @@ object FA_DROPLET_SLASH: Icon {
 	
 }
 
+/** Alias for [FA_DROPLET_SLASH]. */
 val FA_TINT_SLASH = FA_DROPLET_SLASH

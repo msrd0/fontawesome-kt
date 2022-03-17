@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Diagram Next */
 object FA_DIAGRAM_NEXT: Icon {
 	
 	override val name get() = "Diagram Next"

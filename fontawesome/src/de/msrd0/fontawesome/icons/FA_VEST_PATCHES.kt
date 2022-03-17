@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** vest-patches */
 object FA_VEST_PATCHES: Icon {
 	
 	override val name get() = "vest-patches"

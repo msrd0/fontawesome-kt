@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Heart Circle-xmark */
 object FA_HEART_CIRCLE_XMARK: Icon {
 	
 	override val name get() = "Heart Circle-xmark"

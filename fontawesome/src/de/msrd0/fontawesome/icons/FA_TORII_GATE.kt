@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Torii Gate */
 object FA_TORII_GATE: Icon {
 	
 	override val name get() = "Torii Gate"

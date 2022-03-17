@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Address Card */
 object FA_ADDRESS_CARD: Icon {
 	
 	override val name get() = "Address Card"
@@ -40,6 +41,8 @@ object FA_ADDRESS_CARD: Icon {
 	
 }
 
+/** Alias for [FA_ADDRESS_CARD]. */
 val FA_CONTACT_CARD = FA_ADDRESS_CARD
 
+/** Alias for [FA_ADDRESS_CARD]. */
 val FA_VCARD = FA_ADDRESS_CARD

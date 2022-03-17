@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Envelope Open-text */
 object FA_ENVELOPE_OPEN_TEXT: Icon {
 	
 	override val name get() = "Envelope Open-text"

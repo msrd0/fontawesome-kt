@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Litecoin Sign */
 object FA_LITECOIN_SIGN: Icon {
 	
 	override val name get() = "Litecoin Sign"

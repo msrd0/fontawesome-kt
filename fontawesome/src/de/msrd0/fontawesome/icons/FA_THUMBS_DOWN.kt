@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** thumbs-down */
 object FA_THUMBS_DOWN: Icon {
 	
 	override val name get() = "thumbs-down"

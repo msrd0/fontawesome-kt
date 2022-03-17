@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** House Flag */
 object FA_HOUSE_FLAG: Icon {
 	
 	override val name get() = "House Flag"

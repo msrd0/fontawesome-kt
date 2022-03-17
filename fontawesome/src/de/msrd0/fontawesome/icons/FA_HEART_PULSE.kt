@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Heart pulse */
 object FA_HEART_PULSE: Icon {
 	
 	override val name get() = "Heart pulse"
@@ -38,4 +39,5 @@ object FA_HEART_PULSE: Icon {
 	
 }
 
+/** Alias for [FA_HEART_PULSE]. */
 val FA_HEARTBEAT = FA_HEART_PULSE

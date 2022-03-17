@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Stopwatch 20 */
 object FA_STOPWATCH_20: Icon {
 	
 	override val name get() = "Stopwatch 20"

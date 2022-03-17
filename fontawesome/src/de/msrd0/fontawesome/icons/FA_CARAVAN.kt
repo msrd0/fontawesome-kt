@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Caravan */
 object FA_CARAVAN: Icon {
 	
 	override val name get() = "Caravan"

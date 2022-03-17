@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Toilets Portable */
 object FA_TOILETS_PORTABLE: Icon {
 	
 	override val name get() = "Toilets Portable"

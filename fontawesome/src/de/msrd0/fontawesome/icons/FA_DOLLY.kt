@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Dolly */
 object FA_DOLLY: Icon {
 	
 	override val name get() = "Dolly"
@@ -38,4 +39,5 @@ object FA_DOLLY: Icon {
 	
 }
 
+/** Alias for [FA_DOLLY]. */
 val FA_DOLLY_BOX = FA_DOLLY

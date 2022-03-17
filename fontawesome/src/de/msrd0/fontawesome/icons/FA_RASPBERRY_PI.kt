@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Raspberry Pi */
 object FA_RASPBERRY_PI: Icon {
 	
 	override val name get() = "Raspberry Pi"

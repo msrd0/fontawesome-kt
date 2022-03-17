@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Cloud Showers-water */
 object FA_CLOUD_SHOWERS_WATER: Icon {
 	
 	override val name get() = "Cloud Showers-water"

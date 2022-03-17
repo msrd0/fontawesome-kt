@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** location-arrow */
 object FA_LOCATION_ARROW: Icon {
 	
 	override val name get() = "location-arrow"

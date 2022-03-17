@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Record Vinyl */
 object FA_RECORD_VINYL: Icon {
 	
 	override val name get() = "Record Vinyl"

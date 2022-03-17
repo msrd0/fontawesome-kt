@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bath */
 object FA_BATH: Icon {
 	
 	override val name get() = "Bath"
@@ -38,4 +39,5 @@ object FA_BATH: Icon {
 	
 }
 
+/** Alias for [FA_BATH]. */
 val FA_BATHTUB = FA_BATH

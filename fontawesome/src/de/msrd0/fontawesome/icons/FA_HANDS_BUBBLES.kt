@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hands bubbles */
 object FA_HANDS_BUBBLES: Icon {
 	
 	override val name get() = "Hands bubbles"
@@ -38,4 +39,5 @@ object FA_HANDS_BUBBLES: Icon {
 	
 }
 
+/** Alias for [FA_HANDS_BUBBLES]. */
 val FA_HANDS_WASH = FA_HANDS_BUBBLES

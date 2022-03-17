@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Pushed */
 object FA_PUSHED: Icon {
 	
 	override val name get() = "Pushed"

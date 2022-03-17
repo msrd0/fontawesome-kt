@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Magnifying glass plus */
 object FA_MAGNIFYING_GLASS_PLUS: Icon {
 	
 	override val name get() = "Magnifying glass plus"
@@ -38,4 +39,5 @@ object FA_MAGNIFYING_GLASS_PLUS: Icon {
 	
 }
 
+/** Alias for [FA_MAGNIFYING_GLASS_PLUS]. */
 val FA_SEARCH_PLUS = FA_MAGNIFYING_GLASS_PLUS

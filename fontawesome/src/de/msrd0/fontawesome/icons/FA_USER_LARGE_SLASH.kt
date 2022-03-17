@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** User large slash */
 object FA_USER_LARGE_SLASH: Icon {
 	
 	override val name get() = "User large slash"
@@ -38,4 +39,5 @@ object FA_USER_LARGE_SLASH: Icon {
 	
 }
 
+/** Alias for [FA_USER_LARGE_SLASH]. */
 val FA_USER_ALT_SLASH = FA_USER_LARGE_SLASH

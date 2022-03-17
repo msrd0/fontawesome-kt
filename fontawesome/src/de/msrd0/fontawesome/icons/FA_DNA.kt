@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** DNA */
 object FA_DNA: Icon {
 	
 	override val name get() = "DNA"

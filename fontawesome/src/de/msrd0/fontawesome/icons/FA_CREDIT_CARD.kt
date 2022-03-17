@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Credit Card */
 object FA_CREDIT_CARD: Icon {
 	
 	override val name get() = "Credit Card"
@@ -40,4 +41,5 @@ object FA_CREDIT_CARD: Icon {
 	
 }
 
+/** Alias for [FA_CREDIT_CARD]. */
 val FA_CREDIT_CARD_ALT = FA_CREDIT_CARD

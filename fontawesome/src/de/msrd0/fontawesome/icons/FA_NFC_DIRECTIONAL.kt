@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** NFC Directional */
 object FA_NFC_DIRECTIONAL: Icon {
 	
 	override val name get() = "NFC Directional"

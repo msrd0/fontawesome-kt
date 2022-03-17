@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hryvnia sign */
 object FA_HRYVNIA_SIGN: Icon {
 	
 	override val name get() = "Hryvnia sign"
@@ -38,4 +39,5 @@ object FA_HRYVNIA_SIGN: Icon {
 	
 }
 
+/** Alias for [FA_HRYVNIA_SIGN]. */
 val FA_HRYVNIA = FA_HRYVNIA_SIGN

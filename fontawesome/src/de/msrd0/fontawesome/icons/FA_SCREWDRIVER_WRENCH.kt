@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Screwdriver wrench */
 object FA_SCREWDRIVER_WRENCH: Icon {
 	
 	override val name get() = "Screwdriver wrench"
@@ -38,4 +39,5 @@ object FA_SCREWDRIVER_WRENCH: Icon {
 	
 }
 
+/** Alias for [FA_SCREWDRIVER_WRENCH]. */
 val FA_TOOLS = FA_SCREWDRIVER_WRENCH

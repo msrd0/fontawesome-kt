@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Ellipsis vertical */
 object FA_ELLIPSIS_VERTICAL: Icon {
 	
 	override val name get() = "Ellipsis vertical"
@@ -38,4 +39,5 @@ object FA_ELLIPSIS_VERTICAL: Icon {
 	
 }
 
+/** Alias for [FA_ELLIPSIS_VERTICAL]. */
 val FA_ELLIPSIS_V = FA_ELLIPSIS_VERTICAL

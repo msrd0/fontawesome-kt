@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Holly Berry */
 object FA_HOLLY_BERRY: Icon {
 	
 	override val name get() = "Holly Berry"

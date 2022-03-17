@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Blender Phone */
 object FA_BLENDER_PHONE: Icon {
 	
 	override val name get() = "Blender Phone"

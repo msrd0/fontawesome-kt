@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Unlock keyhole */
 object FA_UNLOCK_KEYHOLE: Icon {
 	
 	override val name get() = "Unlock keyhole"
@@ -38,4 +39,5 @@ object FA_UNLOCK_KEYHOLE: Icon {
 	
 }
 
+/** Alias for [FA_UNLOCK_KEYHOLE]. */
 val FA_UNLOCK_ALT = FA_UNLOCK_KEYHOLE

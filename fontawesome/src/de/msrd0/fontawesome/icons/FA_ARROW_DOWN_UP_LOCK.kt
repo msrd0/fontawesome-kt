@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow Down-up-lock */
 object FA_ARROW_DOWN_UP_LOCK: Icon {
 	
 	override val name get() = "Arrow Down-up-lock"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow right to bracket */
 object FA_ARROW_RIGHT_TO_BRACKET: Icon {
 	
 	override val name get() = "Arrow right to bracket"
@@ -38,4 +39,5 @@ object FA_ARROW_RIGHT_TO_BRACKET: Icon {
 	
 }
 
+/** Alias for [FA_ARROW_RIGHT_TO_BRACKET]. */
 val FA_SIGN_IN = FA_ARROW_RIGHT_TO_BRACKET

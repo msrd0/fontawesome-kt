@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Neuter */
 object FA_NEUTER: Icon {
 	
 	override val name get() = "Neuter"

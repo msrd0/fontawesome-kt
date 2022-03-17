@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Envelopes bulk */
 object FA_ENVELOPES_BULK: Icon {
 	
 	override val name get() = "Envelopes bulk"
@@ -38,4 +39,5 @@ object FA_ENVELOPES_BULK: Icon {
 	
 }
 
+/** Alias for [FA_ENVELOPES_BULK]. */
 val FA_MAIL_BULK = FA_ENVELOPES_BULK

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Money bill 1 wave */
 object FA_MONEY_BILL_1_WAVE: Icon {
 	
 	override val name get() = "Money bill 1 wave"
@@ -38,4 +39,5 @@ object FA_MONEY_BILL_1_WAVE: Icon {
 	
 }
 
+/** Alias for [FA_MONEY_BILL_1_WAVE]. */
 val FA_MONEY_BILL_WAVE_ALT = FA_MONEY_BILL_1_WAVE

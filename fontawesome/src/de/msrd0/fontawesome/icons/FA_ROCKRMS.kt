@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Rockrms */
 object FA_ROCKRMS: Icon {
 	
 	override val name get() = "Rockrms"

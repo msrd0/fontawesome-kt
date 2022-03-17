@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Up down left right */
 object FA_UP_DOWN_LEFT_RIGHT: Icon {
 	
 	override val name get() = "Up down left right"
@@ -38,4 +39,5 @@ object FA_UP_DOWN_LEFT_RIGHT: Icon {
 	
 }
 
+/** Alias for [FA_UP_DOWN_LEFT_RIGHT]. */
 val FA_ARROWS_ALT = FA_UP_DOWN_LEFT_RIGHT

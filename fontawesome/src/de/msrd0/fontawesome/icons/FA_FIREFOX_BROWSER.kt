@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Firefox Browser */
 object FA_FIREFOX_BROWSER: Icon {
 	
 	override val name get() = "Firefox Browser"

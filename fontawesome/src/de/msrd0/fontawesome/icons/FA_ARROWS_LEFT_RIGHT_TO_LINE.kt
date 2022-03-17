@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrows Left-right-to-line */
 object FA_ARROWS_LEFT_RIGHT_TO_LINE: Icon {
 	
 	override val name get() = "Arrows Left-right-to-line"

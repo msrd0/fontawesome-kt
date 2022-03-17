@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Faucet Drip */
 object FA_FAUCET_DRIP: Icon {
 	
 	override val name get() = "Faucet Drip"

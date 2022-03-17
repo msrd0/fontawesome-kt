@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Calendar Days */
 object FA_CALENDAR_DAYS: Icon {
 	
 	override val name get() = "Calendar Days"
@@ -40,4 +41,5 @@ object FA_CALENDAR_DAYS: Icon {
 	
 }
 
+/** Alias for [FA_CALENDAR_DAYS]. */
 val FA_CALENDAR_ALT = FA_CALENDAR_DAYS

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Star and Crescent */
 object FA_STAR_AND_CRESCENT: Icon {
 	
 	override val name get() = "Star and Crescent"

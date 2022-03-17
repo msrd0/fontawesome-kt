@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Bars staggered */
 object FA_BARS_STAGGERED: Icon {
 	
 	override val name get() = "Bars staggered"
@@ -38,6 +39,8 @@ object FA_BARS_STAGGERED: Icon {
 	
 }
 
+/** Alias for [FA_BARS_STAGGERED]. */
 val FA_REORDER = FA_BARS_STAGGERED
 
+/** Alias for [FA_BARS_STAGGERED]. */
 val FA_STREAM = FA_BARS_STAGGERED

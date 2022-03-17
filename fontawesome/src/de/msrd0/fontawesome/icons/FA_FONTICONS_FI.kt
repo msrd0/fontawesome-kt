@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Fonticons Fi */
 object FA_FONTICONS_FI: Icon {
 	
 	override val name get() = "Fonticons Fi"

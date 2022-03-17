@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Get Pocket */
 object FA_GET_POCKET: Icon {
 	
 	override val name get() = "Get Pocket"

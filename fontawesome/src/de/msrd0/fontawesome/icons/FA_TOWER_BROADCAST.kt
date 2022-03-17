@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Tower broadcast */
 object FA_TOWER_BROADCAST: Icon {
 	
 	override val name get() = "Tower broadcast"
@@ -38,4 +39,5 @@ object FA_TOWER_BROADCAST: Icon {
 	
 }
 
+/** Alias for [FA_TOWER_BROADCAST]. */
 val FA_BROADCAST_TOWER = FA_TOWER_BROADCAST

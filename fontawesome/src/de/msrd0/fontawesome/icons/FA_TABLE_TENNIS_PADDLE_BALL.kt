@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Table tennis paddle ball */
 object FA_TABLE_TENNIS_PADDLE_BALL: Icon {
 	
 	override val name get() = "Table tennis paddle ball"
@@ -38,6 +39,8 @@ object FA_TABLE_TENNIS_PADDLE_BALL: Icon {
 	
 }
 
+/** Alias for [FA_TABLE_TENNIS_PADDLE_BALL]. */
 val FA_PING_PONG_PADDLE_BALL = FA_TABLE_TENNIS_PADDLE_BALL
 
+/** Alias for [FA_TABLE_TENNIS_PADDLE_BALL]. */
 val FA_TABLE_TENNIS = FA_TABLE_TENNIS_PADDLE_BALL

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Mars and Venus Burst */
 object FA_MARS_AND_VENUS_BURST: Icon {
 	
 	override val name get() = "Mars and Venus Burst"

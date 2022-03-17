@@ -25,6 +25,7 @@ import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Font Awesome */
 object FA_FONT_AWESOME: Icon {
 	
 	override val name get() = "Font Awesome"
@@ -42,6 +43,8 @@ object FA_FONT_AWESOME: Icon {
 	
 }
 
+/** Alias for [FA_FONT_AWESOME]. */
 val FA_FONT_AWESOME_FLAG = FA_FONT_AWESOME
 
+/** Alias for [FA_FONT_AWESOME]. */
 val FA_FONT_AWESOME_LOGO_FULL = FA_FONT_AWESOME

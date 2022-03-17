@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** list-ul */
 object FA_LIST_UL: Icon {
 	
 	override val name get() = "list-ul"
@@ -38,4 +39,5 @@ object FA_LIST_UL: Icon {
 	
 }
 
+/** Alias for [FA_LIST_UL]. */
 val FA_LIST_DOTS = FA_LIST_UL

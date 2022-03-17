@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Tencent Weibo */
 object FA_TENCENT_WEIBO: Icon {
 	
 	override val name get() = "Tencent Weibo"

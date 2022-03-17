@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Eye low vision */
 object FA_EYE_LOW_VISION: Icon {
 	
 	override val name get() = "Eye low vision"
@@ -38,4 +39,5 @@ object FA_EYE_LOW_VISION: Icon {
 	
 }
 
+/** Alias for [FA_EYE_LOW_VISION]. */
 val FA_LOW_VISION = FA_EYE_LOW_VISION

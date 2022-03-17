@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** House laptop */
 object FA_HOUSE_LAPTOP: Icon {
 	
 	override val name get() = "House laptop"
@@ -38,4 +39,5 @@ object FA_HOUSE_LAPTOP: Icon {
 	
 }
 
+/** Alias for [FA_HOUSE_LAPTOP]. */
 val FA_LAPTOP_HOUSE = FA_HOUSE_LAPTOP

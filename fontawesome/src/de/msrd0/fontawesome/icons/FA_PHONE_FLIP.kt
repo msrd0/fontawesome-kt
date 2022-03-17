@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Phone flip */
 object FA_PHONE_FLIP: Icon {
 	
 	override val name get() = "Phone flip"
@@ -38,4 +39,5 @@ object FA_PHONE_FLIP: Icon {
 	
 }
 
+/** Alias for [FA_PHONE_FLIP]. */
 val FA_PHONE_ALT = FA_PHONE_FLIP

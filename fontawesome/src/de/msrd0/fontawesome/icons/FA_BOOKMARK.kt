@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** bookmark */
 object FA_BOOKMARK: Icon {
 	
 	override val name get() = "bookmark"

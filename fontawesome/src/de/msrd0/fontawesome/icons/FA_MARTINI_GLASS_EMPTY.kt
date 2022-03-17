@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Martini glass empty */
 object FA_MARTINI_GLASS_EMPTY: Icon {
 	
 	override val name get() = "Martini glass empty"
@@ -38,4 +39,5 @@ object FA_MARTINI_GLASS_EMPTY: Icon {
 	
 }
 
+/** Alias for [FA_MARTINI_GLASS_EMPTY]. */
 val FA_GLASS_MARTINI = FA_MARTINI_GLASS_EMPTY

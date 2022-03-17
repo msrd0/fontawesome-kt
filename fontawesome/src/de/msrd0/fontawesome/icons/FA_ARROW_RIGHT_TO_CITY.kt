@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow Right-to-city */
 object FA_ARROW_RIGHT_TO_CITY: Icon {
 	
 	override val name get() = "Arrow Right-to-city"

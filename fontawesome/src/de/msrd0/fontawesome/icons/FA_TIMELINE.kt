@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Timeline */
 object FA_TIMELINE: Icon {
 	
 	override val name get() = "Timeline"

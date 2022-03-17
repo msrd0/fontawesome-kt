@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Link */
 object FA_LINK: Icon {
 	
 	override val name get() = "Link"
@@ -38,4 +39,5 @@ object FA_LINK: Icon {
 	
 }
 
+/** Alias for [FA_LINK]. */
 val FA_CHAIN = FA_LINK

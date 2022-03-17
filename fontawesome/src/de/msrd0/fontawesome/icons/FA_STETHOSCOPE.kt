@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Stethoscope */
 object FA_STETHOSCOPE: Icon {
 	
 	override val name get() = "Stethoscope"

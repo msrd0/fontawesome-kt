@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** WiFi */
 object FA_WIFI: Icon {
 	
 	override val name get() = "WiFi"
@@ -38,6 +39,8 @@ object FA_WIFI: Icon {
 	
 }
 
+/** Alias for [FA_WIFI]. */
 val FA_WIFI_3 = FA_WIFI
 
+/** Alias for [FA_WIFI]. */
 val FA_WIFI_STRONG = FA_WIFI

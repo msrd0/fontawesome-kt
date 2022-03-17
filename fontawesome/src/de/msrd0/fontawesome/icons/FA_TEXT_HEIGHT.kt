@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** text-height */
 object FA_TEXT_HEIGHT: Icon {
 	
 	override val name get() = "text-height"

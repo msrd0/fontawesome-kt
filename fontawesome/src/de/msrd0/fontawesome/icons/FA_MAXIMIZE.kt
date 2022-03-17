@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Maximize */
 object FA_MAXIMIZE: Icon {
 	
 	override val name get() = "Maximize"
@@ -38,4 +39,5 @@ object FA_MAXIMIZE: Icon {
 	
 }
 
+/** Alias for [FA_MAXIMIZE]. */
 val FA_EXPAND_ARROWS_ALT = FA_MAXIMIZE

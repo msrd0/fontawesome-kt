@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Signs post */
 object FA_SIGNS_POST: Icon {
 	
 	override val name get() = "Signs post"
@@ -38,4 +39,5 @@ object FA_SIGNS_POST: Icon {
 	
 }
 
+/** Alias for [FA_SIGNS_POST]. */
 val FA_MAP_SIGNS = FA_SIGNS_POST

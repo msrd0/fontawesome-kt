@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Speaker Deck */
 object FA_SPEAKER_DECK: Icon {
 	
 	override val name get() = "Speaker Deck"

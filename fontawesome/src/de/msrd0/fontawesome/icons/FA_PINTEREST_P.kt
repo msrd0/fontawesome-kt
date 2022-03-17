@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Pinterest P */
 object FA_PINTEREST_P: Icon {
 	
 	override val name get() = "Pinterest P"

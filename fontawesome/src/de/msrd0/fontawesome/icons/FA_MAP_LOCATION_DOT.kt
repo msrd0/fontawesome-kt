@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Map location dot */
 object FA_MAP_LOCATION_DOT: Icon {
 	
 	override val name get() = "Map location dot"
@@ -38,4 +39,5 @@ object FA_MAP_LOCATION_DOT: Icon {
 	
 }
 
+/** Alias for [FA_MAP_LOCATION_DOT]. */
 val FA_MAP_MARKED_ALT = FA_MAP_LOCATION_DOT

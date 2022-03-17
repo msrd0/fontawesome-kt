@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Outdent */
 object FA_OUTDENT: Icon {
 	
 	override val name get() = "Outdent"
@@ -38,4 +39,5 @@ object FA_OUTDENT: Icon {
 	
 }
 
+/** Alias for [FA_OUTDENT]. */
 val FA_DEDENT = FA_OUTDENT

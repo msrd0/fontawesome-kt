@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Steam Square */
 object FA_STEAM_SQUARE: Icon {
 	
 	override val name get() = "Steam Square"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Vial Circle-check */
 object FA_VIAL_CIRCLE_CHECK: Icon {
 	
 	override val name get() = "Vial Circle-check"

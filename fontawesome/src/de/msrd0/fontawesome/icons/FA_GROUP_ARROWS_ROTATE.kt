@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Group Arrows-rotate */
 object FA_GROUP_ARROWS_ROTATE: Icon {
 	
 	override val name get() = "Group Arrows-rotate"

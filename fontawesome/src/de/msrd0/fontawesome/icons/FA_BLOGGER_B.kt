@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Blogger B */
 object FA_BLOGGER_B: Icon {
 	
 	override val name get() = "Blogger B"

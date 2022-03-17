@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Anchor Circle-check */
 object FA_ANCHOR_CIRCLE_CHECK: Icon {
 	
 	override val name get() = "Anchor Circle-check"

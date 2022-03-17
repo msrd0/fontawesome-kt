@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Paint Roller */
 object FA_PAINT_ROLLER: Icon {
 	
 	override val name get() = "Paint Roller"

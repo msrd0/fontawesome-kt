@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square share nodes */
 object FA_SQUARE_SHARE_NODES: Icon {
 	
 	override val name get() = "Square share nodes"
@@ -38,4 +39,5 @@ object FA_SQUARE_SHARE_NODES: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_SHARE_NODES]. */
 val FA_SHARE_ALT_SQUARE = FA_SQUARE_SHARE_NODES

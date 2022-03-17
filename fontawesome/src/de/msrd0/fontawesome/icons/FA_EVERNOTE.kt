@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Evernote */
 object FA_EVERNOTE: Icon {
 	
 	override val name get() = "Evernote"

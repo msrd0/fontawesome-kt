@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** 42.group */
 object FA_42_GROUP: Icon {
 	
 	override val name get() = "42.group"
@@ -38,4 +39,5 @@ object FA_42_GROUP: Icon {
 	
 }
 
+/** Alias for [FA_42_GROUP]. */
 val FA_INNOSOFT = FA_42_GROUP

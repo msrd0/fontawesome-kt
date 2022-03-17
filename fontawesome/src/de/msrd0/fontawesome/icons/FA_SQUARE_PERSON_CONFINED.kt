@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square Person-confined */
 object FA_SQUARE_PERSON_CONFINED: Icon {
 	
 	override val name get() = "Square Person-confined"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Square rss */
 object FA_SQUARE_RSS: Icon {
 	
 	override val name get() = "Square rss"
@@ -38,4 +39,5 @@ object FA_SQUARE_RSS: Icon {
 	
 }
 
+/** Alias for [FA_SQUARE_RSS]. */
 val FA_RSS_SQUARE = FA_SQUARE_RSS

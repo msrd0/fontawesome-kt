@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** InstaLOD */
 object FA_INSTALOD: Icon {
 	
 	override val name get() = "InstaLOD"

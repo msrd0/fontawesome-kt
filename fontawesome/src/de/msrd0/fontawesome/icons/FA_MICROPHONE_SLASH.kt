@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Microphone Slash */
 object FA_MICROPHONE_SLASH: Icon {
 	
 	override val name get() = "Microphone Slash"

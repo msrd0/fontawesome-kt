@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** align-right */
 object FA_ALIGN_RIGHT: Icon {
 	
 	override val name get() = "align-right"

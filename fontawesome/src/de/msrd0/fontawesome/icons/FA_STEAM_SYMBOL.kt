@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Steam Symbol */
 object FA_STEAM_SYMBOL: Icon {
 	
 	override val name get() = "Steam Symbol"

@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Compass drafting */
 object FA_COMPASS_DRAFTING: Icon {
 	
 	override val name get() = "Compass drafting"
@@ -38,4 +39,5 @@ object FA_COMPASS_DRAFTING: Icon {
 	
 }
 
+/** Alias for [FA_COMPASS_DRAFTING]. */
 val FA_DRAFTING_COMPASS = FA_COMPASS_DRAFTING

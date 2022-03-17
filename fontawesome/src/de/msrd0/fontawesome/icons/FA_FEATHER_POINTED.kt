@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Feather pointed */
 object FA_FEATHER_POINTED: Icon {
 	
 	override val name get() = "Feather pointed"
@@ -38,4 +39,5 @@ object FA_FEATHER_POINTED: Icon {
 	
 }
 
+/** Alias for [FA_FEATHER_POINTED]. */
 val FA_FEATHER_ALT = FA_FEATHER_POINTED

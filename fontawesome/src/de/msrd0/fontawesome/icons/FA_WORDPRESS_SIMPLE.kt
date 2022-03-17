@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Wordpress Simple */
 object FA_WORDPRESS_SIMPLE: Icon {
 	
 	override val name get() = "Wordpress Simple"

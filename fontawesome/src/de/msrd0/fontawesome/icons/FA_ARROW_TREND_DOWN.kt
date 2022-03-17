@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Arrow trend down */
 object FA_ARROW_TREND_DOWN: Icon {
 	
 	override val name get() = "Arrow trend down"

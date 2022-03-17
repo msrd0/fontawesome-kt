@@ -24,6 +24,7 @@ import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 import de.msrd0.fontawesome.Style.REGULAR
 
+/** Folder */
 object FA_FOLDER: Icon {
 	
 	override val name get() = "Folder"
@@ -40,4 +41,5 @@ object FA_FOLDER: Icon {
 	
 }
 
+/** Alias for [FA_FOLDER]. */
 val FA_FOLDER_BLANK = FA_FOLDER

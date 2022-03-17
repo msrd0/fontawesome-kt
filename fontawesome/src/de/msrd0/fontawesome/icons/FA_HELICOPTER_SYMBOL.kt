@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Helicopter Symbol */
 object FA_HELICOPTER_SYMBOL: Icon {
 	
 	override val name get() = "Helicopter Symbol"

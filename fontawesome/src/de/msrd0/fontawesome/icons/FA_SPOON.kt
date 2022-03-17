@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Spoon */
 object FA_SPOON: Icon {
 	
 	override val name get() = "Spoon"
@@ -38,4 +39,5 @@ object FA_SPOON: Icon {
 	
 }
 
+/** Alias for [FA_SPOON]. */
 val FA_UTENSIL_SPOON = FA_SPOON

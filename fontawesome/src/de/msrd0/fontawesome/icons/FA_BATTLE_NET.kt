@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.BRANDS
 
+/** Battle.net */
 object FA_BATTLE_NET: Icon {
 	
 	override val name get() = "Battle.net"

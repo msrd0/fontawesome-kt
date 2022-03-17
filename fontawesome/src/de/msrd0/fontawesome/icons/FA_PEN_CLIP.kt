@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Pen clip */
 object FA_PEN_CLIP: Icon {
 	
 	override val name get() = "Pen clip"
@@ -38,4 +39,5 @@ object FA_PEN_CLIP: Icon {
 	
 }
 
+/** Alias for [FA_PEN_CLIP]. */
 val FA_PEN_ALT = FA_PEN_CLIP

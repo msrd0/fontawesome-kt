@@ -23,6 +23,7 @@ import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
 
+/** Hand holding dollar */
 object FA_HAND_HOLDING_DOLLAR: Icon {
 	
 	override val name get() = "Hand holding dollar"
@@ -38,4 +39,5 @@ object FA_HAND_HOLDING_DOLLAR: Icon {
 	
 }
 
+/** Alias for [FA_HAND_HOLDING_DOLLAR]. */
 val FA_HAND_HOLDING_USD = FA_HAND_HOLDING_DOLLAR
