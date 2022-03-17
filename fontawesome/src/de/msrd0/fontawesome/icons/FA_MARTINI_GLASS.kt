@@ -25,15 +25,17 @@ import de.msrd0.fontawesome.Style.SOLID
 
 object FA_MARTINI_GLASS: Icon {
 	
-	override val name get() = "Martini Glass"
+	override val name get() = "Martini glass"
 	
-	override val unicode get() = "f000"
+	override val unicode get() = "f57b"
 	
 	override val styles get() = setOf(SOLID)
 	
 	override fun svg(style: Style) = when(style) {
-		SOLID -> """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M502.05 57.6C523.3 36.34 508.25 0 478.2 0H33.8C3.75 0-11.3 36.34 9.95 57.6L224 271.64V464h-56c-22.09 0-40 17.91-40 40 0 4.42 3.58 8 8 8h240c4.42 0 8-3.58 8-8 0-22.09-17.91-40-40-40h-56V271.64L502.05 57.6z"/></svg>"""
+		SOLID -> """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M502 57.63C523.3 36.38 508.3 0 478.3 0H33.72C3.711 0-11.29 36.38 9.962 57.63l214 214V448H175.1c-26.51 0-47.1 21.49-47.1 48c0 8.836 7.164 16 16 16h224c8.836 0 16-7.164 16-16c0-26.51-21.49-48-48-48h-47.1V271.6L502 57.63zM405.1 64l-64.01 64H170.9L106.9 64H405.1z"/></svg>"""
 		else -> null
 	}
 	
 }
+
+val FA_GLASS_MARTINI_ALT = FA_MARTINI_GLASS

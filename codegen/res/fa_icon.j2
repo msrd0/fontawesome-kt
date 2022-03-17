@@ -4,26 +4,32 @@ package de.msrd0.fontawesome.icons
 import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 {%- for style in icon.styles %}
-import de.msrd0.fontawesome.Style.{{ style | upper }}
+import de.msrd0.fontawesome.Style.{{style | upper}}
 {%- endfor %}
 
-object {{ icon.classname }}: Icon {
+object {{icon.classname}}: Icon {
 	
-	override val name get() = "{{ icon.label }}"
+	override val name get() = "{{icon.label}}"
 	
-	override val unicode get() = "{{ icon.unicode }}"
+	override val unicode get() = "{{icon.unicode}}"
 	
 	override val styles get() = setOf(
 		{%- for style in icon.styles -%}
-		{{ style | upper }}{% if loop.last == false %}, {% endif %}
+		{{style | upper}}{% if loop.last == false %}, {% endif %}
 		{%- endfor -%}
 	)
 	
 	override fun svg(style: Style) = when(style) {
 		{%- for svg in icon.svgList %}
-		{{ svg.key | upper }} -> """{{ svg.value.raw }}"""
+		{{svg.key | upper}} -> """{{svg.value.raw}}"""
 		{%- endfor %}
 		else -> null
 	}
 	
 }
+
+{%- for alias in icon.aliasClassnames %}
+
+val {{alias}} = {{icon.classname}}
+
+{%- endfor %}

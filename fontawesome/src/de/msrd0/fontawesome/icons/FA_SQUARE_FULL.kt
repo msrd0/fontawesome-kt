@@ -22,6 +22,7 @@ package de.msrd0.fontawesome.icons
 import de.msrd0.fontawesome.Icon
 import de.msrd0.fontawesome.Style
 import de.msrd0.fontawesome.Style.SOLID
+import de.msrd0.fontawesome.Style.REGULAR
 
 object FA_SQUARE_FULL: Icon {
 	
@@ -29,10 +30,11 @@ object FA_SQUARE_FULL: Icon {
 	
 	override val unicode get() = "f45c"
 	
-	override val styles get() = setOf(SOLID)
+	override val styles get() = setOf(SOLID, REGULAR)
 	
 	override fun svg(style: Style) = when(style) {
-		SOLID -> """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 512H0V0h512v512z"/></svg>"""
+		SOLID -> """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 0H512V512H0V0z"/></svg>"""
+		REGULAR -> """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 0V512H0V0H512zM464 48H48V464H464V48z"/></svg>"""
 		else -> null
 	}
 	

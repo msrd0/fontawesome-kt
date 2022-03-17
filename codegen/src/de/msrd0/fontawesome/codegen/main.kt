@@ -14,6 +14,7 @@ object Main {
 	@JvmStatic
 	fun main(args: Array<String>) {
 		val json = Json {
+			explicitNulls = false
 			ignoreUnknownKeys = true
 		}
 		

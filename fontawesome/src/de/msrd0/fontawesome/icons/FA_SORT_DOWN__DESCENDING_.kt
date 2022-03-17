@@ -32,8 +32,10 @@ object FA_SORT_DOWN__DESCENDING_: Icon {
 	override val styles get() = setOf(SOLID)
 	
 	override fun svg(style: Style) = when(style) {
-		SOLID -> """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M41 288h238c21.4 0 32.1 25.9 17 41L177 448c-9.4 9.4-24.6 9.4-33.9 0L24 329c-15.1-15.1-4.4-41 17-41z"/></svg>"""
+		SOLID -> """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M311.9 335.1l-132.4 136.8C174.1 477.3 167.1 480 160 480c-7.055 0-14.12-2.702-19.47-8.109l-132.4-136.8C-9.229 317.8 3.055 288 27.66 288h264.7C316.9 288 329.2 317.8 311.9 335.1z"/></svg>"""
 		else -> null
 	}
 	
 }
+
+val FA_SORT_DESC = FA_SORT_DOWN__DESCENDING_

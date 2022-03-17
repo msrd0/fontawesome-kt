@@ -1,39 +1,53 @@
 package de.msrd0.fontawesome.codegen
 
+import java.util.SortedSet
 import kotlinx.serialization.Serializable
+
+private fun String.toClassname(): String = "FA_" + replace(Regex("[^a-zA-Z0-9]"), "_").uppercase()
 
 @Serializable
 data class Icon(
-		/// fontawesome versions in which this icon was changed
+		/** fontawesome versions in which this icon was changed */
 		val changes: List<String>,
-	
-		/// the styles this icon is available in
+		
+		/** the styles this icon is available in */
 		val styles: Set<String>,
-	
-		/// 4-digit unicode hex value
+		
+		/** 4-digit unicode hex value */
 		val unicode: String,
-	
-		/// label/name of the icon
+		
+		/** aliases of this icon */
+		val aliases: Aliases?,
+		
+		/** label/name of the icon */
 		val label: String,
-	
-		/// inlined svg data
+		
+		/** inlined svg data */
 		val svg: Map<String, IconSvg>,
-	
-		/// styles that are available in fontawesome free
+		
+		/** styles that are available in fontawesome free */
 		val free: Set<String>
 ) {
 	val classname: String
-		get() = "FA_" + label.replace(Regex("[^a-zA-Z0-9]"), "_").toUpperCase()
+		get() = label.toClassname()
+	
+	val aliasClassnames: SortedSet<String>
+		get() = aliases?.names.orEmpty().map(String::toClassname).toSortedSet()
 	
 	val svgList: Set<Map.Entry<String, IconSvg>>
 		get() = svg.entries
 }
 
 @Serializable
+data class Aliases(
+		val names: List<String>?
+)
+
+@Serializable
 data class IconSvg(
 		val last_modified: Long,
 		val raw: String,
-		val viewBox: List<String>,
+		val viewBox: List<Int>,
 		val width: Int,
 		val height: Int,
 		val path: String

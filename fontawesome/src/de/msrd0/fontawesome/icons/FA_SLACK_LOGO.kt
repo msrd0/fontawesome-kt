@@ -37,3 +37,5 @@ object FA_SLACK_LOGO: Icon {
 	}
 	
 }
+
+val FA_SLACK_HASH = FA_SLACK_LOGO
