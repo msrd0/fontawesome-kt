@@ -9,7 +9,7 @@ This library is not affiliated with FontAwesome.
 ```gradle
 repositories {
 	mavenCentral()
-	maven { url = uri("https://msrd0cdn.de/maven/") }
+	maven { url = uri("https://maven.msrd0.de/repo/") }
 }
 
 dependencies {

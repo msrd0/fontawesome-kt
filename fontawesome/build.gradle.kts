@@ -33,10 +33,11 @@ val repo = "https://github.com/msrd0/fontawesome-kt"
 publishing {
 	repositories {
 		maven {
-			// first, download https://msrd0cdn.de/maven/ to /tmp/repo
-			// then, run `gradle publish`
-			// last, upload the changes from /tmp/repo
-			url = uri("file:/tmp/repo/")
+			url = uri("https://maven.msrd0.de/repo/")
+			credentials {
+				username = findProperty("de.msrd0.maven.username")!! as String
+				password = findProperty("de.msrd0.maven.password")!! as String
+			}
 		}
 	}
 	
