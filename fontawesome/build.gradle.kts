@@ -35,8 +35,8 @@ publishing {
 		maven {
 			url = uri("https://maven.msrd0.de/repo/")
 			credentials {
-				username = findProperty("de.msrd0.maven.username")!! as String
-				password = findProperty("de.msrd0.maven.password")!! as String
+				username = findProperty("de.msrd0.maven.username") as String?
+				password = findProperty("de.msrd0.maven.password") as String?
 			}
 		}
 	}
