@@ -1,7 +1,7 @@
 buildscript {
 	ext.kotlinVersion = '1.8.21'
 	ext.kotlinxSerializationVersion = '1.5.1'
-	ext.pebbleVersion = '3.1.6'
+	ext.pebbleVersion = '3.2.1'
 	
 	repositories {
 		mavenCentral()
