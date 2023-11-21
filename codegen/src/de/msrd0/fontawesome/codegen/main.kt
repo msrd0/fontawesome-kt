@@ -1,7 +1,7 @@
 package de.msrd0.fontawesome.codegen
 
-import com.mitchellbosecke.pebble.PebbleEngine
-import com.mitchellbosecke.pebble.loader.ClasspathLoader
+import io.pebbletemplates.pebble.PebbleEngine
+import io.pebbletemplates.pebble.loader.ClasspathLoader
 import java.io.File
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
